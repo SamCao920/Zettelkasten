@@ -1,0 +1,38 @@
+---
+created: 2025-12-28T09:52:12-08:00
+updated: 2026-04-28T13:08:25-07:00
+---
+- Boao Hope City: China’s Libertarian city
+	- How it works, why it came into existence, how it is doing, and its future?
+- Complaints in the airport noise.
+	- Much of the complaints that the airport receives come from very few households.
+	- This is like NIMBY but for airports.
+	- Prevents efficiency gains, shift to supersonic aircraft, and prevents the plotting of aircraft routes that are the most efficient.
+- The similarities between East of Eden and The Brothers Karamazov
+- Why Frida Khalo is a bad painter.
+- The death of a toad poem and Ikiru: is it that suffering is always grand, or is it that suffering is always meaningless? Or both? 
+	- What does this say about the art that portrays these ideas? How are they able to convey seemingly contradictory ideas on different readings?
+- Argument for objective aesthetics.
+- Separate the art from the artist.
+- Saint Saens third symphony
+- The art of Ensor
+- In defense of SparkNotes (for the students)
+	- A lot of books that we read in high schools are not very good, and it really isn't worth it for the student to have to read through a bunch of text that is bad and is boring to them.
+	- They could use the time instead to read books that actually interest them.
+- The incoherence of "rights"
+	- Rights are often contradictory and meaningless.
+- The US's development is going to be held back/is being held back by people's reluctance of engaging with new technology. 
+	- In the past the West has been at the forefront of innovation, and people accepted such change.
+	- Perhaps a reason people think that such change is bad now is that they increase inequality
+		- Also [[Because people moralize AI, they are unreasonably afraid of it]]
+	- This anti-technological viewpoint is bad.
+	- China does not have this problem.
+- Death of the renaissance man and by hyperspecialization in the age of ai
+- Freedom is categorically internally consistent
+- All art that is not purely aesthetics is political, and thus, propaganda
+- There was infanticide in many ancient societies. Many children who were disabled were simply left to die.
+	- Utilitarian, before utilitarianism was a thing?
+- In defense of X
+	- I like the community notes system.
+- In defense of prediction markets
+- 

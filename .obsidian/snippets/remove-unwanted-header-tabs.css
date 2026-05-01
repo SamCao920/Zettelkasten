@@ -1,0 +1,6 @@
+.workspace-tab-header[data-type="all-properties"],
+.workspace-tab-header[data-type="outgoing-link"],
+.workspace-tab-header[data-type="empty"],
+.workspace-tab-header[aria-label="Strange New Worlds"] {
+    display: none !important;
+}

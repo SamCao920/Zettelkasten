@@ -1,0 +1,21 @@
+{
+  "pathToPandoc": "C:\\Users\\samca\\AppData\\Local\\Pandoc\\pandoc.exe",
+  "tooltipDelay": 400,
+  "zoteroGroups": [
+    {
+      "id": 1,
+      "name": "My Library",
+      "lastUpdate": 1777263005864
+    }
+  ],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "pathToBibliography": "C:\\Users\\samca\\OneDrive\\Documents\\Obsidian\\Learning\\.pandoc\\ReThink.bib",
+  "cslStylePath": "C:\\Users\\samca\\OneDrive\\Documents\\Obsidian\\Learning\\.pandoc\\modern-language-association-notes.csl",
+  "enableCiteKeyCompletion": true,
+  "showCitekeyTooltips": true,
+  "pullFromZotero": false,
+  "zoteroPort": "23119",
+  "hideLinks": true
+}

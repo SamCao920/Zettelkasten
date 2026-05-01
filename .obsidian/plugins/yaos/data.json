@@ -1,0 +1,2640 @@
+{
+  "host": "https://yaos.fangyuansamcao.workers.dev",
+  "token": "29750d5f653dbf9300abbaeee38fa09ca43e96671d559931e7af4f19e7825f81",
+  "vaultId": "p-Rf_mWRyd0aoDBNj9jc5A",
+  "deviceName": "device-mnsfre7p",
+  "debug": false,
+  "excludePatterns": "",
+  "maxFileSizeKB": 2048,
+  "externalEditPolicy": "always",
+  "enableAttachmentSync": true,
+  "attachmentSyncExplicitlyConfigured": false,
+  "maxAttachmentSizeKB": 10240,
+  "attachmentConcurrency": 1,
+  "showRemoteCursors": true,
+  "updateRepoUrl": "",
+  "updateRepoBranch": "main",
+  "_diskIndex": {
+    "definitions/glossary.md": {
+      "mtime": 1776575876365,
+      "size": 16304
+    },
+    "6 - Notes/6.a - Claims/Z-score is the number of standard deviations above the mean of a particular value.md": {
+      "mtime": 1765134105000,
+      "size": 454
+    },
+    "6 - Notes/6.a - Claims/Yang of Sui's excessive spending, disregard for human life, and general poor management led to the collapse of the Sui.md": {
+      "mtime": 1765134105000,
+      "size": 849
+    },
+    "6 - Notes/6.a - Claims/Xi Jinping seeks to establish a revolutionary spirit to maintain ideological purity and prevent institutional decay.md": {
+      "mtime": 1766210116000,
+      "size": 639
+    },
+    "6 - Notes/6.a - Claims/Writing or saying something in fewer words will almost always make it better.md": {
+      "mtime": 1765134105844,
+      "size": 640
+    },
+    "6 - Notes/6.a - Claims/Wisdom is the virtue of scientific knowledge plus intellect.md": {
+      "mtime": 1776571767937,
+      "size": 1076
+    },
+    "6 - Notes/6.a - Claims/While the convenience yield of the dollar has not decrease, the convenience yield of treasuries have.md": {
+      "mtime": 1773286859731,
+      "size": 1321
+    },
+    "6 - Notes/6.a - Claims/While nuclear weapons served to unite the world under a common order in the past, today, it serves to fracture the global system.md": {
+      "mtime": 1773722919823,
+      "size": 937
+    },
+    "6 - Notes/6.a - Claims/While most people share a common set of fundamental beliefs regarding justice, more broadly, conceptions differ.md": {
+      "mtime": 1774896325749,
+      "size": 1268
+    },
+    "6 - Notes/6.a - Claims/While Mahan pursue's decisive battle, Corbett pursues disruption of enemy naval communication .md": {
+      "mtime": 1765134105780,
+      "size": 824
+    },
+    "6 - Notes/6.a - Claims/Whether a currency has exorbitant privilege is primarily determined by the existence of a viable alternative currency.md": {
+      "mtime": 1774473347196,
+      "size": 1488
+    },
+    "6 - Notes/6.a - Claims/When we focus too much on specific information, we may forget the broader context in which that information exists, leading to an erroneous conclusion.md": {
+      "mtime": 1765486553000,
+      "size": 941
+    },
+    "6 - Notes/6.a - Claims/When two genes are farther apart, it is more likely that recombination will occur.md": {
+      "mtime": 1765244024308,
+      "size": 678
+    },
+    "6 - Notes/6.a - Claims/When two conductors touch, they both acquire the same charge such that the overall charge is preserved.md": {
+      "mtime": 1765134105000,
+      "size": 847
+    },
+    "6 - Notes/6.a - Claims/When there is innovation, incumbents in a market are at a disadvantage.md": {
+      "mtime": 1773286865018,
+      "size": 1327
+    },
+    "6 - Notes/6.a - Claims/When the polarity of an amino acid is discussed, it is specifically referring to the polarity of the R group.md": {
+      "mtime": 1765134105000,
+      "size": 812
+    },
+    "6 - Notes/6.a - Claims/When a measure becomes a target, it ceases to be a good measure.md": {
+      "mtime": 1765134105000,
+      "size": 756
+    },
+    "6 - Notes/6.a - Claims/When a data set is divided my a constant, only the shape remains the same.md": {
+      "mtime": 1765134105594,
+      "size": 390
+    },
+    "6 - Notes/6.a - Claims/When a government is unable (or unwilling) to reform, the people may rise up in rebellion.md": {
+      "mtime": 1768166294267,
+      "size": 1543
+    },
+    "6 - Notes/6.a - Claims/When a country hits its fiscal limit, it can suffer a range of negative consequences.md": {
+      "mtime": 1773286859700,
+      "size": 1361
+    },
+    "6 - Notes/6.a - Claims/What is pleasurable to the good man is truly pleasurable.md": {
+      "mtime": 1776571767902,
+      "size": 1205
+    },
+    "6 - Notes/6.a - Claims/Western government is defined by constitutional liberalism, not democracy.md": {
+      "mtime": 1765134105528,
+      "size": 1064
+    },
+    "6 - Notes/6.a - Claims/Weak and Kafkaesque institutions created a large informal economy in Latin America.md": {
+      "mtime": 1773286783323,
+      "size": 2340
+    },
+    "6 - Notes/6.a - Claims/We should not have more friends than we can get intimate with.md": {
+      "mtime": 1776571767836,
+      "size": 767
+    },
+    "6 - Notes/6.a - Claims/We should accept the methodological approach of the original position, even though it is hypothetical.md": {
+      "mtime": 1774995410008,
+      "size": 876
+    },
+    "6 - Notes/6.a - Claims/We have power over nothing except our will.md": {
+      "mtime": 1765134105495,
+      "size": 542
+    },
+    "6 - Notes/6.a - Claims/We find something funny because we feel a temporary sense of superiority.md": {
+      "mtime": 1774466047175,
+      "size": 743
+    },
+    "6 - Notes/6.a - Claims/We find something funny because it is a logical non-sequitur.md": {
+      "mtime": 1774471533183,
+      "size": 818
+    },
+    "6 - Notes/6.a - Claims/We find something funny because it grants us relief.md": {
+      "mtime": 1774471654099,
+      "size": 676
+    },
+    "6 - Notes/6.a - Claims/Water potential measures the potential energy of water in a system compared to pure water.md": {
+      "mtime": 1765134105462,
+      "size": 451
+    },
+    "6 - Notes/6.a - Claims/Virtue should be shaped by law and public education if possible; otherwise, it should be shaped by family or friends.md": {
+      "mtime": 1776571767823,
+      "size": 1129
+    },
+    "6 - Notes/6.a - Claims/Virtue must be repeatedly practiced to be manifest in oneself.md": {
+      "mtime": 1776571767799,
+      "size": 1065
+    },
+    "6 - Notes/6.a - Claims/Variability is spread, bias is inaccuracy.md": {
+      "mtime": 1768332054000,
+      "size": 1454
+    },
+    "6 - Notes/6.a - Claims/Understanding, good deliberation, and judgment are needed for the virtue of prudence.md": {
+      "mtime": 1776571767782,
+      "size": 1273
+    },
+    "6 - Notes/6.a - Claims/Value is different from price.md": {
+      "mtime": 1773286864981,
+      "size": 1552
+    },
+    "6 - Notes/6.a - Claims/Under standard Medicare, doctors are compensated for the quantity, not quality, of services they provide.md": {
+      "mtime": 1773287041809,
+      "size": 813
+    },
+    "6 - Notes/6.a - Claims/Under certain conditions, a wealth tax leads to greater investment in human capital and other intangible assets.md": {
+      "mtime": 1765134122000,
+      "size": 1850
+    },
+    "6 - Notes/6.a - Claims/Under a state of barbarism, typical legal & execution of moral norms no longer apply as they would under a sovereign state.md": {
+      "mtime": 1765134105000,
+      "size": 1033
+    },
+    "6 - Notes/6.a - Claims/Uncertainty is detrimental to growth in the short run, but indeterminate in the long run.md": {
+      "mtime": 1765134105000,
+      "size": 1257
+    },
+    "6 - Notes/6.a - Claims/Turgor pressure helps plants survive.md": {
+      "mtime": 1765134105000,
+      "size": 869
+    },
+    "6 - Notes/6.a - Claims/Trust measurement for the quality of institutions.md": {
+      "mtime": 1765134104993,
+      "size": 1021
+    },
+    "6 - Notes/6.a - Claims/Triglycerides have three fatty acid tails.md": {
+      "mtime": 1765134104959,
+      "size": 393
+    },
+    "6 - Notes/6.a - Claims/Tragedy can be more optimistic than comedy.md": {
+      "mtime": 1766888147000,
+      "size": 1267
+    },
+    "6 - Notes/6.a - Claims/Trade will increasingly be upon the boundaries of culture.md": {
+      "mtime": 1773032768087,
+      "size": 757
+    },
+    "6 - Notes/6.a - Claims/Trade civilizes people and encourages lower time preference, cooperation, and predictability.md": {
+      "mtime": 1770792016188,
+      "size": 824
+    },
+    "6 - Notes/6.a - Claims/Trade brings people into contact, not agreement.md": {
+      "mtime": 1774233234000,
+      "size": 1174
+    },
+    "6 - Notes/6.a - Claims/To elicit high quality responses from an LLM based on some preexisting content, provide the content in the context window.md": {
+      "mtime": 1765134106000,
+      "size": 616
+    },
+    "6 - Notes/6.a - Claims/To be morally virtuous is to act in accordance with the golden mean and exist in the condition of being in the golden mean.md": {
+      "mtime": 1776571767766,
+      "size": 1713
+    },
+    "6 - Notes/6.a - Claims/To be just, one must have a disposition towards just action and be able to make deliberate choices.md": {
+      "mtime": 1776571767748,
+      "size": 1174
+    },
+    "6 - Notes/6.a - Claims/To be courageous is not to be afraid of death.md": {
+      "mtime": 1776571767737,
+      "size": 716
+    },
+    "6 - Notes/6.a - Claims/Thucydides' approach to history scientized its methods.md": {
+      "mtime": 1765134104939,
+      "size": 618
+    },
+    "6 - Notes/6.a - Claims/Thomas Hardy often encapsulates large events in minor occurrences.md": {
+      "mtime": 1765134104895,
+      "size": 860
+    },
+    "6 - Notes/6.a - Claims/There were a multitude of failed attempts at normalization of relations between the West and Iran in the 2000s.md": {
+      "mtime": 1770834543000,
+      "size": 1641
+    },
+    "6 - Notes/6.a - Claims/There is debate as to whether inequality is rising in the US.md": {
+      "mtime": 1769494340496,
+      "size": 1699
+    },
+    "6 - Notes/6.a - Claims/There is a much higher concentration of potassium inside a cell compared to sodium.md": {
+      "mtime": 1769238739966,
+      "size": 749
+    },
+    "6 - Notes/6.a - Claims/There is a finite amount of compute per token in an LLM.md": {
+      "mtime": 1765134104000,
+      "size": 861
+    },
+    "6 - Notes/6.a - Claims/There are several benefits to having big, dense cities.md": {
+      "mtime": 1776494753241,
+      "size": 2478
+    },
+    "6 - Notes/6.a - Claims/There are many possible ways to hurt someone in a transaction.md": {
+      "mtime": 1776571767718,
+      "size": 1308
+    },
+    "6 - Notes/6.a - Claims/Theoretically, the side on which a tax is imposed is irrelevant; the outcome is the same.md": {
+      "mtime": 1773286783205,
+      "size": 1077
+    },
+    "6 - Notes/6.a - Claims/The Yin-Yang symbol represents the duality and synthesis between Daoism and Confucianism.md": {
+      "mtime": 1768332054114,
+      "size": 936
+    },
+    "6 - Notes/6.a - Claims/The Yellow Turbans were only suppressed with the aid of local warlords, which strengthened their power.md": {
+      "mtime": 1765134103000,
+      "size": 743
+    },
+    "6 - Notes/6.a - Claims/The Yan'an Rectification Movement solidifies Maoism within the CCP.md": {
+      "mtime": 1766714461731,
+      "size": 847
+    },
+    "6 - Notes/6.a - Claims/The world is unfair and amoral.md": {
+      "mtime": 1766812374000,
+      "size": 730
+    },
+    "6 - Notes/6.a - Claims/The West’s past domination of the world was a result of superior technology, not superior values or religion.md": {
+      "mtime": 1774667040253,
+      "size": 970
+    },
+    "6 - Notes/6.a - Claims/The West is in decline.md": {
+      "mtime": 1773723758694,
+      "size": 1950
+    },
+    "6 - Notes/6.a - Claims/The virtuous man needs friends.md": {
+      "mtime": 1776571767694,
+      "size": 1072
+    },
+    "6 - Notes/6.a - Claims/The virtue of scientific knowledge deals with logic and reasoning upon necessary truths.md": {
+      "mtime": 1776571767655,
+      "size": 659
+    },
+    "6 - Notes/6.a - Claims/The virtue of prudence is concerned with how best to act in order to achieve virtue.md": {
+      "mtime": 1776571767643,
+      "size": 1388
+    },
+    "6 - Notes/6.a - Claims/The virtue of intellect deals with the ability to grasp first principles or the circumstantial facts of a situation.md": {
+      "mtime": 1776571767626,
+      "size": 1223
+    },
+    "6 - Notes/6.a - Claims/The virtue of art is concerned with making, where the end goal is the product, not the action itself.md": {
+      "mtime": 1776571767613,
+      "size": 633
+    },
+    "6 - Notes/6.a - Claims/The Variability Hypothesis states that males exhibit a wider spread in many traits.md": {
+      "mtime": 1765134103394,
+      "size": 614
+    },
+    "6 - Notes/6.a - Claims/The US supported Bosnian Muslims due to its idealism, moralism, and naivete.md": {
+      "mtime": 1774505531000,
+      "size": 754
+    },
+    "6 - Notes/6.a - Claims/The US should not blindly abide by its foreign policy commitments made during the Cold War.md": {
+      "mtime": 1774764138028,
+      "size": 1290
+    },
+    "6 - Notes/6.a - Claims/The US should embrace Western culture and reject multiculturalism.md": {
+      "mtime": 1774765405662,
+      "size": 1858
+    },
+    "6 - Notes/6.a - Claims/The US has a marginal tax system, not a flat tax system.md": {
+      "mtime": 1773286859460,
+      "size": 685
+    },
+    "6 - Notes/6.a - Claims/The Upanishads teaches that all things are one in Brahman.md": {
+      "mtime": 1765134103000,
+      "size": 683
+    },
+    "6 - Notes/6.a - Claims/The Three Represents marked a major ideological shift for the CCP.md": {
+      "mtime": 1766209640138,
+      "size": 1391
+    },
+    "6 - Notes/6.a - Claims/The third wave of democratization (1974-1990s) ended a few years following the collapse of the USSR.md": {
+      "mtime": 1765134104000,
+      "size": 768
+    },
+    "6 - Notes/6.a - Claims/The Third Front allowed for the Reform and Opening Up to occur.md": {
+      "mtime": 1766208866000,
+      "size": 779
+    },
+    "6 - Notes/6.a - Claims/The things that are more contrary to the mean are the things that we have a stronger tendency to do.md": {
+      "mtime": 1776571767597,
+      "size": 1655
+    },
+    "6 - Notes/6.a - Claims/The theory of justice is in large part the theory of rational choice.md": {
+      "mtime": 1774984559265,
+      "size": 981
+    },
+    "6 - Notes/6.a - Claims/The standard CPI overestimates inflation, since it does not take into account the substitution effect.md": {
+      "mtime": 1773286859677,
+      "size": 2035
+    },
+    "6 - Notes/6.a - Claims/The spirit of capitalism was enhanced by the idea of a divine calling.md": {
+      "mtime": 1765134104000,
+      "size": 2264
+    },
+    "6 - Notes/6.a - Claims/The Soviet Union left an heritage of institutional corruption and state control.md": {
+      "mtime": 1772128769000,
+      "size": 1120
+    },
+    "6 - Notes/6.a - Claims/The second wave of democratization (1945-1962) ended with 1960s authoritarian reversals.md": {
+      "mtime": 1765134104000,
+      "size": 1004
+    },
+    "6 - Notes/6.a - Claims/The second derivative test allows for the classification of critical points.md": {
+      "mtime": 1765847660770,
+      "size": 1245
+    },
+    "6 - Notes/6.a - Claims/The scholar-gentry embodied Confucianism in imperial Chinese state institutions.md": {
+      "mtime": 1765134104621,
+      "size": 673
+    },
+    "6 - Notes/6.a - Claims/The Savings and Loan Crisis was caused by interest rate shocks, risky investments, and regulatory failure.md": {
+      "mtime": 1765134103000,
+      "size": 1534
+    },
+    "6 - Notes/6.a - Claims/The Romans utilized a client state system during the Julio-Claudian era to maintain border to defense.md": {
+      "mtime": 1766006937000,
+      "size": 1338
+    },
+    "6 - Notes/6.a - Claims/The Romans switched to a comprehensive defense strategy as centralized states developed along its borders.md": {
+      "mtime": 1766006932000,
+      "size": 1004
+    },
+    "6 - Notes/6.a - Claims/The RNA world hypothesis states that life originates from fragmentary RNA.md": {
+      "mtime": 1765134103000,
+      "size": 742
+    },
+    "6 - Notes/6.a - Claims/The Revenue Equivalence Theorem states that any auction where the highest bidder wins will generate the same expected revenue for the seller.md": {
+      "mtime": 1773286864883,
+      "size": 1201
+    },
+    "6 - Notes/6.a - Claims/The rejection of Western culture has lead to various ‘affirmations’ of Asian culture.md": {
+      "mtime": 1774233403000,
+      "size": 1748
+    },
+    "6 - Notes/6.a - Claims/The Reformation did not engender the spirit of capitalism.md": {
+      "mtime": 1769238737930,
+      "size": 1354
+    },
+    "6 - Notes/6.a - Claims/The real-world applicability of the Pigou effect is contested.md": {
+      "mtime": 1765134104577,
+      "size": 1043
+    },
+    "6 - Notes/6.a - Claims/The rational soul is bifurcated into the scientific and calculative.md": {
+      "mtime": 1776571767583,
+      "size": 1109
+    },
+    "6 - Notes/6.a - Claims/The purpose of macroeconomic policy is to encourage stable growth, maintain low unemployment, and ensure price stability.md": {
+      "mtime": 1765134104000,
+      "size": 792
+    },
+    "6 - Notes/6.a - Claims/The profit motive sharpens incentives.md": {
+      "mtime": 1765134104511,
+      "size": 485
+    },
+    "6 - Notes/6.a - Claims/The princes of Russia attempted to ward the Mongol threat off alone, and were defeated.md": {
+      "mtime": 1773286965599,
+      "size": 690
+    },
+    "6 - Notes/6.a - Claims/The Practical Syllogism motivates us to perform some action.md": {
+      "mtime": 1776571767468,
+      "size": 2002
+    },
+    "6 - Notes/6.a - Claims/The Polish economic miracle is largely a result of EU benefits and a diversified economy.md": {
+      "mtime": 1765134103000,
+      "size": 668
+    },
+    "6 - Notes/6.a - Claims/The polarization caused by electrostatic induction is akin to a polar molecule.md": {
+      "mtime": 1765134104440,
+      "size": 560
+    },
+    "6 - Notes/6.a - Claims/The Partition of Jin ended the Spring and Autumn Period.md": {
+      "mtime": 1765134103000,
+      "size": 832
+    },
+    "6 - Notes/6.a - Claims/The overwhelming power of labor unions in the post-war consensus harmed the UK economy.md": {
+      "mtime": 1768696753357,
+      "size": 1506
+    },
+    "6 - Notes/6.a - Claims/The Mongols took ideas from the peoples that they conquered.md": {
+      "mtime": 1773286965387,
+      "size": 626
+    },
+    "6 - Notes/6.a - Claims/The more electronegative an atom, the more negatively charged it is.md": {
+      "mtime": 1765134104000,
+      "size": 445
+    },
+    "6 - Notes/6.a - Claims/The minorities in a nation tend to focus on economic advancement.md": {
+      "mtime": 1765134104374,
+      "size": 1539
+    },
+    "6 - Notes/6.a - Claims/The minimum wage can reduce unemployment.md": {
+      "mtime": 1773286864967,
+      "size": 1615
+    },
+    "6 - Notes/6.a - Claims/The military-industrial complex's may cause the government not in act in the interest of the public.md": {
+      "mtime": 1766006215000,
+      "size": 1280
+    },
+    "6 - Notes/6.a - Claims/The Luck Objection argues that indeterminism does not support Libertarianism.md": {
+      "mtime": 1769403213017,
+      "size": 508
+    },
+    "6 - Notes/6.a - Claims/The LSRL always goes through the mean x and y values.md": {
+      "mtime": 1765134102000,
+      "size": 452
+    },
+    "6 - Notes/6.a - Claims/The lower the variability around the regression line, the higher the coefficient of determination.md": {
+      "mtime": 1768332054000,
+      "size": 1039
+    },
+    "6 - Notes/6.a - Claims/The Legendre Transform re-expresses a function in terms of rates, rather than levels.md": {
+      "mtime": 1765134103000,
+      "size": 1072
+    },
+    "6 - Notes/6.a - Claims/The laws and regulations of the EU often end up spreading outside its borders.md": {
+      "mtime": 1765134104241,
+      "size": 797
+    },
+    "6 - Notes/6.a - Claims/The late 20th century is marked by a drastic increase in religiosity across the world.md": {
+      "mtime": 1771828156674,
+      "size": 1002
+    },
+    "6 - Notes/6.a - Claims/The land value tax (LVT) is the best form of taxation.md": {
+      "mtime": 1767465909000,
+      "size": 1921
+    },
+    "6 - Notes/6.a - Claims/The lack of support for pro-supply solutions to the housing crisis is due to people's misunderstanding of what causes the issue.md": {
+      "mtime": 1773286783042,
+      "size": 917
+    },
+    "6 - Notes/6.a - Claims/The Labor Theory of Value is false.md": {
+      "mtime": 1767336508649,
+      "size": 3092
+    },
+    "6 - Notes/6.a - Claims/The labor market is not perfectly competitive.md": {
+      "mtime": 1773286864904,
+      "size": 1498
+    },
+    "6 - Notes/6.a - Claims/The Kelly Criterion can be used to determine the optimal amount to bet given the probabilities.md": {
+      "mtime": 1768200452257,
+      "size": 1198
+    },
+    "6 - Notes/6.a - Claims/The Krebs cycle produces NADH and FADH2 and a little bit of ATP.md": {
+      "mtime": 1765134102000,
+      "size": 678
+    },
+    "6 - Notes/6.a - Claims/The July Revolution was a result of the French government suppressing needed reforms.md": {
+      "mtime": 1765134102923,
+      "size": 973
+    },
+    "6 - Notes/6.a - Claims/The Japanese rail system is success because of their unique business model and limited government intervention.md": {
+      "mtime": 1776281389000,
+      "size": 2928
+    },
+    "6 - Notes/6.a - Claims/The Japanese healthcare system is highly socialized.md": {
+      "mtime": 1773287041764,
+      "size": 782
+    },
+    "6 - Notes/6.a - Claims/The irrational part of the soul is bifurcated into the vegetative and appetitive.md": {
+      "mtime": 1776571767564,
+      "size": 1033
+    },
+    "6 - Notes/6.a - Claims/The invention of paper money by the Song allowed for the development of modern economics.md": {
+      "mtime": 1765134104000,
+      "size": 624
+    },
+    "6 - Notes/6.a - Claims/The introduction of bureaucracy into the housing construction with section 701 led to an increase in single family homes.md": {
+      "mtime": 1773286859564,
+      "size": 1712
+    },
+    "6 - Notes/6.a - Claims/The individualistic nature of Baptism and Quakerism allowed for the development of the spirit of capitalism.md": {
+      "mtime": 1765134104000,
+      "size": 965
+    },
+    "6 - Notes/6.a - Claims/The Imperial Chinese Civil Service Exams represent a meritocracy.md": {
+      "mtime": 1765134102862,
+      "size": 837
+    },
+    "6 - Notes/6.a - Claims/The IMF and World Bank have been criticized for promoting Western neocolonial interests.md": {
+      "mtime": 1765134102000,
+      "size": 440
+    },
+    "6 - Notes/6.a - Claims/The idea that self-interest can produce overall benefits is an inherently consequentialist one.md": {
+      "mtime": 1765134104108,
+      "size": 1134
+    },
+    "6 - Notes/6.a - Claims/The idea of predestination in Calvinism provides a methodical rationalization of moral life.md": {
+      "mtime": 1765134104000,
+      "size": 871
+    },
+    "6 - Notes/6.a - Claims/The idea of a divine calling is uniquely Judeo-Christian.md": {
+      "mtime": 1765134104000,
+      "size": 668
+    },
+    "6 - Notes/6.a - Claims/The House of Representatives is a more populist institution compared to the Senate.md": {
+      "mtime": 1768168335968,
+      "size": 1332
+    },
+    "6 - Notes/6.a - Claims/The Hojo clan fell due to resentment from other warrior families, the Mongol invasion, and resentment from the emperor.md": {
+      "mtime": 1765134102000,
+      "size": 673
+    },
+    "6 - Notes/6.a - Claims/The history of monasticism is a continual struggle with the problem of secularizing the influence of wealth.md": {
+      "mtime": 1769238751951,
+      "size": 1293
+    },
+    "6 - Notes/6.a - Claims/The high tax rates of the 1950s were not actually paid, and resulted in rent-seeking behavior.md": {
+      "mtime": 1768332053000,
+      "size": 2808
+    },
+    "6 - Notes/6.a - Claims/The Golgi Apparatus acts as the central transportation hub in a cell.md": {
+      "mtime": 1768332053000,
+      "size": 561
+    },
+    "6 - Notes/6.a - Claims/The Gold Standard ended because the US could not back up its cash with commensurate gold reserves.md": {
+      "mtime": 1773286859447,
+      "size": 563
+    },
+    "6 - Notes/6.a - Claims/The goal of Hinduism is to achieve Brahman.md": {
+      "mtime": 1765134103974,
+      "size": 975
+    },
+    "6 - Notes/6.a - Claims/The Frankfurt Cases argue against the Principle of Alternative Possibilities.md": {
+      "mtime": 1769404815204,
+      "size": 909
+    },
+    "6 - Notes/6.a - Claims/The fragmentation of military power within a state weakens central power.md": {
+      "mtime": 1766006215000,
+      "size": 739
+    },
+    "6 - Notes/6.a - Claims/The fiscal limit of a government is determined by the standard debt dynamics equation.md": {
+      "mtime": 1773286859484,
+      "size": 1168
+    },
+    "6 - Notes/6.a - Claims/The first wave of democratization (1820s-1922) ended with Mussolini's Rise.md": {
+      "mtime": 1769238749604,
+      "size": 974
+    },
+    "6 - Notes/6.a - Claims/The first derivative test allows for the classification of critical points.md": {
+      "mtime": 1765846709888,
+      "size": 1072
+    },
+    "6 - Notes/6.a - Claims/The fact that Japan was not subjugated by the Mongols, while China was, led to their rejection of outside influence.md": {
+      "mtime": 1765134103000,
+      "size": 854
+    },
+    "6 - Notes/6.a - Claims/The exercise of moral virtue lies in how we attain a goal.md": {
+      "mtime": 1776571767551,
+      "size": 956
+    },
+    "6 - Notes/6.a - Claims/The EU provides a framework for Libertarian reforms.md": {
+      "mtime": 1768588437000,
+      "size": 1206
+    },
+    "6 - Notes/6.a - Claims/The erosion of Christianity is a large factor in the decline of the West.md": {
+      "mtime": 1774764926448,
+      "size": 962
+    },
+    "6 - Notes/6.a - Claims/The end of the Cold War marked a major change in global security.md": {
+      "mtime": 1774764091231,
+      "size": 1157
+    },
+    "6 - Notes/6.a - Claims/The end goal of human life is happiness, which requires sustained virtuous action and comfortable material conditions.md": {
+      "mtime": 1776571767533,
+      "size": 1757
+    },
+    "6 - Notes/6.a - Claims/The Empirical Rule describes the a normal distribution.md": {
+      "mtime": 1765134102673,
+      "size": 512
+    },
+    "6 - Notes/6.a - Claims/The elimination of salvation through the Church and the sacraments separates Calvinism from Catholicism.md": {
+      "mtime": 1769238738749,
+      "size": 703
+    },
+    "6 - Notes/6.a - Claims/The Efficient Market Hypothesis cannot account for market anomalies.md": {
+      "mtime": 1773286783025,
+      "size": 977
+    },
+    "6 - Notes/6.a - Claims/The Dutch Angle can be used to convey a sense of disorientation and confusion with the surrounding world.md": {
+      "mtime": 1773286725663,
+      "size": 683
+    },
+    "6 - Notes/6.a - Claims/The decline in the labor share of capital is related to a decline in construction productivity.md": {
+      "mtime": 1773286859468,
+      "size": 1159
+    },
+    "6 - Notes/6.a - Claims/The cytoskeleton facilitates intracellular structure; the extracellular matrix facilitates intercellular structure.md": {
+      "mtime": 1765134103000,
+      "size": 494
+    },
+    "6 - Notes/6.a - Claims/The core of Mahanian naval strategy is that sea power translates to national power.md": {
+      "mtime": 1765134103000,
+      "size": 1514
+    },
+    "6 - Notes/6.a - Claims/The consumer chooses to consume the amount that makes the marginal utility per dollar of the two goods equal.md": {
+      "mtime": 1773286864896,
+      "size": 1084
+    },
+    "6 - Notes/6.a - Claims/The committee system in Congress enables specialization and increases efficiency.md": {
+      "mtime": 1768168335980,
+      "size": 760
+    },
+    "6 - Notes/6.a - Claims/The Classical Theory of Interests bases interests on real factors, while Liquidity Preference Theory bases interests on monetary factors.md": {
+      "mtime": 1773286859311,
+      "size": 474
+    },
+    "6 - Notes/6.a - Claims/The capitalist spirit developed in the religious North of the US, rather than the commercial South.md": {
+      "mtime": 1765134103000,
+      "size": 844
+    },
+    "6 - Notes/6.a - Claims/The Calvin cycle produces G3P, which is turned into various products used in various ways by the plant.md": {
+      "mtime": 1765986868000,
+      "size": 1102
+    },
+    "6 - Notes/6.a - Claims/The Calvin cycle fixes atmospheric carbon into an organic form.md": {
+      "mtime": 1765134102539,
+      "size": 726
+    },
+    "6 - Notes/6.a - Claims/The British political system has fundamentally changed since the 20th century.md": {
+      "mtime": 1768169519489,
+      "size": 1592
+    },
+    "6 - Notes/6.a - Claims/The Book of Job attempts to resolve the problem of evil through a divine mysticism argument.md": {
+      "mtime": 1765134102000,
+      "size": 476
+    },
+    "6 - Notes/6.a - Claims/The blind are able to see what the sighted are not.md": {
+      "mtime": 1766811159462,
+      "size": 3778
+    },
+    "6 - Notes/6.a - Claims/The biggest problem facing a state-run economy is the Economic Calculation Problem.md": {
+      "mtime": 1766714828000,
+      "size": 975
+    },
+    "6 - Notes/6.a - Claims/The biggest opponent of the capitalist spirit is that of traditionalism.md": {
+      "mtime": 1765134103540,
+      "size": 950
+    },
+    "6 - Notes/6.a - Claims/The bias of researchers manifest clearly through their research (typically left).md": {
+      "mtime": 1771136607760,
+      "size": 1112
+    },
+    "6 - Notes/6.a - Claims/The Bhakti movement overtook Buddhism in India around 1000AD.md": {
+      "mtime": 1765134102477,
+      "size": 725
+    },
+    "6 - Notes/6.a - Claims/The best form of friendship is one based on mutual virtue.md": {
+      "mtime": 1776571767495,
+      "size": 1583
+    },
+    "6 - Notes/6.a - Claims/The benefactor typically loves his beneficiary more than the other way around.md": {
+      "mtime": 1776571767480,
+      "size": 912
+    },
+    "6 - Notes/6.a - Claims/The Belgian Revolution occurred because of an especially moving Opera performance.md": {
+      "mtime": 1765134102458,
+      "size": 684
+    },
+    "6 - Notes/6.a - Claims/The basic unit for nomadic peoples was the tribe.md": {
+      "mtime": 1773286965585,
+      "size": 548
+    },
+    "6 - Notes/6.a - Claims/The Basic Argument states that we don't have free will, regardless of whether compatibilism is true.md": {
+      "mtime": 1769401216594,
+      "size": 981
+    },
+    "6 - Notes/6.a - Claims/The Ayodhya Dispute between Hindus and Muslims mirror’s India struggle with identity, secularism, and historical memory.md": {
+      "mtime": 1769238739565,
+      "size": 910
+    },
+    "6 - Notes/6.a - Claims/The around 60% of China’s total trade goes through the Malacca Straight.md": {
+      "mtime": 1768967096325,
+      "size": 662
+    },
+    "6 - Notes/6.a - Claims/The amount of evil in the world makes the existence of a perfectly loving God unlikely.md": {
+      "mtime": 1771314453834,
+      "size": 523
+    },
+    "6 - Notes/6.a - Claims/The 1997 Asian Financial Crisis occurred because the Thai currency collapsed.md": {
+      "mtime": 1765134102390,
+      "size": 626
+    },
+    "6 - Notes/6.a - Claims/The 'tragedy’ in tragic works of art often spring from the main character’s own actions.md": {
+      "mtime": 1765176768000,
+      "size": 1981
+    },
+    "6 - Notes/6.a - Claims/The 'iron triangle' of government can lead to regulatory capture.md": {
+      "mtime": 1768332053918,
+      "size": 924
+    },
+    "6 - Notes/6.a - Claims/Temperance is a state whereby lack of pleasure does not pain oneself.md": {
+      "mtime": 1776571767451,
+      "size": 826
+    },
+    "6 - Notes/6.a - Claims/Technical goodness and moral goodness should be differentiated.md": {
+      "mtime": 1776571767439,
+      "size": 1282
+    },
+    "6 - Notes/6.a - Claims/Systems naturally tend toward equilibrium.md": {
+      "mtime": 1776015979275,
+      "size": 1655
+    },
+    "6 - Notes/6.a - Claims/Systems analysis works best when the system is static.md": {
+      "mtime": 1776016446546,
+      "size": 1068
+    },
+    "6 - Notes/6.a - Claims/Sufficient material conditions are required for happiness.md": {
+      "mtime": 1776571767428,
+      "size": 873
+    },
+    "6 - Notes/6.a - Claims/Suffering is good, if done correctly.md": {
+      "mtime": 1772684374634,
+      "size": 1480
+    },
+    "6 - Notes/6.a - Claims/Strong induction sees electrons move throughout the entire object; local polarization effects only see the shifting of electron clouds.md": {
+      "mtime": 1765134102000,
+      "size": 806
+    },
+    "6 - Notes/6.a - Claims/Suffering can serve as a vehicle for moral superiority.md": {
+      "mtime": 1772684145763,
+      "size": 1329
+    },
+    "6 - Notes/6.a - Claims/Stratified random sampling increases accuracy but is difficult to execute.md": {
+      "mtime": 1765134102000,
+      "size": 761
+    },
+    "6 - Notes/6.a - Claims/Steroids are hormones that play important roles regarding cell signaling, metabolism, and structural integrity.md": {
+      "mtime": 1765134102000,
+      "size": 661
+    },
+    "6 - Notes/6.a - Claims/Steroids are a type of lipid.md": {
+      "mtime": 1765134102140,
+      "size": 459
+    },
+    "6 - Notes/6.a - Claims/Status functions are created by declaration speech acts, which in turn, creates institutional facts.md": {
+      "mtime": 1769238749121,
+      "size": 1349
+    },
+    "6 - Notes/6.a - Claims/States can either bandwagon or balance a rising hegemon.md": {
+      "mtime": 1774234665000,
+      "size": 1320
+    },
+    "6 - Notes/6.a - Claims/Starches are storage polysaccharides, fibers are structural polysaccharides.md": {
+      "mtime": 1765134102087,
+      "size": 305
+    },
+    "6 - Notes/6.a - Claims/Stable, successful political institutions have strong self-correcting mechanisms.md": {
+      "mtime": 1768367092000,
+      "size": 1290
+    },
+    "6 - Notes/6.a - Claims/Stability comes from the existence of limitations in a system.md": {
+      "mtime": 1765134102000,
+      "size": 1372
+    },
+    "6 - Notes/6.a - Claims/Spykman's Rimland Thesis argues that control of the 'rimland' dictates control of the world.md": {
+      "mtime": 1768332053000,
+      "size": 2505
+    },
+    "6 - Notes/6.a - Claims/Something that is pleasurable is not necessarily bad.md": {
+      "mtime": 1776571767412,
+      "size": 2125
+    },
+    "6 - Notes/6.a - Claims/Soft power is premised on hard power.md": {
+      "mtime": 1771826330240,
+      "size": 1150
+    },
+    "6 - Notes/6.a - Claims/Some cell organelles are related to bacteria.md": {
+      "mtime": 1765134101959,
+      "size": 615
+    },
+    "6 - Notes/6.a - Claims/Social Security is a progressive system where higher income earners receive a lower share of their lifetime earnings.md": {
+      "mtime": 1765134101000,
+      "size": 466
+    },
+    "6 - Notes/6.a - Claims/Social Security contributes to the federal debt.md": {
+      "mtime": 1765134101000,
+      "size": 1748
+    },
+    "6 - Notes/6.a - Claims/SNAP does not drive up food prices.md": {
+      "mtime": 1768332053000,
+      "size": 1405
+    },
+    "6 - Notes/6.a - Claims/SNAP does not cause economic growth.md": {
+      "mtime": 1765134101621,
+      "size": 930
+    },
+    "6 - Notes/6.a - Claims/Sincerity means coming to terms with one’s baser side.md": {
+      "mtime": 1772683413315,
+      "size": 753
+    },
+    "6 - Notes/6.a - Claims/Simple random sampling reduces bias but may lack representativeness.md": {
+      "mtime": 1768332053000,
+      "size": 617
+    },
+    "6 - Notes/6.a - Claims/Shakespeare’s works often feature words with double meanings.md": {
+      "mtime": 1765134101000,
+      "size": 1188
+    },
+    "6 - Notes/6.a - Claims/Shakespeare explores the concept of metacognition, relativism, and skepticism in Hamlet (play).md": {
+      "mtime": 1765134101000,
+      "size": 899
+    },
+    "6 - Notes/6.a - Claims/Semipermeable membranes allow passive diffusion; selectively permeable membranes controls what comes in and goes out.md": {
+      "mtime": 1765134101000,
+      "size": 1084
+    },
+    "6 - Notes/6.a - Claims/Selective incentives are excludable benefits or sanctions that groups use to overcome the free-rider problem.md": {
+      "mtime": 1773286782907,
+      "size": 1068
+    },
+    "6 - Notes/6.a - Claims/Saying something in fewer words will almost always make it better.md": {
+      "mtime": 1765134101709,
+      "size": 417
+    },
+    "6 - Notes/6.a - Claims/Securing a good may increase its value, but security does not necessarily mean greater value.md": {
+      "mtime": 1765947170000,
+      "size": 880
+    },
+    "6 - Notes/6.a - Claims/Saint Paul helped spread Early Christianity.md": {
+      "mtime": 1765134101675,
+      "size": 498
+    },
+    "6 - Notes/6.a - Claims/Russia's overambition is destroying the country.md": {
+      "mtime": 1773287064004,
+      "size": 616
+    },
+    "6 - Notes/6.a - Claims/Russel’s Theory of Descriptions allows for meaning to exist even while there is no reference for a definite description.md": {
+      "mtime": 1768943321000,
+      "size": 1070
+    },
+    "6 - Notes/6.a - Claims/Rousseau believed that society corrupted innately good humans.md": {
+      "mtime": 1765134101593,
+      "size": 1301
+    },
+    "6 - Notes/6.a - Claims/Rising populations in the mid-1700s led to social discontent.md": {
+      "mtime": 1768588749000,
+      "size": 861
+    },
+    "6 - Notes/6.a - Claims/Rising costs of energy is largely due to rising costs of distribution, not of generation.md": {
+      "mtime": 1766293140957,
+      "size": 618
+    },
+    "6 - Notes/6.a - Claims/Right associative means that you group operations starting from the right.md": {
+      "mtime": 1765419037000,
+      "size": 644
+    },
+    "6 - Notes/6.a - Claims/Rentier states typically have high inequality and low political participation.md": {
+      "mtime": 1769843932934,
+      "size": 1184
+    },
+    "6 - Notes/6.a - Claims/Religion is compatible with science.md": {
+      "mtime": 1772987028069,
+      "size": 2360
+    },
+    "6 - Notes/6.a - Claims/Reincarnation is an important aspect of many belief systems.md": {
+      "mtime": 1765134101559,
+      "size": 767
+    },
+    "6 - Notes/6.a - Claims/Rectifictory justice concerns undoing a transaction between individuals.md": {
+      "mtime": 1776571767397,
+      "size": 1487
+    },
+    "6 - Notes/6.a - Claims/Reductivism regarding personal identity rejects the existence of an egoist self.md": {
+      "mtime": 1774465766047,
+      "size": 1574
+    },
+    "6 - Notes/6.a - Claims/Receptors are special proteins inside or on the surface of cells that bind to ligands.md": {
+      "mtime": 1765134101000,
+      "size": 556
+    },
+    "6 - Notes/6.a - Claims/Reasoning LLMs use reinforcement learning, whereas most models use STF.md": {
+      "mtime": 1765134101504,
+      "size": 923
+    },
+    "6 - Notes/6.a - Claims/Randomization allows for causation to be determined.md": {
+      "mtime": 1765134101406,
+      "size": 416
+    },
+    "6 - Notes/6.a - Claims/Radians, and not degrees, is used in physics since its measurements are not arbitrarily determined.md": {
+      "mtime": 1765134101000,
+      "size": 485
+    },
+    "6 - Notes/6.a - Claims/Quorum sensing is a means by which cells coordinate behavior.md": {
+      "mtime": 1765134101341,
+      "size": 635
+    },
+    "6 - Notes/6.a - Claims/Pumps facilitate active transport against a concentration gradient; channels facilitate passive diffusion.md": {
+      "mtime": 1765134101000,
+      "size": 959
+    },
+    "6 - Notes/6.a - Claims/Quantitative easing is not the same thing as open market operations.md": {
+      "mtime": 1773286859227,
+      "size": 812
+    },
+    "6 - Notes/6.a - Claims/Psychological continuity exists on a continuum.md": {
+      "mtime": 1774465766026,
+      "size": 1643
+    },
+    "6 - Notes/6.a - Claims/Protein synthesis and transportation happens through the endoplasmic reticulum.md": {
+      "mtime": 1768332053000,
+      "size": 827
+    },
+    "6 - Notes/6.a - Claims/Producers capture almost none of the surplus generated through innovation.md": {
+      "mtime": 1773286782888,
+      "size": 813
+    },
+    "6 - Notes/6.a - Claims/Private property is a prerequisite for a allocatively efficient economy.md": {
+      "mtime": 1766208603165,
+      "size": 1388
+    },
+    "6 - Notes/6.a - Claims/Private property facilitates trade.md": {
+      "mtime": 1765134101000,
+      "size": 561
+    },
+    "6 - Notes/6.a - Claims/Price level is driven by the ratio of government debt to expected future surplus.md": {
+      "mtime": 1773286859117,
+      "size": 1646
+    },
+    "6 - Notes/6.a - Claims/Price controls cause supply shortage, misallocation of resources, and rent-seeking.md": {
+      "mtime": 1773286864743,
+      "size": 1459
+    },
+    "6 - Notes/6.a - Claims/Prediction markets have a tendency for longshot bias.md": {
+      "mtime": 1773286864722,
+      "size": 2161
+    },
+    "6 - Notes/6.a - Claims/Predicted fiscal surplus lowers the risk of inflation.md": {
+      "mtime": 1773286859109,
+      "size": 1737
+    },
+    "6 - Notes/6.a - Claims/Positive sodium ions that spread through passive diffusion causes a signal to be transported through a neuron.md": {
+      "mtime": 1765134101000,
+      "size": 600
+    },
+    "6 - Notes/6.a - Claims/Population decline makes markets less competitive.md": {
+      "mtime": 1773286782725,
+      "size": 1190
+    },
+    "6 - Notes/6.a - Claims/Politics is the fullest realization of prudence, and it is divided into the legislative and political sciences.md": {
+      "mtime": 1776571767385,
+      "size": 727
+    },
+    "6 - Notes/6.a - Claims/Polymerase Chain Reaction is a process that can be used to copy a strand of DNA.md": {
+      "mtime": 1765134101076,
+      "size": 908
+    },
+    "6 - Notes/6.a - Claims/Politics is fundamentally a moral debate, not a factual one.md": {
+      "mtime": 1765134101037,
+      "size": 609
+    },
+    "6 - Notes/6.a - Claims/Political justice concerns the specific system of rights and rules that govern free and equal people in a state.md": {
+      "mtime": 1776571767360,
+      "size": 1273
+    },
+    "6 - Notes/6.a - Claims/Political identity requires knowing who you are not, and is often defined by opposition.md": {
+      "mtime": 1774666586777,
+      "size": 1163
+    },
+    "6 - Notes/6.a - Claims/Political culture defines the norms by which a society conducts politics.md": {
+      "mtime": 1765134101006,
+      "size": 1284
+    },
+    "6 - Notes/6.a - Claims/Political attitudes is one's opinion on what political change should occur, how fast, and how much.md": {
+      "mtime": 1765134100000,
+      "size": 680
+    },
+    "6 - Notes/6.a - Claims/Pleasure perfects activities, and thus, life.md": {
+      "mtime": 1776571767330,
+      "size": 1221
+    },
+    "6 - Notes/6.a - Claims/Pleasure is not solely the Good.md": {
+      "mtime": 1776571767296,
+      "size": 1185
+    },
+    "6 - Notes/6.a - Claims/Plants thrive in a solution that is hypotonic to the plant cells.md": {
+      "mtime": 1765134100000,
+      "size": 467
+    },
+    "6 - Notes/6.a - Claims/Pleasure is not a process.md": {
+      "mtime": 1776571767234,
+      "size": 942
+    },
+    "6 - Notes/6.a - Claims/Phospholipids are the main building block of cell membranes.md": {
+      "mtime": 1765134100889,
+      "size": 583
+    },
+    "6 - Notes/6.a - Claims/pH is determined by the concentration of H+ atoms.md": {
+      "mtime": 1765134105961,
+      "size": 663
+    },
+    "6 - Notes/6.a - Claims/People sin so that they may be loved.md": {
+      "mtime": 1773031457491,
+      "size": 750
+    },
+    "6 - Notes/6.a - Claims/Pareto improvement does not take into account the relative strength of utilities or disutilities.md": {
+      "mtime": 1773286864715,
+      "size": 643
+    },
+    "6 - Notes/6.a - Claims/Out-migration taxes are a method of preventing tax flight.md": {
+      "mtime": 1773286858994,
+      "size": 1744
+    },
+    "6 - Notes/6.a - Claims/Our fate is not determined by our birth.md": {
+      "mtime": 1773031801205,
+      "size": 1166
+    },
+    "6 - Notes/6.a - Claims/Our fate is determined.md": {
+      "mtime": 1765175527046,
+      "size": 8062
+    },
+    "6 - Notes/6.a - Claims/Our best friend is ourselves.md": {
+      "mtime": 1776571767220,
+      "size": 972
+    },
+    "6 - Notes/6.a - Claims/Osmosis is the process by which water moves across a semi-permeable membrane to a solution with a higher solute concentration.md": {
+      "mtime": 1765134100000,
+      "size": 636
+    },
+    "6 - Notes/6.a - Claims/Only around the beginning of modernity have people begun to see romantic love as something that makes life worthy and significant.md": {
+      "mtime": 1765350457000,
+      "size": 1405
+    },
+    "6 - Notes/6.a - Claims/One’s initial moral sensitivity is irrelevant to whether one ought to be considered morally responsible.md": {
+      "mtime": 1776571767206,
+      "size": 1312
+    },
+    "6 - Notes/6.a - Claims/One should not attempt to analyze faith with logical arguments.md": {
+      "mtime": 1768289471000,
+      "size": 2045
+    },
+    "6 - Notes/6.a - Claims/One ought to choose what is good for them, not what is good in itself.md": {
+      "mtime": 1776571767181,
+      "size": 1317
+    },
+    "6 - Notes/6.a - Claims/One has to confront their problems head on.md": {
+      "mtime": 1765134100000,
+      "size": 638
+    },
+    "6 - Notes/6.a - Claims/One cannot be treated unjustly voluntarily; one also cannot treat oneself unjustly.md": {
+      "mtime": 1776571767165,
+      "size": 1365
+    },
+    "6 - Notes/6.a - Claims/Once the threshold potential is reached, voltage-gated sodium ion channels open, and depolarization begins.md": {
+      "mtime": 1765134100000,
+      "size": 631
+    },
+    "6 - Notes/6.a - Claims/Older people are more prudent because they are more experienced.md": {
+      "mtime": 1776571767149,
+      "size": 667
+    },
+    "6 - Notes/6.a - Claims/Oedipus is an embodiment of the Athenian spirit and historical development.md": {
+      "mtime": 1769238740297,
+      "size": 4089
+    },
+    "6 - Notes/6.a - Claims/Obstinacy is different from continence.md": {
+      "mtime": 1776571767132,
+      "size": 1279
+    },
+    "6 - Notes/6.a - Claims/Nonpolar r-groups are likely to be found in the interior of a protein.md": {
+      "mtime": 1765134100637,
+      "size": 354
+    },
+    "6 - Notes/6.a - Claims/Non-truth-functional connectives form statements that depend on the specific relationship between the atomic sentences.md": {
+      "mtime": 1769238731127,
+      "size": 530
+    },
+    "6 - Notes/6.a - Claims/Non-compete clauses are bad for the worker and the consumer.md": {
+      "mtime": 1773286782711,
+      "size": 1073
+    },
+    "6 - Notes/6.a - Claims/New nucleotides are added to the 3' end of a DNA or RNA.md": {
+      "mtime": 1765134100571,
+      "size": 586
+    },
+    "6 - Notes/6.a - Claims/New amino acids are added to the C-terminus on a polypeptide chain.md": {
+      "mtime": 1765134100537,
+      "size": 488
+    },
+    "6 - Notes/6.a - Claims/Neo-mercantilism is the modern adaptation of historical mercantilism.md": {
+      "mtime": 1765134100000,
+      "size": 1401
+    },
+    "6 - Notes/6.a - Claims/Neo-Confucianism was Confucianism influenced by Buddhism, and Daoism.md": {
+      "mtime": 1765134100000,
+      "size": 832
+    },
+    "6 - Notes/6.a - Claims/Natural virtue is a disposition towards virtue, but it is not virtue itself.md": {
+      "mtime": 1776571767103,
+      "size": 826
+    },
+    "6 - Notes/6.a - Claims/NATO militarily intervened in Bosnia in 1995 due to the Srebrenica massacre.md": {
+      "mtime": 1765134100441,
+      "size": 554
+    },
+    "6 - Notes/6.a - Claims/Nations typically Westernize, then modernize, then reject Westernization.md": {
+      "mtime": 1774667403823,
+      "size": 2243
+    },
+    "6 - Notes/6.a - Claims/Nations should have open borders.md": {
+      "mtime": 1770793316085,
+      "size": 1436
+    },
+    "6 - Notes/6.a - Claims/NAFTA increased mortality and lower living standards in certain areas of the US.md": {
+      "mtime": 1772520763020,
+      "size": 1417
+    },
+    "6 - Notes/6.a - Claims/Music can influence your confidence.md": {
+      "mtime": 1765134100390,
+      "size": 414
+    },
+    "6 - Notes/6.a - Claims/Most signaling molecules are small, hydrophilic proteins.md": {
+      "mtime": 1765134100358,
+      "size": 814
+    },
+    "6 - Notes/6.a - Claims/Most industries do not require patents to generate new knowledge; however, preexisting patents slow innovation.md": {
+      "mtime": 1765134100000,
+      "size": 744
+    },
+    "6 - Notes/6.a - Claims/Moral mastery is achieved through choice.md": {
+      "mtime": 1771461927000,
+      "size": 1907
+    },
+    "6 - Notes/6.a - Claims/Monosaccharides vs.disaccharides vs. polysaccharides.md": {
+      "mtime": 1765134100291,
+      "size": 632
+    },
+    "6 - Notes/6.a - Claims/Monopolies should make more money.md": {
+      "mtime": 1774644680000,
+      "size": 2734
+    },
+    "6 - Notes/6.a - Claims/Mongol success was partly driven by the warming period around 1200.md": {
+      "mtime": 1773286965370,
+      "size": 508
+    },
+    "6 - Notes/6.a - Claims/Money is not a psychological construct, nor is it simply 'debt'.md": {
+      "mtime": 1773286858987,
+      "size": 1910
+    },
+    "6 - Notes/6.a - Claims/Mohism argued for universal love and maximizing overall good.md": {
+      "mtime": 1765134100000,
+      "size": 854
+    },
+    "6 - Notes/6.a - Claims/Modesty is not a virtue; rather, it is a feeling.md": {
+      "mtime": 1776571767069,
+      "size": 1465
+    },
+    "6 - Notes/6.a - Claims/Minimum wage drives capital subsitution.md": {
+      "mtime": 1773286782589,
+      "size": 1107
+    },
+    "6 - Notes/6.a - Claims/Mexican immigration to the US is unique compared to immigration to the US from other countries.md": {
+      "mtime": 1773724219446,
+      "size": 903
+    },
+    "6 - Notes/6.a - Claims/Mencius argued that all humans are innately good, while Xunzi argued that all humans were innately evil.md": {
+      "mtime": 1765134100000,
+      "size": 1492
+    },
+    "6 - Notes/6.a - Claims/Membrane potential describes the electrical different between the inside and outside of a cell.md": {
+      "mtime": 1765134100000,
+      "size": 774
+    },
+    "6 - Notes/6.a - Claims/Material incentives are not the only thing that motivates people to produce new ideas.md": {
+      "mtime": 1765134100000,
+      "size": 1421
+    },
+    "6 - Notes/6.a - Claims/Markets help allocate resources efficiently, mobilizes savings, fund innovation.md": {
+      "mtime": 1773286782584,
+      "size": 538
+    },
+    "6 - Notes/6.a - Claims/Maoism advocates for a 'bottom-up' revolution, while Leninism argues for a 'top-down' revolution.md": {
+      "mtime": 1766714461000,
+      "size": 629
+    },
+    "6 - Notes/6.a - Claims/Many East Asian countries are dirigisme and neo-mercantilist.md": {
+      "mtime": 1765134100000,
+      "size": 1774
+    },
+    "6 - Notes/6.a - Claims/Many aspects of Buddhism derive from Hinduism.md": {
+      "mtime": 1765134100090,
+      "size": 952
+    },
+    "6 - Notes/6.a - Claims/Many argue that democracy today is, again, backsliding.md": {
+      "mtime": 1765134100055,
+      "size": 1200
+    },
+    "6 - Notes/6.a - Claims/Man is created in the image of God.md": {
+      "mtime": 1770668591352,
+      "size": 773
+    },
+    "6 - Notes/6.a - Claims/Magnificence is liberality when one has great wealth.md": {
+      "mtime": 1776571766969,
+      "size": 867
+    },
+    "6 - Notes/6.a - Claims/Magnanimity is the 'crown' of the moral virtues.md": {
+      "mtime": 1776571766906,
+      "size": 1831
+    },
+    "6 - Notes/6.a - Claims/Mackinder's Heartland Thesis argues that control of the 'heartland' dictates control of the world.md": {
+      "mtime": 1768332053000,
+      "size": 2018
+    },
+    "6 - Notes/6.a - Claims/Lysosomes are membrane enclosed sacs that carry hydrolytic enzymes.md": {
+      "mtime": 1765134099000,
+      "size": 449
+    },
+    "6 - Notes/6.a - Claims/Lying is the root cause of immorality.md": {
+      "mtime": 1773031931470,
+      "size": 1435
+    },
+    "6 - Notes/6.a - Claims/Lying is a 'formal wrongdoing' and not a material wrong.md": {
+      "mtime": 1773031895660,
+      "size": 1517
+    },
+    "6 - Notes/6.a - Claims/Loser's consent is a crucial aspect of democracy.md": {
+      "mtime": 1765134099890,
+      "size": 1438
+    },
+    "6 - Notes/6.a - Claims/Long term goodness is the means to a happy life.md": {
+      "mtime": 1776571766889,
+      "size": 1326
+    },
+    "6 - Notes/6.a - Claims/Logical disjunctions are always truth-functional.md": {
+      "mtime": 1765134099824,
+      "size": 691
+    },
+    "6 - Notes/6.a - Claims/LLMs are not good at counting and manipulating individual characters.md": {
+      "mtime": 1768332053651,
+      "size": 1052
+    },
+    "6 - Notes/6.a - Claims/LLM hallucinations are 'shameless guesses,' not 'hallucinations'.md": {
+      "mtime": 1773896062157,
+      "size": 1168
+    },
+    "6 - Notes/6.a - Claims/Light-dependent reactions generate energy in the form of ATP and NADPH.md": {
+      "mtime": 1765986854866,
+      "size": 1764
+    },
+    "6 - Notes/6.a - Claims/Ligands are molecules that bind to receptors.md": {
+      "mtime": 1765134099000,
+      "size": 631
+    },
+    "6 - Notes/6.a - Claims/Licentiousness is acting wrongly voluntarily.md": {
+      "mtime": 1776571766876,
+      "size": 559
+    },
+    "6 - Notes/6.a - Claims/Licensure is, under most circumstances, unnecessary and detrimental to society.md": {
+      "mtime": 1774493140413,
+      "size": 2148
+    },
+    "6 - Notes/6.a - Claims/Liberality (generosity) is the result of giving to others under the right conditions.md": {
+      "mtime": 1776571766855,
+      "size": 1248
+    },
+    "6 - Notes/6.a - Claims/Legal regulation is not context sensitive.md": {
+      "mtime": 1765134099707,
+      "size": 981
+    },
+    "6 - Notes/6.a - Claims/Leaders often use external conflict to overcome internal division.md": {
+      "mtime": 1765134099684,
+      "size": 1351
+    },
+    "6 - Notes/6.a - Claims/Large MES relative to industry demand indicates consolidation; small MES indicates competition.md": {
+      "mtime": 1765134099000,
+      "size": 1173
+    },
+    "6 - Notes/6.a - Claims/Labor productivity grows faster in manufacturing than service sectors.md": {
+      "mtime": 1765134099588,
+      "size": 658
+    },
+    "6 - Notes/6.a - Claims/Korsgaard argues that our identity is define by our nature as agents.md": {
+      "mtime": 1774465765994,
+      "size": 2238
+    },
+    "6 - Notes/6.a - Claims/Knowledge is power.md": {
+      "mtime": 1765134099000,
+      "size": 664
+    },
+    "6 - Notes/6.a - Claims/Kinase cascades relay and amplify a signal.md": {
+      "mtime": 1765134099488,
+      "size": 577
+    },
+    "6 - Notes/6.a - Claims/Kennan’s containment policy sought to prevent the expansion of Soviet power in the Rimland.md": {
+      "mtime": 1765134099000,
+      "size": 871
+    },
+    "6 - Notes/6.a - Claims/Justice is the full set of virtues that relate to how one engages with others under the law.md": {
+      "mtime": 1776571766837,
+      "size": 712
+    },
+    "6 - Notes/6.a - Claims/Justice in the political sphere corresponds to friendship in the household.md": {
+      "mtime": 1776571766820,
+      "size": 2060
+    },
+    "6 - Notes/6.a - Claims/Justice has lexical priority over other societal concerns.md": {
+      "mtime": 1774900152751,
+      "size": 576
+    },
+    "6 - Notes/6.a - Claims/Justice consists of particular and general justice.md": {
+      "mtime": 1776571766803,
+      "size": 1009
+    },
+    "6 - Notes/6.a - Claims/Justice as fairness would be accepted by free, rational, and prudential persons.md": {
+      "mtime": 1774939548810,
+      "size": 1085
+    },
+    "6 - Notes/6.a - Claims/Justice as fairness is specifically designed for a closed, well-ordered society.md": {
+      "mtime": 1774900549663,
+      "size": 842
+    },
+    "6 - Notes/6.a - Claims/Judicial supremacy was not established in the US until the 1960s.md": {
+      "mtime": 1768168335962,
+      "size": 641
+    },
+    "6 - Notes/6.a - Claims/Japan's economy is sustained by a highly leveraged sovereign wealth fund.md": {
+      "mtime": 1773286858961,
+      "size": 1211
+    },
+    "6 - Notes/6.a - Claims/It is one's duty to ensure justice in a corrupt society.md": {
+      "mtime": 1769238741068,
+      "size": 456
+    },
+    "6 - Notes/6.a - Claims/It is not good for man to be alone.md": {
+      "mtime": 1770668183805,
+      "size": 1276
+    },
+    "6 - Notes/6.a - Claims/It is not always good to know the truth.md": {
+      "mtime": 1766811563117,
+      "size": 4212
+    },
+    "6 - Notes/6.a - Claims/It is easy to love humanity in general, but difficult to love people in particular.md": {
+      "mtime": 1772987428961,
+      "size": 2970
+    },
+    "6 - Notes/6.a - Claims/Israel must maintain border zones with the nations that surround it, which means engaging in preemptive strikes.md": {
+      "mtime": 1775369254889,
+      "size": 834
+    },
+    "6 - Notes/6.a - Claims/Islamic states are far more likely to engage in violence than non-Islamic ones.md": {
+      "mtime": 1774495779187,
+      "size": 1544
+    },
+    "6 - Notes/6.a - Claims/Islamic culture places emphasis on the tribe and the religion, not the nation-state.md": {
+      "mtime": 1773521717349,
+      "size": 1542
+    },
+    "6 - Notes/6.a - Claims/Islam spread to Southeast Asia through trade, rather than through military conquest.md": {
+      "mtime": 1768332177000,
+      "size": 628
+    },
+    "6 - Notes/6.a - Claims/Ionic bonds transfer electrons.md": {
+      "mtime": 1765134099000,
+      "size": 1047
+    },
+    "6 - Notes/6.a - Claims/Inventors have an incentive to lower the bar of originality for patents and IPRs.md": {
+      "mtime": 1765134099258,
+      "size": 743
+    },
+    "6 - Notes/6.a - Claims/Interpersonal relations in the Confucian tradition are characterized by power imbalance.md": {
+      "mtime": 1765134099000,
+      "size": 977
+    },
+    "6 - Notes/6.a - Claims/International IPR and patent laws benefit incumbents.md": {
+      "mtime": 1765134099000,
+      "size": 1227
+    },
+    "6 - Notes/6.a - Claims/Intermolecular forces interact between non polar molecules.md": {
+      "mtime": 1765134099186,
+      "size": 861
+    },
+    "6 - Notes/6.a - Claims/Interlocking patents is a barrier to innovation.md": {
+      "mtime": 1765134099139,
+      "size": 1131
+    },
+    "6 - Notes/6.a - Claims/Intellect is a way to rationalize selfishness; impulsiveness is needed to love.md": {
+      "mtime": 1772987379050,
+      "size": 1446
+    },
+    "6 - Notes/6.a - Claims/Instant-runoff voting solves the spoiler effect.md": {
+      "mtime": 1769027571000,
+      "size": 852
+    },
+    "6 - Notes/6.a - Claims/Innovation in fields such as green energy and pharmaceuticals are slowing down.md": {
+      "mtime": 1773530715331,
+      "size": 2298
+    },
+    "6 - Notes/6.a - Claims/Inequality is caused by technological innovation overtaking human capital improvement.md": {
+      "mtime": 1768332053000,
+      "size": 1001
+    },
+    "6 - Notes/6.a - Claims/Inequality has dropped globally, though increased within countries.md": {
+      "mtime": 1769218120000,
+      "size": 1171
+    },
+    "6 - Notes/6.a - Claims/Inefficient taxes are a means of keeping the power of the government in check.md": {
+      "mtime": 1773286858837,
+      "size": 1092
+    },
+    "6 - Notes/6.a - Claims/Indifference curves cannot cross.md": {
+      "mtime": 1773286864500,
+      "size": 898
+    },
+    "6 - Notes/6.a - Claims/In the US, direct state expenditures are often 'submerged' through indirect tax breaks.md": {
+      "mtime": 1765134099086,
+      "size": 553
+    },
+    "6 - Notes/6.a - Claims/In signal transduction pathways, enzymes cause signal amplification.md": {
+      "mtime": 1765134099058,
+      "size": 552
+    },
+    "6 - Notes/6.a - Claims/In RTKs, signals are amplified through kinase cascades; in GPCR, signals are amplified through second messengers.md": {
+      "mtime": 1765134098000,
+      "size": 668
+    },
+    "6 - Notes/6.a - Claims/In proteins, secondary structure describes interactions between backbones, and tertiary structure, R groups.md": {
+      "mtime": 1765134099000,
+      "size": 581
+    },
+    "6 - Notes/6.a - Claims/In propositional logic, an atomic formulae cannot contain any logical connective.md": {
+      "mtime": 1765134098000,
+      "size": 657
+    },
+    "6 - Notes/6.a - Claims/In order to recapture economic growth, the EU must deregulate and standardize market rules.md": {
+      "mtime": 1765134098000,
+      "size": 1574
+    },
+    "6 - Notes/6.a - Claims/In empires, the north is typically where the political control is based, and the south is typically where the economic power is.md": {
+      "mtime": 1772692926730,
+      "size": 781
+    },
+    "6 - Notes/6.a - Claims/In an experiment, replication reduces variability.md": {
+      "mtime": 1765134098936,
+      "size": 765
+    },
+    "6 - Notes/6.a - Claims/In a conductor, the charged particles remain on the edges of the object.md": {
+      "mtime": 1765134098901,
+      "size": 343
+    },
+    "6 - Notes/6.a - Claims/In a competitive market, the best scenario for the consumer is for there to be complete and pubic access to data on consumers.md": {
+      "mtime": 1773286864456,
+      "size": 1734
+    },
+    "6 - Notes/6.a - Claims/In a capitalist system, economic acquisition is not merely for satisfying material needs, but is also an end in and of itself.md": {
+      "mtime": 1765134098000,
+      "size": 1114
+    },
+    "6 - Notes/6.a - Claims/Implementing a minimum wage is ineffective for gig workers, since their supply is so elastic.md": {
+      "mtime": 1773286782547,
+      "size": 1208
+    },
+    "6 - Notes/6.a - Claims/Immigrants of all types are a net benefit to the US.md": {
+      "mtime": 1773684674402,
+      "size": 2376
+    },
+    "6 - Notes/6.a - Claims/If a superintelligence is able to rewrite its own utility function, it would be neutralized as a threat to humanity.md": {
+      "mtime": 1773286864437,
+      "size": 1037
+    },
+    "6 - Notes/6.a - Claims/If there is an outlier in the data, use IQR instead of range.md": {
+      "mtime": 1765134098822,
+      "size": 508
+    },
+    "6 - Notes/6.a - Claims/If an molecule has and O or N, bonded to C or H, it is likely polar.md": {
+      "mtime": 1765134098000,
+      "size": 1188
+    },
+    "6 - Notes/6.a - Claims/Ideas are getting harder to find.md": {
+      "mtime": 1774502788000,
+      "size": 1463
+    },
+    "6 - Notes/6.a - Claims/IBM failed to invest in emerging technologies, leading to the declining market share in many industries.md": {
+      "mtime": 1773286864419,
+      "size": 1554
+    },
+    "6 - Notes/6.a - Claims/Hydrogen bonds form between polar molecules (or charged molecules).md": {
+      "mtime": 1773286982738,
+      "size": 493
+    },
+    "6 - Notes/6.a - Claims/Huntington revived and reshaped the importance of political culture.md": {
+      "mtime": 1768332053000,
+      "size": 2414
+    },
+    "6 - Notes/6.a - Claims/Hungary's economy is suffering from a lack of demand, deficit spending, and corruption.md": {
+      "mtime": 1765134098386,
+      "size": 583
+    },
+    "6 - Notes/6.a - Claims/Humanity is insignificant.md": {
+      "mtime": 1766812201000,
+      "size": 1175
+    },
+    "6 - Notes/6.a - Claims/Human capital explains the success of East Asian nations.md": {
+      "mtime": 1768332053429,
+      "size": 762
+    },
+    "6 - Notes/6.a - Claims/How characters are framed in a shot can demonstrate the relationship or the mental state of characters.md": {
+      "mtime": 1773286725655,
+      "size": 1639
+    },
+    "6 - Notes/6.a - Claims/Hoppes describes the 'process of civilization' as one where time preferences diminish.md": {
+      "mtime": 1765601808784,
+      "size": 655
+    },
+    "6 - Notes/6.a - Claims/Hormones are organic compounds that help an organism maintain homeostasis 2.md": {
+      "mtime": 1765134098323,
+      "size": 466
+    },
+    "6 - Notes/6.a - Claims/Hinduism’s tolerance of other belief systems limits religion conflicts in India.md": {
+      "mtime": 1765134098000,
+      "size": 806
+    },
+    "6 - Notes/6.a - Claims/High population density, high rail density, and limited car reliance produce positive economic value.md": {
+      "mtime": 1776281378000,
+      "size": 556
+    },
+    "6 - Notes/6.a - Claims/High income people will pay to keep low income people out of their neighborhoods.md": {
+      "mtime": 1773286858696,
+      "size": 687
+    },
+    "6 - Notes/6.a - Claims/Heterotrophic means consumer; autotrophic means producer.md": {
+      "mtime": 1765134098170,
+      "size": 637
+    },
+    "6 - Notes/6.a - Claims/Health care does not have an effect on crime.md": {
+      "mtime": 1773287041759,
+      "size": 705
+    },
+    "6 - Notes/6.a - Claims/Hamlet (play) includes many conceits.md": {
+      "mtime": 1765134098000,
+      "size": 355
+    },
+    "6 - Notes/6.a - Claims/Grounding removes the excess electrons to another object that is capable of holding the charges.md": {
+      "mtime": 1765134098000,
+      "size": 474
+    },
+    "6 - Notes/6.a - Claims/Hamlet (play) can be analyzed through Freudian psychoanalysis.md": {
+      "mtime": 1765134098103,
+      "size": 905
+    },
+    "6 - Notes/6.a - Claims/Gradient descent is the process of finding the local minima of a loss function.md": {
+      "mtime": 1772253369501,
+      "size": 1495
+    },
+    "6 - Notes/6.a - Claims/Government institutions, once established, are difficult to end.md": {
+      "mtime": 1773370525901,
+      "size": 982
+    },
+    "6 - Notes/6.a - Claims/Goodwill is not friendship.md": {
+      "mtime": 1776571766777,
+      "size": 839
+    },
+    "6 - Notes/6.a - Claims/Good writing allows the reader to form a visual image in their head.md": {
+      "mtime": 1767728050000,
+      "size": 475
+    },
+    "6 - Notes/6.a - Claims/Glycolysis and pyruvate oxidation produces NADH and a little bit of ATP.md": {
+      "mtime": 1769238741852,
+      "size": 1010
+    },
+    "6 - Notes/6.a - Claims/Gold may temporarily drop in value during bearish periods in the economy.md": {
+      "mtime": 1775369542203,
+      "size": 969
+    },
+    "6 - Notes/6.a - Claims/Given that basic rights are protected, inequality ought to be reduced as much as possible.md": {
+      "mtime": 1766210309000,
+      "size": 554
+    },
+    "6 - Notes/6.a - Claims/Gibbs Free energy is the energy in a system available to do work at a constant energy and pressure.md": {
+      "mtime": 1769238730308,
+      "size": 494
+    },
+    "6 - Notes/6.a - Claims/Geography can influence the way the manner in which states form and the actions they take.md": {
+      "mtime": 1774666019085,
+      "size": 899
+    },
+    "6 - Notes/6.a - Claims/Genghis Khan united the Mongol tribes so their combined strengths could be directed at external enemies.md": {
+      "mtime": 1773286965354,
+      "size": 645
+    },
+    "6 - Notes/6.a - Claims/Generalization without examples is pointless, and vice versa.md": {
+      "mtime": 1765134097865,
+      "size": 559
+    },
+    "6 - Notes/6.a - Claims/Fukuyama argued that the end of the Cold War meant the 'end of history'.md": {
+      "mtime": 1765134097000,
+      "size": 1391
+    },
+    "6 - Notes/6.a - Claims/Friendship is more necessary in adversity, but more honorable in prosperity.md": {
+      "mtime": 1776571766745,
+      "size": 1249
+    },
+    "6 - Notes/6.a - Claims/Friendship is having affection for another, wishing well for them, and having the other recognize your affection.md": {
+      "mtime": 1776571766711,
+      "size": 1578
+    },
+    "6 - Notes/6.a - Claims/Friendship based on mutual utility or pleasure are easily dissolved.md": {
+      "mtime": 1776571766676,
+      "size": 1805
+    },
+    "6 - Notes/6.a - Claims/Free actions originate in the agent, a persisting entity and not an event.md": {
+      "mtime": 1769238819441,
+      "size": 403
+    },
+    "6 - Notes/6.a - Claims/Free actions are not the result of causation.md": {
+      "mtime": 1769238831113,
+      "size": 403
+    },
+    "6 - Notes/6.a - Claims/Free actions are caused by prior events involving the agent, but this causation is indeterministic.md": {
+      "mtime": 1769196432000,
+      "size": 403
+    },
+    "6 - Notes/6.a - Claims/France’s strict regulation, high worker benefits, and high pensions are crippling the economy.md": {
+      "mtime": 1770793998406,
+      "size": 1471
+    },
+    "6 - Notes/6.a - Claims/For regulators, taxes are generally more effective tools than bans.md": {
+      "mtime": 1773286782407,
+      "size": 1381
+    },
+    "6 - Notes/6.a - Claims/For an act to be virtuous, the action must have a quality of virtuousness, and the agent must also act in a virtuous state.md": {
+      "mtime": 1776571766641,
+      "size": 1830
+    },
+    "6 - Notes/6.a - Claims/Following the Crisis of the Third Century, the Roman military became centralized around the emperor.md": {
+      "mtime": 1766006925000,
+      "size": 804
+    },
+    "6 - Notes/6.a - Claims/Following 1848, government shifted from repression to reform to avoid further revolutions.md": {
+      "mtime": 1768166568000,
+      "size": 1334
+    },
+    "6 - Notes/6.a - Claims/Financial momentum is predictive of the outcome of a prediction market.md": {
+      "mtime": 1774493287221,
+      "size": 1054
+    },
+    "6 - Notes/6.a - Claims/Fermentation is anaerobic respiration, which means it is less efficient but does not need oxygen.md": {
+      "mtime": 1765134097000,
+      "size": 871
+    },
+    "6 - Notes/6.a - Claims/Feedback inhibitors turn off an enzyme earlier in the pathway.md": {
+      "mtime": 1769238729143,
+      "size": 419
+    },
+    "6 - Notes/6.a - Claims/Facilitated diffusion involves active protein transport; simple diffusion only involves thermal energy.md": {
+      "mtime": 1765134097000,
+      "size": 526
+    },
+    "6 - Notes/6.a - Claims/Every action has an end goal.md": {
+      "mtime": 1776571766594,
+      "size": 1143
+    },
+    "6 - Notes/6.a - Claims/Even if God exists, we ought not to believe in Him.md": {
+      "mtime": 1772988028623,
+      "size": 749
+    },
+    "6 - Notes/6.a - Claims/Equity is the rectification of legal justice.md": {
+      "mtime": 1776571766541,
+      "size": 934
+    },
+    "6 - Notes/6.a - Claims/Enzymes speed up chemical reactions without being consumed in the process.md": {
+      "mtime": 1765134097602,
+      "size": 831
+    },
+    "6 - Notes/6.a - Claims/Enzymes can break every type of bond.md": {
+      "mtime": 1773286982728,
+      "size": 767
+    },
+    "6 - Notes/6.a - Claims/Environment variables are global settings that programs can read at runtime.md": {
+      "mtime": 1768284603000,
+      "size": 713
+    },
+    "6 - Notes/6.a - Claims/Endurance is a crucial component of courage.md": {
+      "mtime": 1776571766475,
+      "size": 891
+    },
+    "6 - Notes/6.a - Claims/Endogeneity is when X is correlated with the error term, breaking casual interpretation.md": {
+      "mtime": 1765134097000,
+      "size": 663
+    },
+    "6 - Notes/6.a - Claims/Encompassing interests mean that an actor's private optimum resembles the social optimum; narrow interests mean that an actor's gains most from rent-seeking.md": {
+      "mtime": 1773286858688,
+      "size": 1550
+    },
+    "6 - Notes/6.a - Claims/Elite overproduction could be a cause of social instability.md": {
+      "mtime": 1769820939060,
+      "size": 651
+    },
+    "6 - Notes/6.a - Claims/Electrostatic induction polarizes a neutral conductor.md": {
+      "mtime": 1765134097435,
+      "size": 641
+    },
+    "6 - Notes/6.a - Claims/Economists tend to overestimate the detrimental effect of tariffs.md": {
+      "mtime": 1765134097388,
+      "size": 1288
+    },
+    "6 - Notes/6.a - Claims/Economic tax incidence is based on relative price elasticity.md": {
+      "mtime": 1774493257418,
+      "size": 930
+    },
+    "6 - Notes/6.a - Claims/Economic liberalization is positively correlated with democratization.md": {
+      "mtime": 1768332053302,
+      "size": 2400
+    },
+    "6 - Notes/6.a - Claims/Economic inequality does not necessarily harm psychological health.md": {
+      "mtime": 1773287041755,
+      "size": 983
+    },
+    "6 - Notes/6.a - Claims/Economic growth is not solely caused by productivity growth.md": {
+      "mtime": 1766293514218,
+      "size": 1301
+    },
+    "6 - Notes/6.a - Claims/Economic freedom is the precursor to political freedom.md": {
+      "mtime": 1765134097305,
+      "size": 588
+    },
+    "6 - Notes/6.a - Claims/Economic espionage has huge, adverse effects for firms.md": {
+      "mtime": 1773286782333,
+      "size": 1279
+    },
+    "6 - Notes/6.a - Claims/Economic compulsion is detached form religious calling beginning during the Enlightenment.md": {
+      "mtime": 1765134097000,
+      "size": 750
+    },
+    "6 - Notes/6.a - Claims/During Prophase I, homologous chromosomes meet in a process called synapsis.md": {
+      "mtime": 1765830860000,
+      "size": 709
+    },
+    "6 - Notes/6.a - Claims/Due to the winner-takes-all nature of patent systems, waste is created through duplicate research.md": {
+      "mtime": 1765134097000,
+      "size": 652
+    },
+    "6 - Notes/6.a - Claims/Double membrane, circular chromosome, bacteria-like ribosomes, and independent replication are evidence for endosymbiosis.md": {
+      "mtime": 1765134097000,
+      "size": 629
+    },
+    "6 - Notes/6.a - Claims/Distributive Justice means that each individual receives the amount of something commensurate to their merit.md": {
+      "mtime": 1776571766408,
+      "size": 524
+    },
+    "6 - Notes/6.a - Claims/Disulfide bridges can only be formed between two cysteine.md": {
+      "mtime": 1765134097199,
+      "size": 420
+    },
+    "6 - Notes/6.a - Claims/Dirigisme describes a focus on internal management; Neomercantilism describes a focus on external management.md": {
+      "mtime": 1773286858607,
+      "size": 831
+    },
+    "6 - Notes/6.a - Claims/Different people receiving prices does not necessarily mean price discrimination.md": {
+      "mtime": 1773286864410,
+      "size": 951
+    },
+    "6 - Notes/6.a - Claims/Developing countries can be stuck in the middle income trap.md": {
+      "mtime": 1765134097000,
+      "size": 1427
+    },
+    "6 - Notes/6.a - Claims/Determinism and free will are incompatible.md": {
+      "mtime": 1769403511520,
+      "size": 859
+    },
+    "6 - Notes/6.a - Claims/Determinism and free will are compatible.md": {
+      "mtime": 1769218283427,
+      "size": 18038
+    },
+    "6 - Notes/6.a - Claims/Despite some civilizational convergence, there is no universality in culture.md": {
+      "mtime": 1774764034306,
+      "size": 2233
+    },
+    "6 - Notes/6.a - Claims/Designing a Good Experiment.md": {
+      "mtime": 1766352897238,
+      "size": 1433
+    },
+    "6 - Notes/6.a - Claims/Descartes deconstructs belief to reconstruct a new epistemology based on the divine.md": {
+      "mtime": 1768332177000,
+      "size": 850
+    },
+    "6 - Notes/6.a - Claims/Deregulation is generally beneficial for the economy.md": {
+      "mtime": 1773286782272,
+      "size": 1464
+    },
+    "6 - Notes/6.a - Claims/Deontic powers, which are desire-independent reasons for acting, are are built upon institutional facts.md": {
+      "mtime": 1765134097000,
+      "size": 580
+    },
+    "6 - Notes/6.a - Claims/Depolarization is the process by which the interior of a cell becomes more positive.md": {
+      "mtime": 1765134097053,
+      "size": 556
+    },
+    "6 - Notes/6.a - Claims/Denaturation is the process by which a protein is unfolded.md": {
+      "mtime": 1765134096000,
+      "size": 628
+    },
+    "6 - Notes/6.a - Claims/Democracy does not equal constitutional liberalism.md": {
+      "mtime": 1765134096967,
+      "size": 1369
+    },
+    "6 - Notes/6.a - Claims/Deliberation is the process that occurs when the means are uncertain and reason is required to find the correct means.md": {
+      "mtime": 1776571766381,
+      "size": 1259
+    },
+    "6 - Notes/6.a - Claims/Decentralized systems develop better; centralized systems maintained better.md": {
+      "mtime": 1774492629593,
+      "size": 889
+    },
+    "6 - Notes/6.a - Claims/Daoism argues for self-sufficiency and withdrawal from worldly affairs.md": {
+      "mtime": 1765134096903,
+      "size": 797
+    },
+    "6 - Notes/6.a - Claims/Currency devaluation causes unemployment because capital holders withdraw from the real economy.md": {
+      "mtime": 1773286858424,
+      "size": 1073
+    },
+    "6 - Notes/6.a - Claims/Culture is the largest and most prominent cleavage in societies.md": {
+      "mtime": 1773033004322,
+      "size": 1381
+    },
+    "6 - Notes/6.a - Claims/Cultures and institutions are different.md": {
+      "mtime": 1765134096000,
+      "size": 1610
+    },
+    "6 - Notes/6.a - Claims/Culture is not determinant of the political institutions that can exist within a society.md": {
+      "mtime": 1773032750774,
+      "size": 2780
+    },
+    "6 - Notes/6.a - Claims/Covalent bonds share electrons.md": {
+      "mtime": 1773286982721,
+      "size": 956
+    },
+    "6 - Notes/6.a - Claims/Covalent bonds can only be broken via catalysis by enzymes.md": {
+      "mtime": 1773286982714,
+      "size": 748
+    },
+    "6 - Notes/6.a - Claims/Corbett favors the strategic defensive, but the operational offensive.md": {
+      "mtime": 1765134096000,
+      "size": 940
+    },
+    "6 - Notes/6.a - Claims/Continence is the ability to for one’s reason to overpower one’s desires.md": {
+      "mtime": 1776571766337,
+      "size": 666
+    },
+    "6 - Notes/6.a - Claims/Contemplation is the highest form of happiness.md": {
+      "mtime": 1776571766317,
+      "size": 1825
+    },
+    "6 - Notes/6.a - Claims/Congress is the only branch of government that has checks on itself.md": {
+      "mtime": 1765134096000,
+      "size": 831
+    },
+    "6 - Notes/6.a - Claims/Conflicts arise when a rising power begins to overtake an existing hegemon.md": {
+      "mtime": 1774231966000,
+      "size": 915
+    },
+    "6 - Notes/6.a - Claims/Confucianism has a prominent focus on education.md": {
+      "mtime": 1765134096720,
+      "size": 666
+    },
+    "6 - Notes/6.a - Claims/Conflict is sharpened by differences in culture.md": {
+      "mtime": 1774656979869,
+      "size": 1662
+    },
+    "6 - Notes/6.a - Claims/Conductivity is determined by the resistance of a material.md": {
+      "mtime": 1765134096701,
+      "size": 405
+    },
+    "6 - Notes/6.a - Claims/Concord is a pragmatic friendship between citizens of a state.md": {
+      "mtime": 1776571766284,
+      "size": 955
+    },
+    "6 - Notes/6.a - Claims/Columb's Law is very similar to the Law of Universal Gravitation.md": {
+      "mtime": 1772253359691,
+      "size": 776
+    },
+    "6 - Notes/6.a - Claims/Compensating differentials partly explain why jobs have different pay.md": {
+      "mtime": 1773286782255,
+      "size": 677
+    },
+    "6 - Notes/6.a - Claims/Colors in paintings can be used to determine historical economic growth.md": {
+      "mtime": 1770793122911,
+      "size": 859
+    },
+    "6 - Notes/6.a - Claims/Cluster Sampling Method.md": {
+      "mtime": 1765134096587,
+      "size": 759
+    },
+    "6 - Notes/6.a - Claims/Cilia are microtubule-based organelles that protrude from the membrane of a cell.md": {
+      "mtime": 1765134096537,
+      "size": 475
+    },
+    "6 - Notes/6.a - Claims/Christian morality is correct because it has survived even beyond the bounds of the religion.md": {
+      "mtime": 1771391611834,
+      "size": 1028
+    },
+    "6 - Notes/6.a - Claims/Cholesterol is used to control the fluidity of membranes.md": {
+      "mtime": 1765134096521,
+      "size": 469
+    },
+    "6 - Notes/6.a - Claims/CHONPSNaCaK are the most fundamental building blocks of biological molecules.md": {
+      "mtime": 1765134096102,
+      "size": 867
+    },
+    "6 - Notes/6.a - Claims/Chinese society is generally more receptive to new technologies.md": {
+      "mtime": 1772056231000,
+      "size": 1178
+    },
+    "6 - Notes/6.a - Claims/Cholesterol is the starting material for the synthesis of many hormones.md": {
+      "mtime": 1765134096488,
+      "size": 357
+    },
+    "6 - Notes/6.a - Claims/China's basic social contract is that the government gets autocratic powers, in exchange for positive rights for citizens.md": {
+      "mtime": 1766209081000,
+      "size": 767
+    },
+    "6 - Notes/6.a - Claims/China grows its influence with non-expansionary means.md": {
+      "mtime": 1774234061000,
+      "size": 1069
+    },
+    "6 - Notes/6.a - Claims/China will dominate in East Asia.md": {
+      "mtime": 1774235142000,
+      "size": 1194
+    },
+    "6 - Notes/6.a - Claims/China is characterized by a strong state, while India is characterized by a strong society.md": {
+      "mtime": 1765134096000,
+      "size": 2347
+    },
+    "6 - Notes/6.a - Claims/Chess teaches you to evaluate ideas rationally under pressure.md": {
+      "mtime": 1766101804186,
+      "size": 1167
+    },
+    "6 - Notes/6.a - Claims/Checkpoints ensure that the process of cell division is controlled and does not produce cancerous cells.md": {
+      "mtime": 1765134096000,
+      "size": 526
+    },
+    "6 - Notes/6.a - Claims/Charges refer to different particles depending on the context.md": {
+      "mtime": 1765134096000,
+      "size": 704
+    },
+    "6 - Notes/6.a - Claims/Ceteris paribus, the simplest process is the best one.md": {
+      "mtime": 1765134096353,
+      "size": 759
+    },
+    "6 - Notes/6.a - Claims/Change in pH or salinity can break ionic bonds and hydrogen bonds.md": {
+      "mtime": 1765134096000,
+      "size": 659
+    },
+    "6 - Notes/6.a - Claims/CEO pay is high in the US not due to an agency problem.md": {
+      "mtime": 1768168335938,
+      "size": 628
+    },
+    "6 - Notes/6.a - Claims/Cellular respiration consists of glycolysis, the Krebs cycle, and the E.T.C_.md": {
+      "mtime": 1765134096000,
+      "size": 830
+    },
+    "6 - Notes/6.a - Claims/Cells are typically negatively charged.md": {
+      "mtime": 1765134096000,
+      "size": 625
+    },
+    "6 - Notes/6.a - Claims/Carbohydrates have a roughly equal proportion of carbons and oxygens.md": {
+      "mtime": 1765134096235,
+      "size": 401
+    },
+    "6 - Notes/6.a - Claims/Capitalism erodes morality, creating greed, inequality, consumerism, and alienation.md": {
+      "mtime": 1770792126751,
+      "size": 750
+    },
+    "6 - Notes/6.a - Claims/Capital's share of income will rise in the future due to AI.md": {
+      "mtime": 1773286858374,
+      "size": 1821
+    },
+    "6 - Notes/6.a - Claims/Capital deepening is the increase in proportion of capital to labor.md": {
+      "mtime": 1765134096219,
+      "size": 1042
+    },
+    "6 - Notes/6.a - Claims/Business cycles arise due to artificial manipulations of the interest rate by the central bank.md": {
+      "mtime": 1773286858350,
+      "size": 1023
+    },
+    "6 - Notes/6.a - Claims/Both Hobbes’ and Locke’s political theories are incredibly epistemically demanding.md": {
+      "mtime": 1765134096082,
+      "size": 1154
+    },
+    "6 - Notes/6.a - Claims/Birds rely on Earth's magnetic field in order to understand the direction of their travel and their latitude.md": {
+      "mtime": 1769238743404,
+      "size": 1087
+    },
+    "6 - Notes/6.a - Claims/Biology relies on covalent and ionic bonds, not metallic bonds.md": {
+      "mtime": 1765134096033,
+      "size": 709
+    },
+    "6 - Notes/6.a - Claims/Berkson's paradox explains the existence of false negative correlations between two events.md": {
+      "mtime": 1773286864276,
+      "size": 1212
+    },
+    "6 - Notes/6.a - Claims/Before the Industrial Revolution, there was a disconnect between propositional knowledge and prescriptive knowledge.md": {
+      "mtime": 1768461988602,
+      "size": 581
+    },
+    "6 - Notes/6.a - Claims/Because the Mongols originated from harsh weather, they were able to fight everywhere.md": {
+      "mtime": 1773286965345,
+      "size": 730
+    },
+    "6 - Notes/6.a - Claims/Because people moralize AI, they are unreasonably afraid of it.md": {
+      "mtime": 1774487303192,
+      "size": 1765
+    },
+    "6 - Notes/6.a - Claims/Baumol's Cost Disease slows economic growth due to increasing input costs in low productivity industries.md": {
+      "mtime": 1773286858342,
+      "size": 1819
+    },
+    "6 - Notes/6.a - Claims/Authoritarian & non-democratic nations likely overstate their GDP growth.md": {
+      "mtime": 1773286858204,
+      "size": 1715
+    },
+    "6 - Notes/6.a - Claims/Atomic sentences are independent in propositional logic.md": {
+      "mtime": 1768697488175,
+      "size": 975
+    },
+    "6 - Notes/6.a - Claims/At room temperature, unsaturated lipids are liquid, and saturated lipids are solid.md": {
+      "mtime": 1769027637000,
+      "size": 563
+    },
+    "6 - Notes/6.a - Claims/As societies become more modern and wealthy, they shift towards liberal democracy.md": {
+      "mtime": 1773100338150,
+      "size": 833
+    },
+    "6 - Notes/6.a - Claims/As income rises, less proportionally, is spent on food.md": {
+      "mtime": 1773286858162,
+      "size": 825
+    },
+    "6 - Notes/6.a - Claims/Aristotle separates intellectual and moral virtue.md": {
+      "mtime": 1776571766252,
+      "size": 1691
+    },
+    "6 - Notes/6.a - Claims/Aristotle rejects a Platonic definition of goodness.md": {
+      "mtime": 1776571766226,
+      "size": 2779
+    },
+    "6 - Notes/6.a - Claims/Aristotle conceives of three different potential definitions for happiness.md": {
+      "mtime": 1776571766197,
+      "size": 2435
+    },
+    "6 - Notes/6.a - Claims/Apoptosis is the process by which your body conducts quality control.md": {
+      "mtime": 1765134095000,
+      "size": 635
+    },
+    "6 - Notes/6.a - Claims/Anselm's Ontological Argument is not convincing.md": {
+      "mtime": 1765134095553,
+      "size": 1415
+    },
+    "6 - Notes/6.a - Claims/Any consumption tax can be made progressive with the right rebate system.md": {
+      "mtime": 1765600942000,
+      "size": 1247
+    },
+    "6 - Notes/6.a - Claims/Animalism regarding identity states that humans are merely biological animals.md": {
+      "mtime": 1774465765975,
+      "size": 413
+    },
+    "6 - Notes/6.a - Claims/An unrealized gains tax may force owners to liquidate illiquid assets just to pay taxes.md": {
+      "mtime": 1773286858111,
+      "size": 1034
+    },
+    "6 - Notes/6.a - Claims/An ordinary monopolist sets the price where the demand curve is unit elastic.md": {
+      "mtime": 1773286864256,
+      "size": 1370
+    },
+    "6 - Notes/6.a - Claims/An ignorant action is only excusable when it represents an ignorance of the particular, not of the universal or of voluntary ignorance.md": {
+      "mtime": 1776571766171,
+      "size": 1613
+    },
+    "6 - Notes/6.a - Claims/An insulator is a type of nonconductor.md": {
+      "mtime": 1765134095433,
+      "size": 427
+    },
+    "6 - Notes/6.a - Claims/An electric field represents the region around a charged object where other charged objects experience a force.md": {
+      "mtime": 1768332053000,
+      "size": 661
+    },
+    "6 - Notes/6.a - Claims/An electric dipole is when there is two equal and opposite charges.md": {
+      "mtime": 1765134095368,
+      "size": 453
+    },
+    "6 - Notes/6.a - Claims/An adroit use of verbs is the prerequisite for good writing.md": {
+      "mtime": 1769238747727,
+      "size": 435
+    },
+    "6 - Notes/6.a - Claims/An act is voluntary when an agent chooses to engage in it.md": {
+      "mtime": 1776571766142,
+      "size": 2271
+    },
+    "6 - Notes/6.a - Claims/An act is non-voluntary when an agent acts out of ignorance and feels no regret afterwards.md": {
+      "mtime": 1776571766106,
+      "size": 1277
+    },
+    "6 - Notes/6.a - Claims/An act is compulsory when the cause of the action is external or the agent acts out of ignorance but is remorseful.md": {
+      "mtime": 1776571766084,
+      "size": 1331
+    },
+    "6 - Notes/6.a - Claims/Amusement is pleasant and choice-worthy, though it is not happiness.md": {
+      "mtime": 1776571766059,
+      "size": 983
+    },
+    "6 - Notes/6.a - Claims/American white males are underrepresented in academia and media in lower-level positions, and overrepresented in upper level positions.md": {
+      "mtime": 1768168335000,
+      "size": 1536
+    },
+    "6 - Notes/6.a - Claims/American democracy is too populist.md": {
+      "mtime": 1765134095000,
+      "size": 655
+    },
+    "6 - Notes/6.a - Claims/All humans are innately good.md": {
+      "mtime": 1765134095285,
+      "size": 786
+    },
+    "6 - Notes/6.a - Claims/All energy generated in photosynthesis is used up by photosynthesis.md": {
+      "mtime": 1765134095000,
+      "size": 880
+    },
+    "6 - Notes/6.a - Claims/All carbohydrates are polar.md": {
+      "mtime": 1765134095000,
+      "size": 488
+    },
+    "6 - Notes/6.a - Claims/AI will reduce wage inequality through 'simplification'.md": {
+      "mtime": 1770792506491,
+      "size": 2104
+    },
+    "6 - Notes/6.a - Claims/AI represents a new epistemological category.md": {
+      "mtime": 1774486737180,
+      "size": 1614
+    },
+    "6 - Notes/6.a - Claims/AI has the potential to eliminate information asymmetry in markets.md": {
+      "mtime": 1773286782237,
+      "size": 1102
+    },
+    "6 - Notes/6.a - Claims/Activist organizations often shift priorities in order to self-perpetuate.md": {
+      "mtime": 1773370499868,
+      "size": 3587
+    },
+    "6 - Notes/6.a - Claims/Acting virtuously is not painful.md": {
+      "mtime": 1776571766020,
+      "size": 1364
+    },
+    "6 - Notes/6.a - Claims/Academia invented concise words which have led to a decline in the use of flowery language.md": {
+      "mtime": 1765134095000,
+      "size": 529
+    },
+    "6 - Notes/6.a - Claims/A ‘torn country’ can redefine itself.md": {
+      "mtime": 1773033713698,
+      "size": 2407
+    },
+    "6 - Notes/6.a - Claims/A world dominated by China will be radically different from a world dominated by the US.md": {
+      "mtime": 1774493740615,
+      "size": 2900
+    },
+    "6 - Notes/6.a - Claims/A way to ensure that writing is concise is to score every word or sentence in terms of importance, and remove the unimportant ones.md": {
+      "mtime": 1766374053000,
+      "size": 565
+    },
+    "6 - Notes/6.a - Claims/A viable system must be internally consistent.md": {
+      "mtime": 1774465765963,
+      "size": 1014
+    },
+    "6 - Notes/6.a - Claims/A variety of factors could cause us to be incontinent, or lack self-control.md": {
+      "mtime": 1776571765987,
+      "size": 1997
+    },
+    "6 - Notes/6.a - Claims/A tragedy of the commons cannot be solved with moral suasion or condemnation.md": {
+      "mtime": 1769238744017,
+      "size": 1206
+    },
+    "6 - Notes/6.a - Claims/A system that elects a Condorcet Winner prioritizes majoritarianism over utilitarianism.md": {
+      "mtime": 1768589996000,
+      "size": 973
+    },
+    "6 - Notes/6.a - Claims/A system experiences a decrease in Gibbs Free Energy when there is less energy available to do useful work.md": {
+      "mtime": 1765134095000,
+      "size": 690
+    },
+    "6 - Notes/6.a - Claims/A string is not an expression of propositional logic if it uses symbols not defined in the language.md": {
+      "mtime": 1765418291000,
+      "size": 644
+    },
+    "6 - Notes/6.a - Claims/A strict deference to moral values may have intended negative side effects.md": {
+      "mtime": 1766811544493,
+      "size": 646
+    },
+    "6 - Notes/6.a - Claims/A sodium-potassium pump is the most important protein generating membrane potential in animal cells.md": {
+      "mtime": 1768176657000,
+      "size": 931
+    },
+    "6 - Notes/6.a - Claims/A ranked-choice voting system cannot satisfy all four conditions of fairness.md": {
+      "mtime": 1769027606000,
+      "size": 1334
+    },
+    "6 - Notes/6.a - Claims/A signal sequence gives instructions on where the synthesized protein is to be transported after creation.md": {
+      "mtime": 1765402449000,
+      "size": 985
+    },
+    "6 - Notes/6.a - Claims/A proton and electron carry equal but opposite elementary charges.md": {
+      "mtime": 1767681993924,
+      "size": 682
+    },
+    "6 - Notes/6.a - Claims/A post-Christian world cannot be sustained.md": {
+      "mtime": 1774465765955,
+      "size": 3194
+    },
+    "6 - Notes/6.a - Claims/A natural monopoly is produced when fixed costs are high and variable costs are low in an industry.md": {
+      "mtime": 1767465900000,
+      "size": 710
+    },
+    "6 - Notes/6.a - Claims/A nation cannot permanently hold a stock of money that exceeds its relative productivity.md": {
+      "mtime": 1768721366136,
+      "size": 666
+    },
+    "6 - Notes/6.a - Claims/A mixed-member proportional system (MMP) places greater emphasis on politicians solving local issues that standard PR.md": {
+      "mtime": 1768696221585,
+      "size": 1443
+    },
+    "6 - Notes/6.a - Claims/A kinase can be activated if it is phosphorylated, or bound to a secondary messenger, cyclin, or calcium ion.md": {
+      "mtime": 1767682059000,
+      "size": 884
+    },
+    "6 - Notes/6.a - Claims/A growing gap between Europe and the US is caused by trade, religious, and political tensions.md": {
+      "mtime": 1767335921000,
+      "size": 631
+    },
+    "6 - Notes/6.a - Claims/A group tends to make decisions more extreme than the original intentions of its members.md": {
+      "mtime": 1767124355000,
+      "size": 565
+    },
+    "6 - Notes/6.a - Claims/A government's fiscal health and the health of banks are interlinked, and if one fails, the other likely will as well.md": {
+      "mtime": 1773286858098,
+      "size": 2570
+    },
+    "6 - Notes/6.a - Claims/A good conception of justice is one that aligns with our intuitions and also structures more controversial moral topics.md": {
+      "mtime": 1774984615027,
+      "size": 1223
+    },
+    "6 - Notes/6.a - Claims/A friendship between people of different status is based on status-weighted proportional equality.md": {
+      "mtime": 1776571765920,
+      "size": 856
+    },
+    "6 - Notes/6.a - Claims/A friendship between people of equal status is based on equality.md": {
+      "mtime": 1776571765955,
+      "size": 704
+    },
+    "6 - Notes/6.a - Claims/A firm produces at minimum efficient scale when its long run average cost is minimized.md": {
+      "mtime": 1773286864237,
+      "size": 1469
+    },
+    "6 - Notes/6.a - Claims/A Dutch Auction is one whereby the price is slowly lowered.md": {
+      "mtime": 1773286864039,
+      "size": 860
+    },
+    "6 - Notes/6.a - Claims/A drop in productivity growth is hugely detrimental to overall economic growth.md": {
+      "mtime": 1766293528792,
+      "size": 1575
+    },
+    "6 - Notes/6.a - Claims/A choice is a deliberate decision to do something one sees as a means to an end.md": {
+      "mtime": 1776571765877,
+      "size": 820
+    },
+    "6 - Notes/6.a - Claims/A conductor allows charges to flow freely; an insulator does not.md": {
+      "mtime": 1766101605188,
+      "size": 989
+    },
+    "6 - Notes/6.a - Claims/A conditional is false only if its antecedent is true and its consequent is false.md": {
+      "mtime": 1765744629000,
+      "size": 675
+    },
+    "6 - Notes/6.a - Claims/A change in some exogenous variable may affect both demand and supply.md": {
+      "mtime": 1773286864194,
+      "size": 1202
+    },
+    "6 - Notes/6.a - Claims/A change in price level produces the Income Effect; a change in net worth produces the Real Wealth Effect.md": {
+      "mtime": 1773286864056,
+      "size": 785
+    },
+    "6 - Notes/6.a - Claims/A bad system or institution is one where only the incumbents benefit.md": {
+      "mtime": 1765901047000,
+      "size": 1120
+    },
+    "6 - Notes/6.a - Claims/20th-century American presidents have expanded presidential powers beyond their original constitutional intentions.md": {
+      "mtime": 1775869503881,
+      "size": 1241
+    },
+    "5 - Templates/writing.md": {
+      "mtime": 1765134094000,
+      "size": 110
+    },
+    "5 - Templates/media.md": {
+      "mtime": 1765134094491,
+      "size": 313
+    },
+    "5 - Templates/atomic.md": {
+      "mtime": 1765134094000,
+      "size": 299
+    },
+    "5 - Templates/art.md": {
+      "mtime": 1775534174131,
+      "size": 85
+    },
+    "4 - Maps of Content/Zettelkasten Styleguide.md": {
+      "mtime": 1774718495000,
+      "size": 1748
+    },
+    "4 - Maps of Content/Writing Ideas.md": {
+      "mtime": 1776558368000,
+      "size": 1982
+    },
+    "4 - Maps of Content/Unlinked Notes.md": {
+      "mtime": 1774493324201,
+      "size": 435
+    },
+    "4 - Maps of Content/4.d - Miscellaneous/Quote Bank.md": {
+      "mtime": 1776571765654,
+      "size": 10779
+    },
+    "4 - Maps of Content/4.d - Miscellaneous/My Favorite Artworks.md": {
+      "mtime": 1769497630667,
+      "size": 2510
+    },
+    "4 - Maps of Content/4.a - Toolboxes/Writing Toolbox.md": {
+      "mtime": 1775415381559,
+      "size": 2527
+    },
+    "4 - Maps of Content/4.a - Toolboxes/Philosophy Toolbox.md": {
+      "mtime": 1775190396941,
+      "size": 428
+    },
+    "4 - Maps of Content/4.a - Toolboxes/General Toolbox.md": {
+      "mtime": 1766108254345,
+      "size": 1960
+    },
+    "3 - Writings/Windows 11 in 2025.md": {
+      "mtime": 1766459526389,
+      "size": 12651
+    },
+    "3 - Writings/Columbs's Law.md": {
+      "mtime": 1775190506226,
+      "size": 6212
+    },
+    "3 - Writings/Artificial Intelligence as GPT- Effect on Economies and Societies.md": {
+      "mtime": 1765134110000,
+      "size": 13395
+    },
+    "3 - Writings/3.a - Outlines/ReThink Essay Draft.md": {
+      "mtime": 1776616982161,
+      "size": 3698
+    },
+    "3 - Writings/3.a - Outlines/Freedom is the only non-contradictory political idea.md": {
+      "mtime": 1775263010221,
+      "size": 378
+    },
+    "2 - Source Material/2.b - Art/Yellow Lampshade (painting).md": {
+      "mtime": 1775537964287,
+      "size": 628
+    },
+    "2 - Source Material/2.b - Art/The Sonata (painting).md": {
+      "mtime": 1775538226426,
+      "size": 423
+    },
+    "2 - Source Material/2.b - Art/The Rio della Salute (painting).md": {
+      "mtime": 1775537886898,
+      "size": 330
+    },
+    "2 - Source Material/2.b - Art/The Grand Canal, Venice (painting).md": {
+      "mtime": 1775537820439,
+      "size": 346
+    },
+    "2 - Source Material/2.b - Art/The Cyclopes (painting).md": {
+      "mtime": 1776046939648,
+      "size": 441
+    },
+    "2 - Source Material/2.b - Art/Scene in the Arctic (painting).md": {
+      "mtime": 1775537745516,
+      "size": 360
+    },
+    "2 - Source Material/2.b - Art/San Giorgio Maggiore at Dusk.md": {
+      "mtime": 1775537930016,
+      "size": 379
+    },
+    "2 - Source Material/2.b - Art/Ruins of the Roman Theater at Taormina Sicily (painting).md": {
+      "mtime": 1775538230437,
+      "size": 427
+    },
+    "2 - Source Material/2.b - Art/Rainy Reason in the Tropics (painting).md": {
+      "mtime": 1775537589681,
+      "size": 400
+    },
+    "2 - Source Material/2.b - Art/Prometheus Bound (painting).md": {
+      "mtime": 1775538248203,
+      "size": 273
+    },
+    "2 - Source Material/2.b - Art/Mrs. Daniel Sargent (painting).md": {
+      "mtime": 1775537444376,
+      "size": 526
+    },
+    "2 - Source Material/2.b - Art/Lucia and the Wave (painting).md": {
+      "mtime": 1775537432579,
+      "size": 537
+    },
+    "2 - Source Material/2.b - Art/Highland Light (painting).md": {
+      "mtime": 1775537426769,
+      "size": 892
+    },
+    "2 - Source Material/2.b - Art/Birmingham '63 (painting).md": {
+      "mtime": 1775538255980,
+      "size": 418
+    },
+    "2 - Source Material/2.b - Art/Cat-walk (painting).md": {
+      "mtime": 1775537426751,
+      "size": 775
+    },
+    "2 - Source Material/2.a - Books & Articles/World Civilizations (textbook).md": {
+      "mtime": 1765601786715,
+      "size": 481
+    },
+    "2 - Source Material/2.a - Books & Articles/To Build A Fire.md": {
+      "mtime": 1773286680672,
+      "size": 1338
+    },
+    "2 - Source Material/2.a - Books & Articles/The Third Man.md": {
+      "mtime": 1773287093731,
+      "size": 2822
+    },
+    "2 - Source Material/2.a - Books & Articles/The System or Theory of the Trade of the World.md": {
+      "mtime": 1773286858079,
+      "size": 1492
+    },
+    "2 - Source Material/2.a - Books & Articles/The Sound and the Fury.md": {
+      "mtime": 1776041940879,
+      "size": 4677
+    },
+    "2 - Source Material/2.a - Books & Articles/The Protestant Work Ethic and the Spirit of Capitalism.md": {
+      "mtime": 1765350309000,
+      "size": 2077
+    },
+    "2 - Source Material/2.a - Books & Articles/The Problem With Everything-Bagel Liberalism.md": {
+      "mtime": 1776571828576,
+      "size": 956
+    },
+    "2 - Source Material/2.a - Books & Articles/The Many Faces of Adam Smith (article).md": {
+      "mtime": 1765134093000,
+      "size": 7217
+    },
+    "2 - Source Material/2.a - Books & Articles/The Future of Freedom.md": {
+      "mtime": 1765134093846,
+      "size": 907
+    },
+    "2 - Source Material/2.a - Books & Articles/The Clash of Civilizations and the Remaking of World Order.md": {
+      "mtime": 1774765904028,
+      "size": 3077
+    },
+    "2 - Source Material/2.a - Books & Articles/The Centralizing Effects of Tokyo's Train Network.md": {
+      "mtime": 1773286631836,
+      "size": 494
+    },
+    "2 - Source Material/2.a - Books & Articles/The Brothers Karamazov.md": {
+      "mtime": 1773286629142,
+      "size": 25507
+    },
+    "2 - Source Material/2.a - Books & Articles/Recent Work on Meritocracy.md": {
+      "mtime": 1776617028869,
+      "size": 1130
+    },
+    "2 - Source Material/2.a - Books & Articles/Oedipus the King (play).md": {
+      "mtime": 1773286613048,
+      "size": 1585
+    },
+    "2 - Source Material/2.a - Books & Articles/Nicomachean Ethics.md": {
+      "mtime": 1776572418269,
+      "size": 688
+    },
+    "2 - Source Material/2.a - Books & Articles/Meritocracy.md": {
+      "mtime": 1776572527559,
+      "size": 10056
+    },
+    "2 - Source Material/2.a - Books & Articles/Merit and justice.md": {
+      "mtime": 1776576579150,
+      "size": 407
+    },
+    "2 - Source Material/2.a - Books & Articles/Free Will (SEP).md": {
+      "mtime": 1767734315000,
+      "size": 16084
+    },
+    "2 - Source Material/2.a - Books & Articles/How to Cure Health Care.md": {
+      "mtime": 1775190476378,
+      "size": 3700
+    },
+    "2 - Source Material/2.a - Books & Articles/Hamlet (play).md": {
+      "mtime": 1773286603301,
+      "size": 1166
+    },
+    "2 - Source Material/2.a - Books & Articles/Frankenstein (book).md": {
+      "mtime": 1776571813573,
+      "size": 9521
+    },
+    "2 - Source Material/2.a - Books & Articles/Essays (book).md": {
+      "mtime": 1773286605340,
+      "size": 788
+    },
+    "2 - Source Material/2.a - Books & Articles/East of Eden.md": {
+      "mtime": 1773089221000,
+      "size": 9251
+    },
+    "2 - Source Material/2.a - Books & Articles/Defending the One Percent.md": {
+      "mtime": 1776571659714,
+      "size": 3865
+    },
+    "2 - Source Material/2.a - Books & Articles/Capitalism and Freedom.md": {
+      "mtime": 1765134093000,
+      "size": 637
+    },
+    "2 - Source Material/2.a - Books & Articles/Bible.md": {
+      "mtime": 1771194302232,
+      "size": 3205
+    },
+    "2 - Source Material/2.a - Books & Articles/Bad Samaritans (book).md": {
+      "mtime": 1765134093501,
+      "size": 1006
+    },
+    "2 - Source Material/2.a - Books & Articles/A Theory of Justice.md": {
+      "mtime": 1774993935849,
+      "size": 1230
+    },
+    "2 - Source Material/2.a - Books & Articles/3 ways Trump can deliver an economic 'golden age' for America.md": {
+      "mtime": 1765134093451,
+      "size": 1990
+    },
+    "1 - Unsorted/Justice and the Meritocratic State.md": {
+      "mtime": 1776616005273,
+      "size": 3989
+    },
+    "1 - Unsorted/Inbox.md": {
+      "mtime": 1776558382000,
+      "size": 2666
+    }
+  },
+  "_blobHashCache": {},
+  "_serverCapabilitiesCache": {
+    "host": "https://yaos.fangyuansamcao.workers.dev",
+    "capabilities": {
+      "claimed": true,
+      "authMode": "claim",
+      "attachments": false,
+      "snapshots": false,
+      "serverVersion": "0.3.0",
+      "minPluginVersion": null,
+      "recommendedPluginVersion": "1.5.0",
+      "minSchemaVersion": 2,
+      "maxSchemaVersion": 2,
+      "migrationRequired": false,
+      "updateProvider": null,
+      "updateRepoUrl": null,
+      "updateRepoBranch": null
+    }
+  },
+  "_updateManifestCache": {
+    "fetchedAt": 1776558349242,
+    "manifest": {
+      "latestServerVersion": "0.3.0",
+      "latestPluginVersion": "1.6.1",
+      "releaseType": "compatible",
+      "migrationRequired": false,
+      "autoUpdateEligible": false,
+      "minCompatibleServerVersionForPlugin": "0.2.0",
+      "minCompatiblePluginVersionForServer": "1.3.3",
+      "upgradeOrder": "either",
+      "releaseNotesUrl": "https://github.com/kavinsood/yaos/releases/tag/1.6.1",
+      "upgradeGuideUrl": "https://github.com/kavinsood/yaos#updating-your-server"
+    }
+  },
+  "frontmatterGuardEnabled": true,
+  "_frontmatterQuarantine": [
+    {
+      "path": "2 - Source Material/2.a - Books & Articles/Recent Work on Meritocracy.md",
+      "firstSeenAt": 1776617030095,
+      "lastSeenAt": 1776617030095,
+      "direction": "disk-to-crdt",
+      "reasons": [
+        "malformed-frontmatter:missing-closing-fence"
+      ],
+      "lastNotifiedFingerprint": "malformed-frontmatter:missing-closing-fence#none#none",
+      "lastNoticeAt": 1776617030095,
+      "count": 1
+    }
+  ]
+}

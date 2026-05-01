@@ -1,0 +1,25 @@
+/* ── CSS variable approach (cleanest) ── */
+.theme-light, .theme-dark {
+    --link-decoration: underline;
+    --link-decoration-hover: none;
+    --link-external-decoration: underline;
+    --link-external-decoration-hover: none;
+}
+
+/* ── Live Preview / editing view ── */
+.markdown-source-view.mod-cm6 .cm-underline {
+    text-decoration: underline;
+}
+.markdown-source-view.mod-cm6 .cm-underline:hover {
+    text-decoration: none;
+}
+
+/* ── Reading view ── */
+.markdown-rendered a.internal-link,
+.markdown-rendered a.external-link {
+    text-decoration: underline;
+}
+.markdown-rendered a.internal-link:hover,
+.markdown-rendered a.external-link:hover {
+    text-decoration: none;
+}

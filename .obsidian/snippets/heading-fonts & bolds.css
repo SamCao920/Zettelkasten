@@ -1,0 +1,22 @@
+body {
+    --h1-font: "Editor";
+    --h2-font: "Editor";
+    --h3-font: "Editor";
+    --h4-font: "Editor";
+    --h5-font: "Editor";
+    --h6-font: "Editor";
+
+    /* Note title (inline title) inherits --h1-font by default,
+       but you can override it explicitly: */
+    --inline-title-font: "Editor";
+	
+	/* ── Reading view ── */
+	.markdown-rendered strong {
+		font-family: "Editor";
+	}
+
+	/* ── Live Preview / editing view ── */
+	.markdown-source-view.mod-cm6 .cm-strong {
+		font-family: "Editor";
+	}
+}

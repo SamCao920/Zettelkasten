@@ -1,0 +1,106 @@
+{
+	"nodes":[
+		{
+			"id":"b6ac5f3a3059ea3e",
+			"type":"text",
+			"text":"Principles of justice",
+			"styleAttributes":{},
+			"x":-440,
+			"y":-200,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"fa150723352f4aee",
+			"type":"text",
+			"text":"Moral judgements",
+			"styleAttributes":{},
+			"x":160,
+			"y":-200,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"28a8620541b7a20a",
+			"type":"text",
+			"text":"Original position",
+			"styleAttributes":{},
+			"x":-690,
+			"y":0,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"ab2bf8162aa3e4f1",
+			"type":"text",
+			"text":"Reflective equilibrium",
+			"styleAttributes":{},
+			"x":-440,
+			"y":-400,
+			"width":260,
+			"height":60,
+			"color":"4"
+		}
+	],
+	"edges":[
+		{
+			"id":"c1349d8931975737",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"28a8620541b7a20a",
+			"fromSide":"top",
+			"toNode":"b6ac5f3a3059ea3e",
+			"toSide":"bottom",
+			"label":"1. generates"
+		},
+		{
+			"id":"4d7d4d2da240c1b3",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"b6ac5f3a3059ea3e",
+			"fromSide":"right",
+			"toNode":"fa150723352f4aee",
+			"toSide":"left",
+			"fromEnd":"arrow",
+			"label":"2. checked against"
+		},
+		{
+			"id":"f4fb4d0cf79330ba",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b6ac5f3a3059ea3e",
+			"fromSide":"top",
+			"toNode":"ab2bf8162aa3e4f1",
+			"toSide":"bottom",
+			"label":"3a. in case of coherence"
+		},
+		{
+			"id":"47ee4e9ce4f4fcc0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b6ac5f3a3059ea3e",
+			"fromSide":"bottom",
+			"toNode":"28a8620541b7a20a",
+			"toSide":"right",
+			"label":"3b. revise to improve coherence"
+		},
+		{
+			"id":"57dc1c4521ac7243",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b6ac5f3a3059ea3e",
+			"fromSide":"bottom",
+			"toNode":"fa150723352f4aee",
+			"toSide":"bottom",
+			"label":"3c. revise to improve coherence"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
