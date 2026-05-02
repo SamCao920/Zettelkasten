@@ -16,7 +16,10 @@ $$
 $$
 \therefore Liberal \ societies \longrightarrow \lnot M
 $$
-And then the next section of the argument will be concerned with *how* $FA \longleftrightarrow \lnot ELC$, which is the diachronic portion of the argument. Assuming that meritocracy is justified, and that ELC has been achieved, and FA does not play a role at $t=0$.
+And then the next section of the argument will be concerned with *how* $FA \longleftrightarrow \lnot ELC$, which is the diachronic portion of the argument. Assuming that meritocracy is justified, and that ELC has been achieved, and FA does not play a role at $t_{0}$.
 $$
-M_{0} 
+During \ t_{0} \rightarrow t_{1}, M \ applies
+$$
+$$
+
 $$
