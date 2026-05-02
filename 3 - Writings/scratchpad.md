@@ -11,9 +11,10 @@ $$
 Liberal \ societies \longrightarrow FA
 $$
 $$
-FA \longrightarrow \lnot ELC
+FA \longleftrightarrow \lnot ELC
 $$
 $$
 \therefore Liberal \ societies \longrightarrow \lnot M
 $$
-And then the next section of the argument will be concerned with *how* $FA$
+And then the next section of the argument will be concerned with *how* $FA \longleftrightarrow \lnot ELC$, which is the diachronic portion of the argument.
+
