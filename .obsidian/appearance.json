@@ -1,7 +1,7 @@
 {
   "cssTheme": "Composer",
   "interfaceFontFamily": "GT America Mono Trial Lt,JetBrains Mono",
-  "baseFontSize": 18,
+  "baseFontSize": 17,
   "theme": "system",
   "accentColor": "#5c8af5",
   "textFontFamily": "editor light,Editor",

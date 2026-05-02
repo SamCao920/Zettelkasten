@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "scratchpad",
+      "path": "3 - Writings/scratchpad.md"
+    },
+    {
       "basename": "A Diachronic Rejection of Meritocracy",
       "path": "3 - Writings/A Diachronic Rejection of Meritocracy.md"
     },
     {
-      "basename": "Inbox",
-      "path": "1 - Unsorted/Inbox.md"
+      "basename": "Justice, Equal Opportunity, and the Family",
+      "path": "2 - Source Material/2.a - Books & Articles/Justice, Equal Opportunity, and the Family.md"
     },
     {
       "basename": "A Theory of Justice",
       "path": "2 - Source Material/2.a - Books & Articles/A Theory of Justice.md"
+    },
+    {
+      "basename": "inbox",
+      "path": "1 - Unsorted/inbox.md"
     },
     {
       "basename": "glossary",
@@ -43,10 +51,6 @@
     {
       "basename": "Social and economic inequalities are to satisfy the Difference Principle and Fair Equality of Opportunity",
       "path": "6 - Notes/6.a - Claims/Social and economic inequalities are to satisfy the Difference Principle and Fair Equality of Opportunity.md"
-    },
-    {
-      "basename": "Justice, Equal Opportunity, and the Family",
-      "path": "2 - Source Material/2.a - Books & Articles/Justice, Equal Opportunity, and the Family.md"
     },
     {
       "basename": "Writing Ideas",
@@ -195,10 +199,6 @@
     {
       "basename": "Meritocracy",
       "path": "2 - Source Material/2.a - Books & Articles/Meritocracy.md"
-    },
-    {
-      "basename": "Nicomachean Ethics",
-      "path": "2 - Source Material/2.a - Books & Articles/Nicomachean Ethics.md"
     }
   ],
   "omittedPaths": [],

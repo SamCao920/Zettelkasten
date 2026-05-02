@@ -129,5 +129,13 @@
       ],
       "key": "]"
     }
+  ],
+  "obsidian-git:commit-specified-message": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
   ]
 }
