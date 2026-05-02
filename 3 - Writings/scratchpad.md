@@ -17,10 +17,5 @@ $$
 \therefore Liberal \ societies \longrightarrow \lnot M
 $$
 And then the next section of the argument will be concerned with how 
-$$
-During \ t_{0} \rightarrow t_{1}, M \ applies
-$$
-$$
-t_{1}: winners \ exercise \ FA
-$$
 
+What work does the diachonic argument do? If the statis formulation of the argument above is already proving that liberal societies and meritocracy are incompataible. Like how would someone who comes up with 
