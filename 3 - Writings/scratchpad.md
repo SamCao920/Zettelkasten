@@ -18,4 +18,4 @@ $$
 $$
 And then the next section of the argument will be concerned with how 
 
-What work does the diachonic argument do? If the statis formulation of the argument above is already proving that liberal societies and meritocracy are incompataible. Like how would someone who comes up with a counterarugment for the statisc argument have their counterargument rejected by the diacrhonic argument? I just don’t really see the utility of that argument. I could spend that space elborating on the connection between liberalism and structural inequality, or do something else with it. What do you think?
+What work does the diachronic argument do? If the statis formulation of the argument above is already proving that liberal societies and meritocracy are incompatible. Like how would someone who comes up with a counterargument for the static argument have their counterargument rejected by the diachronic argument? I just don’t really see the utility of that argument. I could spend that space elaborating on the connection between liberalism and structural inequality, or do something else with it. What do you think?
