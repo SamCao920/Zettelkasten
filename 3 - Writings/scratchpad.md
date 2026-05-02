@@ -1,6 +1,6 @@
 ---
 created: 2026-05-02T10:49:36-07:00
-updated: 2026-05-02T11:22:37-07:00
+updated: 2026-05-02T15:47:24-07:00
 ---
 ## [[A Diachronic Rejection of Meritocracy]]
 The core argument that sets up the diachronic argument in premise and conclusion form:
