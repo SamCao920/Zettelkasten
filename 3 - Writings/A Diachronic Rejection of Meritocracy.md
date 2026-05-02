@@ -4,7 +4,7 @@ author:
   - Fangyuan Cao
 aliases:
 created: 2026-04-20T12:09:10-07:00
-updated: 2026-05-02T10:37:28-07:00
+updated: 2026-05-02T10:46:46-07:00
 tags:
   - philosophy
   - philosophy/justice
@@ -19,6 +19,7 @@ The question is centred around two key concepts, that of meritocracy and that of
 ## Introduction
 In contemporary discussions of meritocracy, two perspectives are common. Either meritocracy is the champion of individual abilities and effort, or it is a sham, a societal misconception which only entrenches existing power and wealth differentials. I argue that this is a false binary: meritocracy can be both, *at difference times.* This argument is developed within the context of liberal societies—the only context in which meritocracy is seriously advanced as a fairness claim, %%since it presupposes commitments to individual liberty and family autonomy that liberalism independently affirms%%.[^1] Through a diachronic analysis, we will find that meritocracy is either illiberal, or fundamentally an incoherent, self-defeating concept. 
 In this paper, I specifically attack desert-based meritocracy, the principle that the allocation of social goods is intrinsically justified because individuals deserve outcomes proportional to their merits. [@mulliganMeritocracy2023, sec. 2.2] I concede that instrumental merit, i.e., it is clear that allowing the most qualified to hold a position is a sound principle, regardless of how one is able to become the most qualified, is valid to a certain degree.[^2]
+**In short, meritocracy, by necessity, it promotes an unacceptable level of structural inequality, which gives us good normative reasons to reject it as a viable principle of societal organization.**
 ## Setup: what Meritocracy Requires to Be Justified
 Desert-based meritocracy (DBM) claims to be a *just* system of allocation where positions and rewards go to those who earn them through relevant talent and effort, disregarding irrelevant characteristics.[@fishkinJusticeEqualOpportunity, p. 22] But what does it mean to be just? We can distinguish between two interpretations.[@fishkinJusticeEqualOpportunity, p. 22; @rawlsTheoryJusticeRevised1999, sec. 47]
 	(1) *Procedural justice* states that if the procedure involved in the distribution of social goods is justice, then the outcome of that distribution is just. John Rawls’ terms this “pure procedural justice,” giving the analogy of a fair gambling game, where as long as the procedure is carried out according to fair rules, the outcome is just—though it may result in a differential distribution of goods. [@rawlsTheoryJusticeRevised1999, p. 74-76] 
