@@ -4,7 +4,7 @@ author:
   - Fangyuan Cao
 aliases:
 created: 2026-04-20T12:09:10-07:00
-updated: 2026-05-03T13:21:11-07:00
+updated: 2026-05-03T13:48:09-07:00
 tags:
   - philosophy
   - philosophy/justice
@@ -39,7 +39,7 @@ Despite the empirical, there are a few possible refutations possible for the mer
 	1. the trilemma is an artefact of _extreme_ interpretations of all three principles. On moderate readings — FA as limited parental partiality, M as presumptive rather than absolute merit-tracking, ELC as rough rather than strict statistical equality — the three are compossible. 
 ## The Diachronic Turn
 %%Possibly include a refutation based on the fact that many of the equalizations suggested here would be illiberal if there is space.%%
-
+To address these concerns, I will develop an argument that demonstrates the conceptual incompatibility of FA and ELC, which I term the *diachronic argument*. Granting the charitable concessions that all persons are equalized at some initial time ($t_{0}$) and that at $t_{0}$ FA is irrelevant (e.g., all families have the exact same structure and parent in the exact same manner) 
 - **Reframe the starting point charitably.** Grant, against the empirical evidence just established, that some corrective mechanism achieves ELC at $t_0$. 
 	- This is a deliberate concession, not a retraction - flag it as such explicitly.
 - **Run M at $t_0$.** Under stipulated ELC, $M$ is justified: rewards track genuine merit. Winners receive wealth, status, and social capital.
@@ -58,7 +58,7 @@ More arguments against the incompatibility of FA and ELC.
 		- [@feinbergDoingDeservingEssays1970, p. 55-94] which distinguishes between institutional entitlements and genuine personal desert.
 		- [@pojmanWhatWeDeserve1999, p. 186-95] which distinguishes between “p-desert,” i.e., a pre-institutional moral claim that describes what a person deserves in virtue of their character, effort, or conduct, and “i-desert,” i.e., what a person deserves relative to the rules of an existing institution.
 - Mulligan’s essentiality of origin argument^mulligan-counterargument
-	- ![[A Diachronic Rejection of Meritocracy#^essentiality-of-origin-refuted]]
+	- [@napoletanoCanEssentialityOrigin2022]
 - See [[A Diachronic Rejection of Meritocracy#Refutation of Some Counterarguments]] for a more comprehensive coverage
 ## The Key Distinction from the Rawlsian Luck Objection
 

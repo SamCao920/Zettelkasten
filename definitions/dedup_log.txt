@@ -5498,3 +5498,13 @@
 2026-05-03 13:23:36  Scan complete — no issues found.
 2026-05-03 13:27:06  Running deduplication (Obsidian closed).
 2026-05-03 13:27:06  Scan complete — no issues found.
+2026-05-03 13:35:16  Running deduplication (Obsidian opened).
+2026-05-03 13:35:16  Scan complete — no issues found.
+2026-05-03 13:36:16  Running deduplication (Obsidian closed).
+2026-05-03 13:36:16  Scan complete — no issues found.
+2026-05-03 13:41:16  Running deduplication (Obsidian opened).
+2026-05-03 13:41:16  Scan complete — no issues found.
+2026-05-03 13:46:17  Running deduplication (periodic check).
+2026-05-03 13:46:17  Scan complete — no issues found.
+2026-05-03 16:38:57  Running deduplication (periodic check).
+2026-05-03 16:38:57  Scan complete — no issues found.
