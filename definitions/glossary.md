@@ -1,6 +1,6 @@
 ---
 created: 2026-04-21T23:10:28-07:00
-updated: 2026-04-30T21:03:30-07:00
+updated: 2026-05-03T11:35:23-07:00
 def-type: consolidated
 ---
 # Primary Balancer
@@ -799,6 +799,6 @@ First-past-the-post (SMP) systems tend to produce two-party systems, whereas pro
 
 ---
 
-# arguendo
+# Arguendo
 
 "For the sake of argument"; accepting some premise to examine their conclusions without admitting that the premises are true.

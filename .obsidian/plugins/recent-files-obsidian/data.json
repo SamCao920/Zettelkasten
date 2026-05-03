@@ -5,6 +5,14 @@
       "path": "3 - Writings/A Diachronic Rejection of Meritocracy.md"
     },
     {
+      "basename": "Some people must deserve something",
+      "path": "1 - Unsorted/Some people must deserve something.md"
+    },
+    {
+      "basename": "glossary",
+      "path": "definitions/glossary.md"
+    },
+    {
       "basename": "scratchpad",
       "path": "3 - Writings/scratchpad.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "inbox",
       "path": "1 - Unsorted/inbox.md"
-    },
-    {
-      "basename": "glossary",
-      "path": "definitions/glossary.md"
     },
     {
       "basename": "The groups best able to solve collective action problems are best able to dominate in Congress",
@@ -195,10 +199,6 @@
     {
       "basename": "Rawls' Reflective Equilibrium",
       "path": "6 - Notes/6.b - Canvases/Rawls' Reflective Equilibrium.canvas"
-    },
-    {
-      "basename": "Meritocracy",
-      "path": "2 - Source Material/2.a - Books & Articles/Meritocracy.md"
     }
   ],
   "omittedPaths": [],
