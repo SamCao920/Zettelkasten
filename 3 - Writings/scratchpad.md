@@ -1,6 +1,6 @@
 ---
 created: 2026-05-02T10:49:36-07:00
-updated: 2026-05-03T10:59:51-07:00
+updated: 2026-05-03T11:05:16-07:00
 ---
 ## [[A Diachronic Rejection of Meritocracy]]
 The core argument that sets up the diachronic argument in premise and conclusion form:
@@ -18,7 +18,11 @@ $$
 $$
 Here, the claim that FA and ELC (which is really the core claim in this paper) are not compatible is explained briefly with empirical evidence.
 And then the next section of the argument will be concerned with presenting an even stronger argument for why FA and ELC are incompatible, with this time, the incompatibility being conceptual rather than merely empirical this time. This is the diachronic argument. 
-There are a few reasons that this argument is needed
+There are a few reasons that this argument is needed”
+- The “fixable policy” reply
+- The “institutional failure” reply
+- Rivera López’s reply 
+	- %%I would argue that even such moderate levels of equalization would be illiberal.%%
 The following is the diachronic argument in premise and conclusion form:
 - $\neg\,\mathrm{FA}_{t_0}$, $\mathrm{ELC}_{t_0}$ (stipulated: the strongest case for $M$)
 - $M$ operates at $t_0$ under perfectly fair conditions

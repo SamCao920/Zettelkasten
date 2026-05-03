@@ -793,4 +793,12 @@ A group of people who share a common interest and who all benefit from the inter
 
 # Duverger's Law
 
+*Duverger's Laws*
+
 First-past-the-post (SMP) systems tend to produce two-party systems, whereas proportional representation systems tend produce a multiparty system.
+
+---
+
+# arguendo
+
+"For the sake of argument"; accepting some premise to examine their conclusions without admitting that the premises are true.

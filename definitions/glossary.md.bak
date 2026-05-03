@@ -1,6 +1,6 @@
 ---
 created: 2026-04-21T23:10:28-07:00
-updated: 2026-04-30T09:57:23-07:00
+updated: 2026-04-30T21:03:30-07:00
 def-type: consolidated
 ---
 # Primary Balancer
@@ -741,7 +741,7 @@ Data collection from the same source repeatedly over time.
 
 # Bryd Rule
 
-*Bryd Rules*
+*Bryd Rules, Bryd Rules*
 
 Passed in 1985 to ensures that reconciliation bills are used for budget purposes, and cannot include extraneous purposes.
 	- Also, reconciliation bills cannot increase spending or reduce revenues in the period after budget resolution.
@@ -785,12 +785,20 @@ Federal programs that guarantee benefits to anyone who meets legally defined eli
 
 # Collective Action Problem
 
-*Collective Action Problems*
+*Collective Action Problems, Collective Action Problems*
 
 A group of people who share a common interest and who all benefit from the interest being achieved, even those who did not contribute to achieving the interest.
 
 ---
 
-# Duverger's law
+# Duverger's Law
+
+*Duverger's Laws*
 
 First-past-the-post (SMP) systems tend to produce two-party systems, whereas proportional representation systems tend produce a multiparty system.
+
+---
+
+# arguendo
+
+"For the sake of argument"; accepting some premise to examine their conclusions without admitting that the premises are true.
