@@ -1,8 +1,12 @@
 ---
 created: 2026-05-02T10:49:36-07:00
-updated: 2026-05-03T11:05:16-07:00
+updated: 2026-05-03T13:21:46-07:00
 ---
-## [[A Diachronic Rejection of Meritocracy]]
+# [[A Diachronic Rejection of Meritocracy]]
+## Prompt
+**Should Meritocracy Be Considered a Fair System that Rewards Talent and Effort, or a Myth that Disguises Structural Inequality?**
+The question is centred around two key concepts, that of meritocracy and that of structural inequality. Thus, in the first instance, any response will depend on the definition for each of these key concepts. Definitions of such socially embedded concepts are never context-independent. Thus, as a second step, it is necessary to decide on (in an informed manner) relevant scenarios to be considered when approaching the question. Finally, a question to consider is how and why the sample meritocracy is implemented as well as whether it is temporary or not.
+## Argument Structure
 The core argument that sets up the diachronic argument in premise and conclusion form:
 $$
 M \longleftrightarrow ELC

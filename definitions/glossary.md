@@ -1,6 +1,6 @@
 ---
 created: 2026-04-21T23:10:28-07:00
-updated: 2026-05-03T11:35:23-07:00
+updated: 2026-05-03T13:18:32-07:00
 def-type: consolidated
 ---
 # Primary Balancer
@@ -801,4 +801,12 @@ First-past-the-post (SMP) systems tend to produce two-party systems, whereas pro
 
 # Arguendo
 
+*Arguendos*
+
 "For the sake of argument"; accepting some premise to examine their conclusions without admitting that the premises are true.
+
+---
+
+# Gresham's Law
+
+"Good money drives out bad money"; the idea that, when the two currencies are accepted as having similar face values by law, the currency with less intrinsic worth tends to be used more than the other currency in exchanges and thus “drive out” the other currency.

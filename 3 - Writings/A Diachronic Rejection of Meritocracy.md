@@ -4,7 +4,7 @@ author:
   - Fangyuan Cao
 aliases:
 created: 2026-04-20T12:09:10-07:00
-updated: 2026-05-03T11:52:15-07:00
+updated: 2026-05-03T13:21:11-07:00
 tags:
   - philosophy
   - philosophy/justice
@@ -14,8 +14,6 @@ citations: ""
 link-citations: true
 nocite:
 ---
-# Should Meritocracy Be Considered a Fair System that Rewards Talent and Effort, or a Myth that Disguises Structural Inequality?
-The question is centred around two key concepts, that of meritocracy and that of structural inequality. Thus, in the first instance, any response will depend on the definition for each of these key concepts. Definitions of such socially embedded concepts are never context-independent. Thus, as a second step, it is necessary to decide on (in an informed manner) relevant scenarios to be considered when approaching the question. Finally, a question to consider is how and why the sample meritocracy is implemented as well as whether it is temporary or not.
 ## Introduction
 In contemporary discussions of meritocracy, two perspectives are common. Either meritocracy is the champion of individual abilities and effort, or it is a sham, a societal misconception which only entrenches existing power and wealth differentials. I argue that this is a false binary: meritocracy can be both, *at difference times.* This argument is developed within the context of liberal societies—the only context in which meritocracy is seriously advanced as a fairness claim, %%since it presupposes commitments to individual liberty and family autonomy that liberalism independently affirms%%.[^1] Through a diachronic analysis, we will find that meritocracy is either illiberal, or fundamentally an incoherent, self-defeating concept. 
 In this paper, I specifically attack desert-based meritocracy, the principle that the allocation of social goods is intrinsically justified because individuals deserve outcomes proportional to their merits. [@mulliganMeritocracy2023, sec. 2.2] I concede that instrumental merit, i.e., it is clear that allowing the most qualified to hold a position is a sound principle, regardless of how one is able to become the most qualified, is valid to a certain degree.[^2]
@@ -38,6 +36,7 @@ Despite the empirical, there are a few possible refutations possible for the mer
 1. The meritocrat accepts the empirical evidence, but argues that it is evidence of a fixable policy, not a structural incompatibility.
 2. Currently existing empirical evidence show what happens under current circumstances, not what is possible under an idealized but achievable liberal regime. The incompatibility is contingent on insufficient institutional effort, not on FA itself.
 3. The ELC does not require perfect equalization, only that life chances are not predictable from morally arbitrary facts beyond some acceptable threshold.[@lopezEsTrilemaFishkin1996]
+	1. the trilemma is an artefact of _extreme_ interpretations of all three principles. On moderate readings — FA as limited parental partiality, M as presumptive rather than absolute merit-tracking, ELC as rough rather than strict statistical equality — the three are compossible. 
 ## The Diachronic Turn
 %%Possibly include a refutation based on the fact that many of the equalizations suggested here would be illiberal if there is space.%%
 
@@ -67,33 +66,12 @@ More arguments against the incompatibility of FA and ELC.
 * This argument is *diachronic*: even granting (against Rawls) that the initial allocation was fully deserved (or, not against Rawls, since everybody starts exactly the same, i.e., the strong ELC thesis), the system's own outputs poison its future inputs.  
 * The two arguments are logically independent. You need not accept the luck objection to accept this one. This argument is stronger than the luck objection since its has less assumptions.
 * See [@logarRawlssRejectionPreinstitutional2013], which describes Rawls’ theory as offering a specifically synchronic argument about preinstitutional desert.
-## The only Escape Routes, and why They Are Costly
 
-- **Drop FA**: The essay correctly notes Mulligan concedes this. In _Justice and the Meritocratic State_ Mulligan explicitly argues that inheritance should be eliminated in a true meritocracy (see ch. 8 on "Public Spending and the Establishment of Equal Opportunity"; the review in _3 Quarks Daily_ summarises this clearly). The essay's strongest move is to make this concession _vivid_: the most committed contemporary defender of meritocracy agrees that the family must be radically reformed, which is itself evidence that meritocracy cannot coexist with ordinary liberal commitments to the family.
-	- In contemporary literature, this is most comprehensively spelled out in [@mulliganJusticeMeritocraticState2017, sec. 4.5; 8.4] which makes an argument for limiting the autonomy of the family, including through mandatory vaccination, regulation/prohibition of home education, heavy regulation of homeschooling, and “epistemic modesty,” with a catch-all requirement for parents to defer to expert consensus, or the state. Even though he tries to be modest with these changes, they are quite restrict by liberal standard, violating principles such as the right to religious freedom. He also advocates for far higher tax rates (even approaching 100% in some cases) and the elimination of inheritance, which undermines the very foundation of a liberal, market economy.
-- **Weaken ELC**: This is the Joseph Fishkin / anti-bottleneck route. The reply is that weakening ELC from "equal life chances" to "non-bottlenecked plural opportunities" abandons the fairness-based justification of meritocracy. Meritocracy was meant to justify _inequalities of outcome_ as deserved; if we no longer claim that the background enabled desert, the outcomes are not deserved but merely non-arbitrarily distributed — a weaker and different claim. **Andersson, "Meritocracy: From Starting Gate to Bottlenecks" (_The Journal of Ethics_ 29.5, 2025, 819–845)** makes exactly this trade-off explicit: meritocrats must choose between desert-sensitivity (with intractable luck problems) and an anti-bottleneck principle (which abandons desert-sensitivity). Andersson defends the latter; the essay can cite Andersson as evidence that even a sympathetic recent philosopher admits meritocracy must abandon its desert-based fairness claim to survive. **This is a very useful citation: it's post-2020, engages Fishkin directly, and a meritocrat himself concedes the essay's key point.**
-	- See [@anderssonMeritocracyStartingGate2025], who is generally sympathetic to the meritocratic view, and who highlights the trade off between desert-sensitivity and the anti-bottleneck principle. In short, one must choose to either: (1) abandon the desert claims of meritocracy substantially, or (2) face intractable problems presented by the trilemma and luck objection.
-- **Treat M as temporary**: The essay's framing is correct — this concedes that M is not a background condition of justice. Add: a temporary M is effectively a transitional justice mechanism, which means the _justifying_ framework is whatever normative principle picks out the target state M is transitioning toward. Meritocracy becomes instrumentally justified, not foundationally justified, which is the essay's conclusion.
-	- This is very heavily diluting the concept of M, and it becomes instrumentally justified. This is what I would accept.
-`Maybe I could talk a little about some positive theories that one should believe in, if not meritocracy? Although I think that this might be out of the scope of this essay.
-`
 ## The Conclusion
 
 * Meritocracy is not simply "fair" or simply a "myth." It is a normative system that, under the liberal constraint of FA, necessarily generates the structural inequality that defeats its own justificatory conditions across generations.  
 * The prompt's binary is therefore a false dichotomy: meritocracy begins as a fairness claim and ends as inherited privilege wearing a meritocratic disguise \-- not because of external corruption, but through its own internal logic.
 * If we want to preserve meritocracy, the right question to ask is is: are we willing to give up the very foundations of the liberalism in order to do so?
-# Claude’s Critiques
-
-## Node-by-node Refutations
-
-### Node 3: The Trilemma Structure Itself
-
-- **Rivera López, "¿Es el 'trilema de Fishkin' un verdadero trilema?"** (available on academia.edu, in Spanish but summarisable in English) argues the trilemma is an artefact of _extreme_ interpretations of all three principles. On moderate readings — FA as limited parental partiality, M as presumptive rather than absolute merit-tracking, ELC as rough rather than strict statistical equality — the three are compossible. The essay must take a stand: either the moderate readings don't capture what's normatively interesting about each principle (the preferred response, because moderate M is not really _meritocracy_ in the grand-normative-theory sense the question asks about), or the moderate readings still face the diachronic problem albeit in attenuated form.
-	- `This will be ignored, since it is not a major counteragument, and it is not that interesting.`
-- **Joseph Fishkin's own resolution in _Bottlenecks_ (2014, chs. 3 and 5)** [@fishkinBottlenecksNewTheory2014]is effectively an "escape through pluralism": abandon the goal of literal equal opportunity, focus instead on loosening the **bottlenecks** through which people must pass. On this view, the trilemma is a reason to **reject the unitary framework that produced it**, not a reason to reject meritocracy per se. This is the most philosophically sophisticated escape and the essay must either dismiss it (on the grounds that opportunity pluralism already concedes the anti-meritocratic point by abandoning ELC) or show that the bottleneck framework itself reproduces the diachronic problem one level down.
-	- There are a few issues with this response:
-		1. It requires deep institutional redesign, which may not be liberal. How would one ensure that people have value pluralism or that as many valued goods as possible should be non-zero-sum?
-		2. This doesn't really solve the problem that FA poses. Here, it is claimed that once there is a diversity of paths one could take in order to achieve some desired position, that family advantage would be minimized. But this is not necessarily true. If there are $n$ options to reach a desired social position, the winners of each round are still those whose FA-transmitted advantages map best onto whichever of the $n$ paths they pursue. Multiplying paths does not eliminate the transmission mechanism; it merely distributes it. For $\lim_{n \to \infty} n$, the criteria for a desired social position become so amorphous and undefined that the system is no longer a meritocracy in any meaningful sense.
 
 [^1]: For the classic case in favor of liberalism, see [@millLiberty1864]. Furthermore, liberalism has proponents across the political spectrum, ranging from left-egalitarians, e.g. Ronald Dworkin in his [@dworkinTakingRightsSeriously1977] to liberal egalitarians, e.g. Rawl’s [@rawlsTheoryJusticeRevised1999] to right-libertarians, e.g. Nozick’s [@nozickAnarchyStateUtopia1974].
 [^2]: Literature such as [@mulliganMeritocracy2023] and [@danielsMeritMeritocracy1978, p. 207-208] distinguish these two forms of meritocracy and how belief in instrumental meritocracy does not necessitate a corresponding belief in desert-based meritocracy.
