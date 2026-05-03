@@ -1,6 +1,6 @@
 ---
 created: 2026-05-02T10:49:36-07:00
-updated: 2026-05-02T16:43:17-07:00
+updated: 2026-05-02T20:55:05-07:00
 ---
 ## [[A Diachronic Rejection of Meritocracy]]
 The core argument that sets up the diachronic argument in premise and conclusion form:
@@ -25,5 +25,8 @@ And then the next section of the argument will be concerned with presenting an e
 - differential investment at $t_1 \rightarrow \neg\,\mathrm{ELC}_{t_2}$
 - $\neg\,\mathrm{ELC}_{t_2} \rightarrow \neg\,\mathrm{ELC}_{t_3} \rightarrow \cdots$
 - $\therefore\ \mathrm{FA}_{t_1} \rightarrow \neg\,\mathrm{ELC}_{t_n}$ for all $n \geq 2$
-- $\therefore$ even granting $\mathrm{ELC}_{t_0}$, $\mathrm{FA} \leftrightarrow \neg\,\mathrm{ELC}$ across generations
+- $\therefore$ even granting $\mathrm{ELC}_{t_0}$, $\mathrm{FA} \leftrightarrow \neg\,\mathrm{ELC}$ across generations\
+Quickly elaborate on the difference between this argument and the Rawlsian luck objection. 
 Now, I consider some objections.
+Finally, I present some way out for the meritocrat.
+
