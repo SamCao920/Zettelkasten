@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "inbox",
+      "path": "1 - Unsorted/inbox.md"
+    },
+    {
+      "basename": "glossary",
+      "path": "definitions/glossary.md"
+    },
+    {
       "basename": "A Diachronic Rejection of Meritocracy",
       "path": "3 - Writings/A Diachronic Rejection of Meritocracy.md"
     },
     {
       "basename": "scratchpad",
       "path": "3 - Writings/scratchpad.md"
-    },
-    {
-      "basename": "glossary",
-      "path": "definitions/glossary.md"
     },
     {
       "basename": "Some people must deserve something",
@@ -23,10 +27,6 @@
     {
       "basename": "A Theory of Justice",
       "path": "2 - Source Material/2.a - Books & Articles/A Theory of Justice.md"
-    },
-    {
-      "basename": "inbox",
-      "path": "1 - Unsorted/inbox.md"
     },
     {
       "basename": "The groups best able to solve collective action problems are best able to dominate in Congress",

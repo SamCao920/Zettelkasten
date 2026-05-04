@@ -8,3 +8,4 @@ updated: 2026-05-01T12:40:14-07:00
 - [[All philosophy boils down to metaphysics]]
 - [[Marginalism is declining in importance as a theoretical framework]]
 - [[Industrial policy requires wage suppression]]
+- 
