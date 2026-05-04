@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-05-04T09:06:24-07:00
-updated: 2026-05-04T09:12:51-07:00
+updated: 2026-05-04T09:49:55-07:00
 tags:
   - economics
   - history/industrialization
