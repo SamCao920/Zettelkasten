@@ -2,7 +2,7 @@
 aliases:
 artist: Sonia Gechtoff
 created: 2026-04-06T21:01:01-07:00
-updated: 2026-04-06T21:04:51-07:00
+updated: 2026-05-04T12:19:21-07:00
 tags:
   - art
   - art/painting

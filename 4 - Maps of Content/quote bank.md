@@ -1,6 +1,6 @@
 ---
 created: 2025-09-29T17:55:12-07:00
-updated: 2026-02-12T23:39:19-08:00
+updated: 2026-05-04T12:17:46-07:00
 ---
 - *[[Frankenstein, or, The modern Prometheus.pdf#page=258&selection=10,35,15,37|Did you not call this a glorious expedition? And wherefore was it glorious? Not because the way was smooth and placid as a southern sea, but because it was full of dangers and terror; because, at every new incident, your fortitude was to be called forth, and your courage exhibited; because danger and death surrounded it, and these you were to brave and overcome.]]*
 	- Victor Frankenstein to the crew of Robert Walton from *Frankenstein*, Chapter 7 Vol. 3 
