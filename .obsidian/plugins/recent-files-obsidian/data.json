@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "inbox",
-      "path": "1 - Unsorted/inbox.md"
+      "basename": "Farm Near Duivendrecht",
+      "path": "1 - Unsorted/Farm Near Duivendrecht.md"
+    },
+    {
+      "basename": "My Favorite Artworks",
+      "path": "1 - Unsorted/My Favorite Artworks.md"
     },
     {
       "basename": "What makes art great",
       "path": "2 - Source Material/2.a - Books & Articles/What makes art great.md"
+    },
+    {
+      "basename": "I and the Village",
+      "path": "1 - Unsorted/I and the Village.md"
+    },
+    {
+      "basename": "art collection",
+      "path": "2 - Source Material/art collection.base"
+    },
+    {
+      "basename": "glossary",
+      "path": "definitions/glossary.md"
+    },
+    {
+      "basename": "Sarah Siddons as the Tragic Muse",
+      "path": "2 - Source Material/2.b - Art/Sarah Siddons as the Tragic Muse.md"
+    },
+    {
+      "basename": "inbox",
+      "path": "1 - Unsorted/inbox.md"
     },
     {
       "basename": "Industrial policy requires wage suppression",
@@ -17,16 +41,8 @@
       "path": "2 - Source Material/2.c - Other/Sonnet 15.md"
     },
     {
-      "basename": "My Favorite Artworks",
-      "path": "1 - Unsorted/My Favorite Artworks.md"
-    },
-    {
       "basename": "Prometheus Bound (painting)",
       "path": "2 - Source Material/2.b - Art/Prometheus Bound (painting).md"
-    },
-    {
-      "basename": "art collection",
-      "path": "2 - Source Material/art collection.base"
     },
     {
       "basename": "Lucia and the Wave (painting)",
@@ -55,10 +71,6 @@
     {
       "basename": "Trade brings people into contact, not agreement",
       "path": "6 - Notes/6.a - Claims/Trade brings people into contact, not agreement.md"
-    },
-    {
-      "basename": "glossary",
-      "path": "definitions/glossary.md"
     },
     {
       "basename": "A Diachronic Rejection of Meritocracy",
@@ -187,14 +199,6 @@
     {
       "basename": "Justice has lexical priority over other societal concerns",
       "path": "6 - Notes/6.a - Claims/Justice has lexical priority over other societal concerns.md"
-    },
-    {
-      "basename": "Only realized institutions can be judged to be just or unjust",
-      "path": "6 - Notes/6.a - Claims/Only realized institutions can be judged to be just or unjust.md"
-    },
-    {
-      "basename": "We should accept the methodological approach of the original position, even though it is hypothetical",
-      "path": "6 - Notes/6.a - Claims/We should accept the methodological approach of the original position, even though it is hypothetical.md"
     }
   ],
   "omittedPaths": [],

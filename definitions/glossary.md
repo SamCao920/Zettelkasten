@@ -1,6 +1,6 @@
 ---
 created: 2026-04-21T23:10:28-07:00
-updated: 2026-05-03T13:18:32-07:00
+updated: 2026-05-04T13:34:31-07:00
 def-type: consolidated
 ---
 # Primary Balancer
@@ -815,6 +815,6 @@ First-past-the-post (SMP) systems tend to produce two-party systems, whereas pro
 
 ---
 
-# industrial policy
+# Industrial Policy
 
 Government led efforts to encourage the development of all parts of the economy, especially in the lack of sufficient investment from the private sector.
