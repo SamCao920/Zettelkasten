@@ -4,7 +4,7 @@ author:
   - Fangyuan Cao
 aliases:
 created: 2026-04-20T12:09:10-07:00
-updated: 2026-05-03T16:38:57-07:00
+updated: 2026-05-03T22:23:09-07:00
 tags:
   - philosophy
   - philosophy/justice
@@ -39,14 +39,21 @@ Despite the empirical, there are a few possible refutations possible for the mer
 	1. the trilemma is an artefact of _extreme_ interpretations of all three principles. On moderate readings — FA as limited parental partiality, M as presumptive rather than absolute merit-tracking, ELC as rough rather than strict statistical equality — the three are compossible. 
 ## The Diachronic Turn
 %%Possibly include a refutation based on the fact that many of the equalizations suggested here would be illiberal if there is space.%%
-To address these concerns, I will develop an argument that demonstrates the conceptual incompatibility of FA and ELC, which I term the *diachronic argument*. Granting the charitable concessions that all persons are equalized at some initial time ($t_{0}$) and that at $t_{0}$ FA is irrelevant (e.g., all families have the exact same structure and parent in the exact same manner) 
-- **Reframe the starting point charitably.** Grant, against the empirical evidence just established, that some corrective mechanism achieves ELC at $t_0$. 
-	- This is a deliberate concession, not a retraction - flag it as such explicitly.
-- **Run M at $t_0$.** Under stipulated ELC, $M$ is justified: rewards track genuine merit. Winners receive wealth, status, and social capital.
-- **Activate FA as the transmission mechanism.** Winners exercise FA - investing differentially in their children. This is not a contingent failure of policy; it is the ordinary, legally protected exercise of parental autonomy that any liberal society permits.
-	- This must be protected.
-- **State the key move: M funds the FA that destroys ELC.** At $t_1$, ELC is violated not by an external factor but by $M$'s own outputs. The winners $M$ produced are precisely the agents whose FA generates the next generation's unequal starting points. $M$ is the causal source of its own justificatory failure.
-- **Apply the justificatory standard recursively.** $M$ is justified if and only if ELC holds. ELC does not hold at $t_1$. Therefore $M$ at $t_1$ is unjustified by the very principle that justified $M$ at $t_0$. The standard is self-applying and self-defeating.
+To address these concerns, I will develop an argument that demonstrates the conceptual incompatibility of FA and ELC, which I term the *diachronic argument*. Granting that all persons are equalized at some initial time ($ELC_{t_{0}}$) and that at $t_{0}$ FA is irrelevant ($\lnot FA_{t_{0}}$; e.g., all families have the exact same structure and parent in the exact same manner), we can imagine the following to occur:
+1. $M$ operates from $t_{0} \rightarrow t_{1}$ under perfectly fair conditions.
+2. $M$ produces winners (due to people’s natural contingencies), who are then free to exercise $FA$ at $t_{1}$.
+3. $FA$ means that parents are free to investment differentially in children, which means $\lnot ELC_{t_{2}}$.
+4. Operating $M$ once again, and since the winners of $M$ continue to differentially invest in their progeny, furthering $\lnot ELC$, $\neg\,{ELC}_{t_2} \rightarrow \neg\,{ELC}_{t_3} \rightarrow \cdots \rightarrow {ELC}_{t_n}$.
+5. Therefore, ${FA}_{t_1} \rightarrow \neg\,{ELC}_{t_n}$ for all $n \geq 2$.
+6. Therefore, even granting ${ELC}_{t_0}$, ${FA} \rightarrow \neg\,{ELC}$ across generations.
+
+The meritocracy might argue for the equalization of natural contingencies in order to resolve the argument, but this faces several problems. First, it is unclear whether this would be liberal in nature. 
+Second, there are some natural contingencies which are extremely difficult, if not impossible, to mitigate. For instance, the location or time at which someone is born. It would be extremely challenging for a society to be able to coordinate the location and time of birth of every individual—yet, one’s birth location is clearly relevant for one’s future prospects, and thus must be mitigated given the overarching goal of mitigating natural contingencies. %% Evidence for this??? %%
+Importantly, this argument is different from Rawls’ luck objection. The luck objection states that, *at a single moment,* your talent is based on morally irrelevant, 
+* Rawls's objection is *synchronic*: at a single moment, your talent is lucky, so you don't deserve the reward.  
+* This argument is *diachronic*: even granting (against Rawls) that the initial allocation was fully deserved (or, not against Rawls, since everybody starts exactly the same, i.e., the strong ELC thesis), the system's own outputs poison its future inputs.  
+* The two arguments are logically independent. You need not accept the luck objection to accept this one. This argument is stronger than the luck objection since its has less assumptions.
+* See [@logarRawlssRejectionPreinstitutional2013], which describes Rawls’ theory as offering a specifically synchronic argument about preinstitutional desert.
 - **Distinguish from the static dilemma explicitly.** The static argument shows FA∧ELCFA \wedge ELC FA∧ELC is empirically unachievable. The diachronic argument is independent and stronger: even under the most favorable conditions the static argument rules out — stipulated ELC at t0t_0 t0​ — MM M actively generates the inequality that defeats it through FA. The failure is internal to MM M's logic, not merely an external empirical constraint.
 	- Note that the charitable stipulation of ELC at t0t_0 t0​ does not require equalizing natural contingencies, only social ones. The mechanism that violates ELC at t1t_1 t1​ operates through FA-transmitted social contingencies — parental investment, cultural capital, differential parenting — not through natural contingencies, which remain constant across generations. The diachronic argument therefore holds even if natural contingencies are left entirely unaddressed.
 - **Close by ruling out the "reset" escape route.** A defender might say: re-impose ELC at $t_1$ through redistribution. But this concedes that $M$ requires permanent external correction to sustain its own justificatory conditions - meaning $M$ is not a self-standing principle of justice but a temporary corrective mechanism dependent on the very egalitarian intervention its defenders typically oppose.
@@ -60,12 +67,6 @@ More arguments against the incompatibility of FA and ELC.
 - Mulligan’s essentiality of origin argument^mulligan-counterargument
 	- [@napoletanoCanEssentialityOrigin2022]
 - See [[A Diachronic Rejection of Meritocracy#Refutation of Some Counterarguments]] for a more comprehensive coverage
-## The Key Distinction from the Rawlsian Luck Objection
-
-* Rawls's objection is *synchronic*: at a single moment, your talent is lucky, so you don't deserve the reward.  
-* This argument is *diachronic*: even granting (against Rawls) that the initial allocation was fully deserved (or, not against Rawls, since everybody starts exactly the same, i.e., the strong ELC thesis), the system's own outputs poison its future inputs.  
-* The two arguments are logically independent. You need not accept the luck objection to accept this one. This argument is stronger than the luck objection since its has less assumptions.
-* See [@logarRawlssRejectionPreinstitutional2013], which describes Rawls’ theory as offering a specifically synchronic argument about preinstitutional desert.
 
 ## The Conclusion
 
