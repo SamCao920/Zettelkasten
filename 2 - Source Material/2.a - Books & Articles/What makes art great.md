@@ -3,7 +3,7 @@ aliases:
 author:
   - Nabeel S. Qureshi
 created: 2026-05-04T12:37:16-07:00
-updated: 2026-05-04T12:39:24-07:00
+updated: 2026-05-04T12:40:59-07:00
 tags:
   - philosophy/aesthetics
   - art
