@@ -4,7 +4,7 @@ author:
   - Fangyuan Cao
 aliases:
 created: 2026-04-20T12:09:10-07:00
-updated: 2026-05-03T13:48:09-07:00
+updated: 2026-05-03T16:38:57-07:00
 tags:
   - philosophy
   - philosophy/justice
