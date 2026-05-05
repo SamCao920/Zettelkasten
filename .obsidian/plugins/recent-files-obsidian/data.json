@@ -5,6 +5,10 @@
       "path": "3 - Writings/A Diachronic Rejection of Meritocracy.md"
     },
     {
+      "basename": "glossary",
+      "path": "definitions/glossary.md"
+    },
+    {
       "basename": "inbox",
       "path": "1 - Unsorted/inbox.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "I and the Village",
       "path": "2 - Source Material/2.b - Art/I and the Village.md"
-    },
-    {
-      "basename": "glossary",
-      "path": "definitions/glossary.md"
     },
     {
       "basename": "Sarah Siddons as the Tragic Muse",
