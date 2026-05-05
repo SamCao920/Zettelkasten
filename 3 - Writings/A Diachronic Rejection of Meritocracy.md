@@ -4,7 +4,7 @@ author:
   - Fangyuan Cao
 aliases:
 created: 2026-04-20T12:09:10-07:00
-updated: 2026-05-04T19:29:35-07:00
+updated: 2026-05-04T19:47:59-07:00
 tags:
   - philosophy
   - philosophy/justice
@@ -15,7 +15,7 @@ link-citations: true
 nocite:
 ---
 ## Introduction
-In contemporary discussions of meritocracy, two perspectives are common. Either meritocracy is the champion of individual abilities and effort, or it is a sham, a societal misconception which only entrenches existing power and wealth differentials. I argue that this is a false binary: meritocracy can be both, *at difference times.* This argument is developed within the context of liberal societies—the only context in which meritocracy is seriously advanced as a fairness claim, %%since it presupposes commitments to individual liberty and family autonomy that liberalism independently affirms%%.[^1] Through a diachronic analysis, we will find that meritocracy is either illiberal, or fundamentally an incoherent, self-defeating concept. 
+In contemporary discussions of meritocracy, two perspectives are common. Either meritocracy is the champion of individual abilities and effort, or it is a sham, a societal misconception which only entrenches existing power and wealth differentials. I argue that this is a false binary: meritocracy can be both, *at difference times.* This argument is developed within the context of liberal societies—the only context in which meritocracy is seriously advanced as a fairness claim.[^1] Through a diachronic analysis, we will find that meritocracy is either illiberal, or fundamentally an incoherent, self-defeating concept. 
 In this paper, I specifically attack desert-based meritocracy, the principle that the allocation of social goods is intrinsically justified because individuals deserve outcomes proportional to their merits. [@mulliganMeritocracy2023, sec. 2.2] I concede that instrumental merit, i.e., it is clear that allowing the most qualified to hold a position is a sound principle, regardless of how one is able to become the most qualified, is valid to a certain degree.[^2]
 **In short, meritocracy, by necessity, it promotes an unacceptable level of structural inequality, which gives us good normative reasons to reject it as a viable principle of societal organization.**
 ## Justifying Meritocracy
@@ -32,9 +32,8 @@ Liberalism generally upholds the principle of Family Autonomy (FA): that parents
 Some have objected to the entire concept of FA. Harry Brighouse and Adam Swift have argued that FA is not a unitary principle but decomposes into (a) “familial relationship goods,” realized through intimate partialities like bedtime stories, conversation, moral modeling, and (b) transferable positional advantages like elite schooling and bequest, which are not constitutive of family value. Only (a) generates genuine liberal duties of non-interference; (b) can be regulated, taxed, or abolished without damaging the family as such.[@brighouseFamilyValuesEthics2014] In fact, I accept this decomposition by defining FA rather narrowly, with factors such as the wealth and connections of a family left out. Factors such as a family’s wealth and power instead falls under the purview of ELC. Still, there is research which suggests that even these immaterial things as described in (a) has real effect on the distribution of wealth; in other words, that ELC and FA are difficult to separate. Specifically, the type of family a child is born into has wide-ranging impacts on the future success of the child. For instance, studies have shown how family types,[^3] class, racial backgrounds, and even parenting styles significantly affect student outcomes.[@fisherComparativeStudyUnderachieving;  @potterPsychosocialWellbeingChildren2017; @vangelderenQualityLifeAdolescents2012; @lareauUnequalChildhoodsClass2003; @segallIfYoureLuck2011; @gheausWhatAbolishingFamily2018] So, it seems that Brighouse-Swift's decomposition fails empirically. If this is the case, then, given the the necessary condition and FA, we can deduce that M is incompatible with liberal societies. 
 The meritocrat might raise two objections here:
 1. The meritocrat accepts the empirical evidence, but argues that it is evidence of a fixable policy, not a structural incompatibility.
-2. The ELC does not require perfect equalization, only that life chances are not predictable from morally arbitrary facts beyond some acceptable threshold.[@lopezEsTrilemaFishkin1996] %% the trilemma is an artefact of extreme interpretations of all three principles. On moderate readings — FA as limited parental partiality, M as presumptive rather than absolute merit-tracking, ELC as rough rather than strict statistical equality — the three are compossible.  %%
+2. The ELC does not require perfect equalization, only that life chances are not predictable from morally arbitrary facts beyond some acceptable threshold.[@lopezEsTrilemaFishkin1996] %% %%
 ## The Diachronic Argument
-%%Possibly include a refutation based on the fact that many of the equalizations suggested here would be illiberal if there is space.%%
 To address these concerns, I will develop an argument that demonstrates the conceptual incompatibility of FA and ELC, which I term the *diachronic argument*. Assuming a liberal society and granting that all persons are equalized at some initial time ($ELC_{t_{0}}$) and that at $t_{0}$ FA is irrelevant ($\lnot FA_{t_{0}}$; e.g., all families have the exact same structure and parent in the exact same manner), we can imagine the following to occur:
 1. $M$ operates from $t_{0} \rightarrow t_{1}$ under perfectly fair conditions.
 2. $M$ produces winners (due to people’s natural contingencies), who are then free to exercise $FA$ at $t_{1}$.
