@@ -1,36 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "My Favorite Artworks",
-      "path": "1 - Unsorted/My Favorite Artworks.md"
-    },
-    {
-      "basename": "What makes art great",
-      "path": "2 - Source Material/2.a - Books & Articles/What makes art great.md"
-    },
-    {
-      "basename": "Palace Guards Warming Sake with Crimson Leaves",
-      "path": "1 - Unsorted/Palace Guards Warming Sake with Crimson Leaves.md"
-    },
-    {
-      "basename": "The Water Lily Pond",
-      "path": "1 - Unsorted/The Water Lily Pond.md"
-    },
-    {
-      "basename": "Still Life, Tea Service",
-      "path": "1 - Unsorted/Still Life, Tea Service.md"
+      "basename": "inbox",
+      "path": "1 - Unsorted/inbox.md"
     },
     {
       "basename": "art collection",
       "path": "2 - Source Material/art collection.base"
     },
     {
+      "basename": "Lucia and the Wave (painting)",
+      "path": "2 - Source Material/2.b - Art/Lucia and the Wave (painting).md"
+    },
+    {
+      "basename": "Prometheus Bound (painting)",
+      "path": "2 - Source Material/2.b - Art/Prometheus Bound (painting).md"
+    },
+    {
+      "basename": "Industrial policy requires wage suppression",
+      "path": "1 - Unsorted/Industrial policy requires wage suppression.md"
+    },
+    {
+      "basename": "What makes art great",
+      "path": "2 - Source Material/2.a - Books & Articles/What makes art great.md"
+    },
+    {
+      "basename": "Death of Salomé",
+      "path": "2 - Source Material/2.b - Art/Death of Salomé.md"
+    },
+    {
+      "basename": "Palace Guards Warming Sake with Crimson Leaves",
+      "path": "2 - Source Material/2.b - Art/Palace Guards Warming Sake with Crimson Leaves.md"
+    },
+    {
+      "basename": "The Water Lily Pond",
+      "path": "2 - Source Material/2.b - Art/The Water Lily Pond.md"
+    },
+    {
+      "basename": "Still Life, Tea Service",
+      "path": "2 - Source Material/2.b - Art/Still Life, Tea Service.md"
+    },
+    {
       "basename": "Farm Near Duivendrecht",
-      "path": "1 - Unsorted/Farm Near Duivendrecht.md"
+      "path": "2 - Source Material/2.b - Art/Farm Near Duivendrecht.md"
     },
     {
       "basename": "I and the Village",
-      "path": "1 - Unsorted/I and the Village.md"
+      "path": "2 - Source Material/2.b - Art/I and the Village.md"
     },
     {
       "basename": "glossary",
@@ -41,24 +57,8 @@
       "path": "2 - Source Material/2.b - Art/Sarah Siddons as the Tragic Muse.md"
     },
     {
-      "basename": "inbox",
-      "path": "1 - Unsorted/inbox.md"
-    },
-    {
-      "basename": "Industrial policy requires wage suppression",
-      "path": "1 - Unsorted/Industrial policy requires wage suppression.md"
-    },
-    {
       "basename": "Sonnet 15",
       "path": "2 - Source Material/2.c - Other/Sonnet 15.md"
-    },
-    {
-      "basename": "Prometheus Bound (painting)",
-      "path": "2 - Source Material/2.b - Art/Prometheus Bound (painting).md"
-    },
-    {
-      "basename": "Lucia and the Wave (painting)",
-      "path": "2 - Source Material/2.b - Art/Lucia and the Wave (painting).md"
     },
     {
       "basename": "quote bank",
@@ -191,14 +191,6 @@
     {
       "basename": "The principle of efficiency does not mitigate natural contingencies",
       "path": "6 - Notes/6.a - Claims/The principle of efficiency does not mitigate natural contingencies.md"
-    },
-    {
-      "basename": "Justice as fairness does not apply to individual dealings with specific people, only to institutions",
-      "path": "6 - Notes/6.a - Claims/Justice as fairness does not apply to individual dealings with specific people, only to institutions.md"
-    },
-    {
-      "basename": "Justice and the Meritocratic State",
-      "path": "2 - Source Material/2.a - Books & Articles/Justice and the Meritocratic State.md"
     }
   ],
   "omittedPaths": [],
