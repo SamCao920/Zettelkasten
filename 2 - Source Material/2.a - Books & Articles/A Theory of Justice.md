@@ -3,7 +3,7 @@ aliases:
 author:
   - John Rawls
 created: 2026-03-30T10:58:56-07:00
-updated: 2026-05-05T22:22:03-07:00
+updated: 2026-05-05T22:44:20-07:00
 tags:
   - philosophy
   - philosophy/political
@@ -52,4 +52,7 @@ This is crucial for understanding the view of justice that is developed/referenc
 - [[The difference principle embodies the idea that natural contingencies are commonly shared between members of a society]]
 - [[The difference principle expresses reciprocity]]
 - [[The difference principle expresses fraternity]]
+## Justification
+- [[Rational agents would be risk-averse in the original position]]
+- [[A society where the worst-off are extremely sensitive to their circumstances at the expense of the best-off is impossible]]
 ## References

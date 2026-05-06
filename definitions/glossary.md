@@ -1,6 +1,6 @@
 ---
 created: 2026-04-21T23:10:28-07:00
-updated: 2026-05-05T22:21:02-07:00
+updated: 2026-05-05T22:39:47-07:00
 def-type: consolidated
 ---
 # Primary Balancer
@@ -295,6 +295,7 @@ Something that must be prioritized and satisfied to the fullest extent before ot
 1. The circumstances of justice, i.e., people are mutually disinterested and under moderate constraints of scarcity.
 2. Each individual tires to advance their own long-term plan without prior moral ties to anyone else.
 3. Each individual considers the interests of their descendants.
+Additionally, people in the veil of ignorance are not subject to distorting emotions such as envy.
 
 ---
 
@@ -302,7 +303,8 @@ Something that must be prioritized and satisfied to the fullest extent before ot
 
 *Veil of Ignorances*
 
-The epistemic constraint whereby one does not know their particular abilities, moralities, status, or any other specific circumstances in the original position.
+The epistemic constraint whereby one does not know their particular abilities, moralities, status, or any other specific circumstances in the original position. They do, however, how about the general laws and theories present in the world.
+Additionally, though they are mutually disinterested, since they don’t know who they would be, they retain some concern over the rights and claims of others.
 
 ---
 
