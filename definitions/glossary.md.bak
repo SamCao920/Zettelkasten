@@ -1,12 +1,9 @@
 ---
 created: 2026-04-30T21:19:22-07:00
-updated: 2026-05-05T18:14:49-07:00
+updated: 2026-05-05T22:59:29-07:00
 ---
 ---
-created: 2026-04-21T23:10:28-07:00
-updated: 2026-05-04T17:58:35-07:00
-def-type: consolidated
----
+
 # Primary Balancer
 
 *Primary Balancers, primary-balancer, primary-balancers*
@@ -277,7 +274,7 @@ Ex. utilitarianism, Libertarianism, etc.
 
 # Lexical Priority
 
-*Lexical Priorities*
+*Lexical Priorities, lexical ordering, lexical orderings*
 
 Something that must be prioritized and satisfied to the fullest extent before other principles are considered.
 
@@ -295,7 +292,11 @@ Something that must be prioritized and satisfied to the fullest extent before ot
 
 *Original Positions*
 
-(Rawls) The hypothetical decisions situation which is constructed of various axioms, which, through their various permutations, generate unique conceptions of justice.
+(Rawls) The hypothetical decisions situation which is constructed of various axioms, which, through their various permutations, generate unique conceptions of justice. People are aware of the following in the original position:
+1. The circumstances of justice, i.e., people are mutually disinterested and under moderate constraints of scarcity.
+2. Each individual tires to advance their own long-term plan without prior moral ties to anyone else.
+3. Each individual considers the interests of their descendants.
+Additionally, people in the veil of ignorance are not subject to distorting emotions such as envy.
 
 ---
 
@@ -303,7 +304,8 @@ Something that must be prioritized and satisfied to the fullest extent before ot
 
 *Veil of Ignorances*
 
-The epistemic constraint whereby one does not know their particular abilities, moralities, status, or any other specific circumstances in the original position.
+The epistemic constraint whereby one does not know their particular abilities, moralities, status, or any other specific circumstances in the original position. They do, however, how about the general laws and theories present in the world.
+Additionally, though they are mutually disinterested, since they don’t know who they would be, they retain some concern over the rights and claims of others.
 
 ---
 
@@ -827,6 +829,14 @@ Government led efforts to encourage the development of all parts of the economy,
 
 ---
 
-# priority problem
+# Priority Problem
+
+*Priority Problems*
 
 (Rawls) How a society deals with competing moral claims.
+
+---
+
+# Principle of Insufficient Reason
+
+(Rawls) When you have no information (e.g., in the original position) about a circumstance, assign equal probabilities to all possible outcomes.

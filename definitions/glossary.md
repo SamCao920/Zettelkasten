@@ -1,16 +1,8 @@
 ---
-created: 2026-04-21T23:10:28-07:00
-updated: 2026-05-05T22:39:47-07:00
+created: 2026-04-30T21:19:22-07:00
+updated: 2026-05-05T22:59:29-07:00
 def-type: consolidated
 ---
-# Primary Balancer
-
-*Primary Balancers, primary-balancer, primary-balancers*
-
-A power which balances the power of an opposing state directly through military build up and alliances.
-
----
-
 # Secondary Balancer
 
 *Secondary Balancers, secondary-balancer, secondary-balancers*
@@ -273,7 +265,7 @@ Ex. utilitarianism, Libertarianism, etc.
 
 # Lexical Priority
 
-*Lexical Priorities, lexical ordering*
+*Lexical Priorities, lexical ordering, lexical orderings*
 
 Something that must be prioritized and satisfied to the fullest extent before other principles are considered.
 
@@ -830,4 +822,12 @@ Government led efforts to encourage the development of all parts of the economy,
 
 # Priority Problem
 
+*Priority Problems*
+
 (Rawls) How a society deals with competing moral claims.
+
+---
+
+# Principle of Insufficient Reason
+
+(Rawls) When you have no information (e.g., in the original position) about a circumstance, assign equal probabilities to all possible outcomes.
