@@ -1,7 +1,9 @@
 ---
 created: 2025-09-29T17:55:12-07:00
-updated: 2026-05-04T12:17:46-07:00
+updated: 2026-05-05T23:34:38-07:00
 ---
+- The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.
+	- Marcel Proust
 - *[[Frankenstein, or, The modern Prometheus.pdf#page=258&selection=10,35,15,37|Did you not call this a glorious expedition? And wherefore was it glorious? Not because the way was smooth and placid as a southern sea, but because it was full of dangers and terror; because, at every new incident, your fortitude was to be called forth, and your courage exhibited; because danger and death surrounded it, and these you were to brave and overcome.]]*
 	- Victor Frankenstein to the crew of Robert Walton from *Frankenstein*, Chapter 7 Vol. 3 
 - [[Frankenstein, or, The modern Prometheus.pdf#page=258&selection=25,8,27,70|Oh! be men, or be more than men. Be steady to your purposes, and firm as a rock. This ice is not made of such stuff as your hearts may be; it is mutable, and cannot withstand you, if you say that it shall not.]]
