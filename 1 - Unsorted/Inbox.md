@@ -1,6 +1,6 @@
 ---
 created: 2025-09-15T13:54:06-07:00
-updated: 2026-05-05T23:21:34-07:00
+updated: 2026-05-06T11:24:58-07:00
 ---
 > [!QUOTE] Thoreau
 > It is not enough to be busy; so too are the ants. The question is: **what are we busy about?**
@@ -13,4 +13,6 @@ updated: 2026-05-05T23:21:34-07:00
 	- This can be analogized to “dying for the telephone company.”
 	- Liberalism does not provide a hierarchy of goods as a civilization does, and it is supremely ahistorical.
 	- A civilizational state seeks defense, but not the conquest of other territories. On the other hand, the liberal state has an inherently imperialistic impulse as it seeks to level the hierarchy of goods which civilizational state possess and replace it with a bueaurcracy.
+- [[Good institutions are the source of economic growth]]
+- [[The concept of ‘good institutions’ is either tautological or unsupported]]
 
