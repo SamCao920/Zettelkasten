@@ -3,7 +3,7 @@ aliases:
 author:
   - John Rawls
 created: 2026-03-30T10:58:56-07:00
-updated: 2026-05-05T18:11:56-07:00
+updated: 2026-05-05T18:31:57-07:00
 tags:
   - philosophy
   - philosophy/political
@@ -30,6 +30,7 @@ This is crucial for understanding the view of justice that is developed/referenc
 - [[Rawls' Reflective Equilibrium.canvas]]
 - [[We should accept the methodological approach of the original position, even though it is hypothetical]]
 - [[The priority problem has several solutions]]
+- [[We may learn a lot about the ‘content’ of morality by studying its form]]
 ## Principles of Justice
 ![[Pasted image 20260422181024.png]]
 - [[Only realized institutions can be judged to be just or unjust]]
