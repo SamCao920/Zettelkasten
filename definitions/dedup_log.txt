@@ -5786,3 +5786,27 @@
 2026-05-05 17:08:23  Scan complete — no issues found.
 2026-05-05 17:08:33  Running deduplication (Obsidian closed).
 2026-05-05 17:08:33  Scan complete — no issues found.
+2026-05-05 18:05:14  Running deduplication (Obsidian opened).
+2026-05-05 18:05:14  Scan complete — no issues found.
+2026-05-05 18:10:14  Running deduplication (file modified).
+2026-05-05 18:10:14  Fixed 83 issue(s). Backup: glossary.md.bak
+2026-05-05 18:10:49  Running deduplication (file modified).
+2026-05-05 18:10:49  Fixed 1 issue(s). Backup: glossary.md.bak
+2026-05-05 18:11:24  Running deduplication (file modified).
+2026-05-05 18:11:24  Fixed 1 issue(s). Backup: glossary.md.bak
+2026-05-05 18:11:59  Running deduplication (file modified).
+2026-05-05 18:11:59  Fixed 1 issue(s). Backup: glossary.md.bak
+2026-05-05 18:12:34  Running deduplication (file modified).
+2026-05-05 18:12:34  Fixed 1 issue(s). Backup: glossary.md.bak
+2026-05-05 18:13:09  Running deduplication (file modified).
+2026-05-05 18:13:09  Fixed 1 issue(s). Backup: glossary.md.bak
+2026-05-05 18:13:44  Running deduplication (file modified).
+2026-05-05 18:13:44  Fixed 1 issue(s). Backup: glossary.md.bak
+2026-05-05 18:14:19  Running deduplication (file modified).
+2026-05-05 18:14:19  Fixed 1 issue(s). Backup: glossary.md.bak
+2026-05-05 18:14:54  Running deduplication (file modified).
+2026-05-05 18:14:54  Fixed 1 issue(s). Backup: glossary.md.bak
+2026-05-05 18:15:29  Running deduplication (file modified).
+2026-05-05 18:15:29  Scan complete — no issues found.
+2026-05-05 18:19:59  Running deduplication (file modified).
+2026-05-05 18:19:59  Scan complete — no issues found.

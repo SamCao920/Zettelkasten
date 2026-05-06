@@ -3,7 +3,7 @@ aliases:
 author:
   - John Rawls
 created: 2026-03-30T10:58:56-07:00
-updated: 2026-04-23T20:33:29-07:00
+updated: 2026-05-05T18:11:56-07:00
 tags:
   - philosophy
   - philosophy/political
@@ -29,6 +29,7 @@ This is crucial for understanding the view of justice that is developed/referenc
 - [[A good conception of justice is one that aligns with our intuitions and also structures more controversial moral topics]]
 - [[Rawls' Reflective Equilibrium.canvas]]
 - [[We should accept the methodological approach of the original position, even though it is hypothetical]]
+- [[The priority problem has several solutions]]
 ## Principles of Justice
 ![[Pasted image 20260422181024.png]]
 - [[Only realized institutions can be judged to be just or unjust]]

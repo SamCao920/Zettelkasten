@@ -1,6 +1,6 @@
 ---
 created: 2026-04-21T23:10:28-07:00
-updated: 2026-05-04T17:58:35-07:00
+updated: 2026-05-05T18:19:54-07:00
 def-type: consolidated
 ---
 # Primary Balancer
@@ -273,7 +273,7 @@ Ex. utilitarianism, Libertarianism, etc.
 
 # Lexical Priority
 
-*Lexical Priorities*
+*Lexical Priorities, lexical ordering*
 
 Something that must be prioritized and satisfied to the fullest extent before other principles are considered.
 
@@ -817,4 +817,12 @@ First-past-the-post (SMP) systems tend to produce two-party systems, whereas pro
 
 # Industrial Policy
 
+*Industrial Policies*
+
 Government led efforts to encourage the development of all parts of the economy, especially in the lack of sufficient investment from the private sector.
+
+---
+
+# Priority Problem
+
+(Rawls) How a society deals with competing moral claims.
