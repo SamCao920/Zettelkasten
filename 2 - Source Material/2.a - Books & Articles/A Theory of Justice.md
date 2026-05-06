@@ -3,7 +3,7 @@ aliases:
 author:
   - John Rawls
 created: 2026-03-30T10:58:56-07:00
-updated: 2026-05-05T22:59:32-07:00
+updated: 2026-05-05T23:14:26-07:00
 tags:
   - philosophy
   - philosophy/political
@@ -56,5 +56,7 @@ This is crucial for understanding the view of justice that is developed/referenc
 - [[Rational agents would be risk-averse in the original position]]
 - [[A society where the worst off are extremely sensitive to their circumstances at the expense of the best off is impossible]]
 - [[Average utilitarianism is more justifiable for rational agents than classical utilitarianism]] 
-- 
+- [[The principle of insufficient reason is false]]
+- [[Justice as fairness fosters self-respect and societal harmony]]
+- [[Classical utilitarianism is only possible in a world where people are perfectly altruistic]]
 ## References

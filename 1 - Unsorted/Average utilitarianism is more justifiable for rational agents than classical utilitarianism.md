@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-05-05T22:52:12-07:00
-updated: 2026-05-05T22:59:16-07:00
+updated: 2026-05-05T22:59:44-07:00
 tags:
   - philosophy
   - philosophy/justice
