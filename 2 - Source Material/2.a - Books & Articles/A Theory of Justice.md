@@ -3,7 +3,7 @@ aliases:
 author:
   - John Rawls
 created: 2026-03-30T10:58:56-07:00
-updated: 2026-05-05T18:31:57-07:00
+updated: 2026-05-05T22:22:03-07:00
 tags:
   - philosophy
   - philosophy/political
@@ -30,10 +30,10 @@ This is crucial for understanding the view of justice that is developed/referenc
 - [[Rawls' Reflective Equilibrium.canvas]]
 - [[We should accept the methodological approach of the original position, even though it is hypothetical]]
 - [[The priority problem has several solutions]]
-- [[We may learn a lot about the ‘content’ of morality by studying its form]]
 ## Principles of Justice
 ![[Pasted image 20260422181024.png]]
 - [[Only realized institutions can be judged to be just or unjust]]
+- [[A principle must satisfy generality, universality, publicity, ordering, and finality in order to be a candidate principle in the original position]]
 - [[Justice and injustice can manifest in-whole, discretely, or through sum-threshold criteria]]
 - [[Each person has equal basic rights most extensively compatible with similar liberties for others]]
 - [[Social and economic inequalities are to satisfy the Difference Principle and Fair Equality of Opportunity]]

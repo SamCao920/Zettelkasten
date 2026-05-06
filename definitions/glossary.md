@@ -1,6 +1,6 @@
 ---
 created: 2026-04-21T23:10:28-07:00
-updated: 2026-05-05T18:19:54-07:00
+updated: 2026-05-05T22:21:02-07:00
 def-type: consolidated
 ---
 # Primary Balancer
@@ -291,7 +291,10 @@ Something that must be prioritized and satisfied to the fullest extent before ot
 
 *Original Positions*
 
-(Rawls) The hypothetical decisions situation which is constructed of various axioms, which, through their various permutations, generate unique conceptions of justice.
+(Rawls) The hypothetical decisions situation which is constructed of various axioms, which, through their various permutations, generate unique conceptions of justice. People are aware of the following in the original position:
+1. The circumstances of justice, i.e., people are mutually disinterested and under moderate constraints of scarcity.
+2. Each individual tires to advance their own long-term plan without prior moral ties to anyone else.
+3. Each individual considers the interests of their descendants.
 
 ---
 
