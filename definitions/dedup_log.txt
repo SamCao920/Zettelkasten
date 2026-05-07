@@ -6020,3 +6020,9 @@
 2026-05-06 18:11:27  Running deduplication (Obsidian closed).
 2026-05-06 18:11:27  Scan complete — no issues found.
 2026-05-06 18:18:27  Running deduplication (Obsidian opened).
+2026-05-06 18:18:27  Scan complete — no issues found.
+2026-05-06 18:23:27  Running deduplication (periodic check).
+2026-05-06 18:23:27  Scan complete — no issues found.
+2026-05-06 18:28:27  Running deduplication (periodic check).
+2026-05-06 18:28:27  Scan complete — no issues found.
+2026-05-06 18:33:27  Running deduplication (periodic check).
