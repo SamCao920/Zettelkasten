@@ -6010,3 +6010,13 @@
 2026-05-05 23:40:42  Scan complete — no issues found.
 2026-05-05 23:45:43  Running deduplication (periodic check).
 2026-05-05 23:45:43  Scan complete — no issues found.
+2026-05-05 23:50:43  Running deduplication (periodic check).
+2026-05-05 23:50:43  Scan complete — no issues found.
+2026-05-06 15:27:14  === Deduplicator started ===
+2026-05-06 15:27:14  Watching: C:\Users\samca\OneDrive\Documents\Obsidian\Learning\definitions\glossary.md
+2026-05-06 15:27:14  Interval: 5 min | Poll: 10s | Cooldown: 5s
+2026-05-06 18:11:17  Running deduplication (Obsidian opened).
+2026-05-06 18:11:17  Scan complete — no issues found.
+2026-05-06 18:11:27  Running deduplication (Obsidian closed).
+2026-05-06 18:11:27  Scan complete — no issues found.
+2026-05-06 18:18:27  Running deduplication (Obsidian opened).
