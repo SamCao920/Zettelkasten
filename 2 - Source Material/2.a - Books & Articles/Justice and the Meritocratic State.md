@@ -67,5 +67,5 @@ Mulligan proposes the following argument to strengthen their case: **he rejects 
 - An objection to the argument might be that since the assignment of genetics is purely arbitrary, it makes no sense to base desert off-of genetic assignment either.
 	- But this argument runs into the same issue that the previous one did, namely, that it fails to consider genetics as something metaphysically necessary for the person.
 ## References
-- [[All philosophy boils down to metaphysics]]
+- [[All philosophy reduces to metaphysics]]
 	- Perhaps that argument about the which Mulligan uses to refute Rawls can be seen as an example of this.
