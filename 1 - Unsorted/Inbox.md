@@ -8,4 +8,3 @@ updated: 2026-05-07T15:20:22-07:00
 - [[All philosophy boils down to metaphysics]]
 - [[Marginalism is declining in importance as a theoretical framework]]
 - [[Comparative advantage ensures that AI will never completely replace humans]]
-- [[The liberal nation state is doomed to fail since it gives people nothing to preserve]]
