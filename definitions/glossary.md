@@ -1,6 +1,6 @@
 ---
 created: 2026-04-30T21:19:22-07:00
-updated: 2026-05-11T17:36:35-07:00
+updated: 2026-05-11T17:48:39-07:00
 def-type: consolidated
 ---
 # Secondary Balancer
@@ -839,12 +839,12 @@ Government led efforts to encourage the development of all parts of the economy,
 
 ---
 
-# ideal theory
+# Ideal Theory
 
 (Rawls) A theory which deals with ideal circumstances, such as strict compliance with the rules of the theory, having a well-ordered society.
 
 ---
 
-# non-ideal theory
+# Non-ideal Theory
 
 (Rawls) Concerns how to adapt a theory for the non-ideal situations in the real world, a big part of which are the principles for meeting injustice.

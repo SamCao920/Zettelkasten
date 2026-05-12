@@ -3,7 +3,7 @@ aliases:
 author:
   - John Rawls
 created: 2026-03-30T10:58:56-07:00
-updated: 2026-05-11T17:31:59-07:00
+updated: 2026-05-11T17:46:00-07:00
 tags:
   - philosophy
   - philosophy/political
@@ -20,6 +20,7 @@ One of the foundational works in politics philosophy in contemporary philosophy.
 ## Significance
 This is crucial for understanding the view of justice that is developed/reference by many contemporary academics.
 ## Themes & Ideas
+
 ### Methodological Concerns
 - [[Justice has lexical priority over other societal concerns]]
 - [[While most people share a common set of fundamental beliefs regarding justice, more broadly, conceptions differ]]
@@ -30,7 +31,7 @@ This is crucial for understanding the view of justice that is developed/referenc
 - [[Rawls' Reflective Equilibrium.canvas]]
 - [[We should accept the methodological approach of the original position, even though it is hypothetical]]
 - [[The priority problem has several solutions]]
-## Principles of Justice
+### Principles of Justice
 ![[Pasted image 20260422181024.png]]
 - [[Only realized institutions can be judged to be just or unjust]]
 - [[A principle must satisfy generality, universality, publicity, ordering, and finality in order to be a candidate principle in the original position]]
@@ -52,14 +53,14 @@ This is crucial for understanding the view of justice that is developed/referenc
 - [[The difference principle embodies the idea that natural contingencies are commonly shared between members of a society]]
 - [[The difference principle expresses reciprocity]]
 - [[The difference principle expresses fraternity]]
-## Justification
+### Justification
 - [[Rational agents would be risk-averse in the original position]]
 - [[A society where the worst off are extremely sensitive to their circumstances at the expense of the best off is impossible]]
 - [[Average utilitarianism is more justifiable for rational agents than classical utilitarianism]] 
 - [[The principle of insufficient reason is false]]
 - [[Justice as fairness fosters self-respect and societal harmony]]
 - [[Classical utilitarianism is only possible in a world where people are perfectly altruistic]]
-## Application
+### Application
 - [[The intolerant must mostly be tolerated]]
 - [[Liberty can only be restricted in order to protect or strengthen the overall system of equal basic liberties]] 
 - 
