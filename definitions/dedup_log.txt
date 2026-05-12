@@ -6344,3 +6344,9 @@
 2026-05-11 15:08:24  Scan complete — no issues found.
 2026-05-11 15:13:24  Running deduplication (periodic check).
 2026-05-11 15:13:24  Scan complete — no issues found.
+2026-05-11 15:18:24  Running deduplication (periodic check).
+2026-05-11 15:18:24  Scan complete — no issues found.
+2026-05-11 15:22:44  Running deduplication (Obsidian closed).
+2026-05-11 15:22:44  Scan complete — no issues found.
+2026-05-11 17:11:06  Running deduplication (Obsidian opened).
+2026-05-11 17:11:06  Scan complete — no issues found.
