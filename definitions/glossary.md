@@ -1,17 +1,9 @@
 ---
 created: 2026-04-30T21:19:22-07:00
-updated: 2026-05-11T20:11:14-07:00
+updated: 2026-05-12T10:32:43-07:00
 def-type: consolidated
 ---
 # Secondary Balancer
-
-*Secondary Balancer
-s*
-
-*Secondary Balancers*
-
-*Secondary Balancer
-s*
 
 *Secondary Balancers, secondary-balancer, secondary-balancers*
 
@@ -861,13 +853,13 @@ Government led efforts to encourage the development of all parts of the economy,
 
 ---
 
-# categorical imperative
+# Categorical Imperative
 
 That the validity of a principle is not contingent upon some particular desire or aim, i.e., it is universal.
 
 ---
 
-# thin theory of the good
+# Thin Theory of the Good
 
 *thin theory*
 

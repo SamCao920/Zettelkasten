@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-05-12T10:15:11-07:00
-updated: 2026-05-12T10:28:07-07:00
+updated: 2026-05-12T10:41:26-07:00
 tags:
   - investment
   - finance
@@ -12,5 +12,5 @@ For the undiversified investor, since the market price does not actually account
 ## Significance
 This explains why an investor should not be undiversified.
 ## Explanation
-For the investor looking to invest in a specific company, the company’s price will almost always be above the rational amount that they would be willing to pay since 
+For the investor looking to invest in a specific company, the company’s price will almost always be above the rational amount that they would be willing to pay since the institutional investor is willing to pay a higher price since they do not account for the firm risk (which is balanced out through their diversified portfolio).
 ## References

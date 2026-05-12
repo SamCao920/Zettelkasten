@@ -26,6 +26,9 @@ There are a few types of Obsidian notes structured in this system:
 - Alternatively, if the item is
 	- A definition, create a definition via the the create definition command.
 	- A relation of ideas/connection of various ideas best expressed visually, create a canvas.
+- When it comes to citing a note, and there were multiple layers of sources or multiple sources linked together that support the note, 
+	1. cite the most reliable source in the “chain” of sources,
+	2. cite the most “upstream” source possible.
 
 **This system is designed such that it works under only a modicum of rules.**
 ## References
