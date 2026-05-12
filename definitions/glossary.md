@@ -1,9 +1,14 @@
 ---
 created: 2026-04-30T21:19:22-07:00
-updated: 2026-05-11T17:48:39-07:00
+updated: 2026-05-11T20:11:14-07:00
 def-type: consolidated
 ---
 # Secondary Balancer
+
+*Secondary Balancer
+s*
+
+*Secondary Balancers*
 
 *Secondary Balancer
 s*
@@ -520,7 +525,8 @@ The equal and impartial application of laws/rules in all cases.
 
 *General Conception of Justices*
 
-All social primary goods are to be distributed equally unless an unequal distribution of any of these goods is to the advantage of the least favored. In other words, it is the difference principle applied to all primary social goods.
+(Rawls) All social primary goods are to be distributed equally unless an unequal distribution of any of these goods is to the advantage of the least favored. In other words, it is the difference principle applied to all primary social goods.
+By following in accordance to the general conception, we can eventually eliminate natural and limitations and historical injustices and ensure that less than equal liberty would no longer by acceptable.
 
 ---
 
@@ -841,10 +847,28 @@ Government led efforts to encourage the development of all parts of the economy,
 
 # Ideal Theory
 
+*Ideal Theories*
+
 (Rawls) A theory which deals with ideal circumstances, such as strict compliance with the rules of the theory, having a well-ordered society.
 
 ---
 
 # Non-ideal Theory
 
+*Non-ideal Theories*
+
 (Rawls) Concerns how to adapt a theory for the non-ideal situations in the real world, a big part of which are the principles for meeting injustice.
+
+---
+
+# categorical imperative
+
+That the validity of a principle is not contingent upon some particular desire or aim, i.e., it is universal.
+
+---
+
+# thin theory of the good
+
+*thin theory*
+
+(Rawls) That the good is the rational long-term plan given relatively favorable circumstances. This is the main reason for people's want of primary goods, since it helps them satisfy this definition of the good.
