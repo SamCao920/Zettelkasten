@@ -3,7 +3,7 @@ aliases:
 author:
   - John Rawls
 created: 2026-03-30T10:58:56-07:00
-updated: 2026-05-11T17:46:00-07:00
+updated: 2026-05-11T20:15:54-07:00
 tags:
   - philosophy
   - philosophy/political
@@ -63,5 +63,6 @@ This is crucial for understanding the view of justice that is developed/referenc
 ### Application
 - [[The intolerant must mostly be tolerated]]
 - [[Liberty can only be restricted in order to protect or strengthen the overall system of equal basic liberties]] 
-- 
+- [[Paternalistic decisions are to be guided by an individual’s settled preferences]]
+- [[Moral principles originate from rational choice]]
 ## References

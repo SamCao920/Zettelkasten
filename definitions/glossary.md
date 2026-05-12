@@ -1,6 +1,6 @@
 ---
 created: 2026-04-30T21:19:22-07:00
-updated: 2026-05-11T17:48:39-07:00
+updated: 2026-05-11T20:11:14-07:00
 def-type: consolidated
 ---
 # Secondary Balancer
@@ -520,7 +520,8 @@ The equal and impartial application of laws/rules in all cases.
 
 *General Conception of Justices*
 
-All social primary goods are to be distributed equally unless an unequal distribution of any of these goods is to the advantage of the least favored. In other words, it is the difference principle applied to all primary social goods.
+(Rawls) All social primary goods are to be distributed equally unless an unequal distribution of any of these goods is to the advantage of the least favored. In other words, it is the difference principle applied to all primary social goods.
+By following in accordance to the general conception, we can eventually eliminate natural and limitations and historical injustices and ensure that less than equal liberty would no longer by acceptable.
 
 ---
 
