@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-03-28T10:04:31-07:00
-updated: 2026-03-28T10:21:35-07:00
+updated: 2026-05-12T10:45:51-07:00
 tags:
   - obsidian
   - meta
@@ -28,7 +28,7 @@ There are a few types of Obsidian notes structured in this system:
 	- A relation of ideas/connection of various ideas best expressed visually, create a canvas.
 - When it comes to citing a note, and there were multiple layers of sources or multiple sources linked together that support the note, 
 	1. cite the most reliable source in the “chain” of sources,
-	2. cite the most “upstream” source possible.
+	2. cite the most “upstream” source (the first source I found?) possible.
 
 **This system is designed such that it works under only a modicum of rules.**
 ## References
