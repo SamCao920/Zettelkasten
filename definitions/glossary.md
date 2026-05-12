@@ -8,6 +8,11 @@ def-type: consolidated
 *Secondary Balancer
 s*
 
+*Secondary Balancers*
+
+*Secondary Balancer
+s*
+
 *Secondary Balancers, secondary-balancer, secondary-balancers*
 
 A state that promotes a balance of power between other states so that they may not get powerful enough to challenge it.
@@ -842,10 +847,28 @@ Government led efforts to encourage the development of all parts of the economy,
 
 # Ideal Theory
 
+*Ideal Theories*
+
 (Rawls) A theory which deals with ideal circumstances, such as strict compliance with the rules of the theory, having a well-ordered society.
 
 ---
 
 # Non-ideal Theory
 
+*Non-ideal Theories*
+
 (Rawls) Concerns how to adapt a theory for the non-ideal situations in the real world, a big part of which are the principles for meeting injustice.
+
+---
+
+# categorical imperative
+
+That the validity of a principle is not contingent upon some particular desire or aim, i.e., it is universal.
+
+---
+
+# thin theory of the good
+
+*thin theory*
+
+(Rawls) That the good is the rational long-term plan given relatively favorable circumstances. This is the main reason for people's want of primary goods, since it helps them satisfy this definition of the good.
