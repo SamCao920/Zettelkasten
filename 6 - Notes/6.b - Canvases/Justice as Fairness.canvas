@@ -230,6 +230,56 @@
 			"y":220,
 			"width":520,
 			"height":80
+		},
+		{
+			"id":"d8256fdec9c510f4",
+			"type":"text",
+			"text":"Basic Structure",
+			"styleAttributes":{},
+			"x":20,
+			"y":1030,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"14559ad5c0bf3852",
+			"type":"text",
+			"text":"[[Pure procedural justice is the most practical form of justice to evaluate the basic structure with]]",
+			"styleAttributes":{"shape":"pill"},
+			"x":-420,
+			"y":930,
+			"width":360,
+			"height":100
+		},
+		{
+			"id":"38da59ba7de38333",
+			"type":"text",
+			"text":"[[The basic structure is not responsible for inequalities in associations which one enters voluntarily]]",
+			"styleAttributes":{"shape":"pill"},
+			"x":380,
+			"y":930,
+			"width":400,
+			"height":100
+		},
+		{
+			"id":"72a04822c36454b6",
+			"type":"text",
+			"text":"Institutions",
+			"styleAttributes":{},
+			"x":20,
+			"y":1220,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"3af56538bcd9d802",
+			"type":"text",
+			"text":"[[Only realized institutions can be judged to be just or unjust]]",
+			"styleAttributes":{"shape":"pill"},
+			"x":415,
+			"y":1140,
+			"width":330,
+			"height":80
 		}
 	],
 	"edges":[
@@ -438,6 +488,52 @@
 			"fromNode":"af599a1d27f41287",
 			"fromSide":"top",
 			"toNode":"396826e21f134e36",
+			"toSide":"left"
+		},
+		{
+			"id":"3ba027cb4646330e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c1ec33f9dbc992ee",
+			"fromSide":"bottom",
+			"toNode":"d8256fdec9c510f4",
+			"toSide":"top"
+		},
+		{
+			"id":"cde1aa46695cf4fc",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d8256fdec9c510f4",
+			"fromSide":"right",
+			"toNode":"38da59ba7de38333",
+			"toSide":"left"
+		},
+		{
+			"id":"0845262dc002c48b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"d8256fdec9c510f4",
+			"fromSide":"left",
+			"toNode":"14559ad5c0bf3852",
+			"toSide":"right"
+		},
+		{
+			"id":"4ac32bc920b37ca0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d8256fdec9c510f4",
+			"fromSide":"bottom",
+			"toNode":"72a04822c36454b6",
+			"toSide":"top"
+		},
+		{
+			"id":"1173177e73f5c4c8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"72a04822c36454b6",
+			"fromSide":"right",
+			"toNode":"3af56538bcd9d802",
 			"toSide":"left"
 		}
 	],
