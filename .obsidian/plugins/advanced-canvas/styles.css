@@ -42,51 +42,28 @@ details.setting-item > *:not(summary) {
   border-left: 1px solid var(--color-accent);
 }
 .kofi-banner {
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  padding: var(--size-4-3);
-  background-color: var(--background-secondary);
-  border: 1px solid var(--divider-color);
-  border-radius: var(--radius-s);
-}
-.kofi-banner h1 {
-  margin: 0;
-  margin-bottom: 10px;
-  font-size: var(--font-ui-large);
-  font-weight: 600;
-}
-.kofi-banner .progress-container {
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-items: center;
+  justify-content: space-between;
+  padding: var(--size-4-3);
+  background-color: var(--background-primary-alt);
+  border-radius: var(--radius-m);
 }
-.kofi-banner .progress-container progress {
-  background: transparent;
-}
-.kofi-banner .progress-container progress::-webkit-progress-bar {
-  background-color: var(--background-modifier-border);
-  border-radius: var(--input-radius);
-}
-.kofi-banner .progress-container progress::-webkit-progress-value {
-  background-color: var(--color-accent);
-  border-radius: var(--input-radius);
-}
-.kofi-banner .progress-container .hourly-rate {
-  margin-left: 10px;
+.kofi-banner .ac-kofi-banner-title {
+  margin: 0;
+  font-size: var(--font-ui-small);
   font-weight: 600;
 }
 .kofi-banner .ac-kofi-button {
-  align-self: flex-end;
   width: min-content;
   height: min-content;
   line-height: 0;
 }
 .kofi-banner .ac-kofi-button img {
-  min-width: 100px;
+  min-width: 75px;
   width: 25%;
-  max-width: 200px;
+  max-width: 100px;
 }
 .canvas-wrapper > .document-search-container {
   transform: translateZ(0);

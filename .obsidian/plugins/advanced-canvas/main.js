@@ -180,7 +180,7 @@ var DebugHelper = class {
       }
     });
     if (duration >= 0) {
-      setTimeout(() => {
+      window.setTimeout(() => {
         canvas.removeNode(node);
       }, duration);
     }
@@ -303,7 +303,7 @@ var _CanvasHelper = class _CanvasHelper {
     };
   }
   static createControlMenuButton(menuOption) {
-    const quickSetting = document.createElement("div");
+    const quickSetting = activeDocument.createElement("div");
     if (menuOption.id) quickSetting.id = menuOption.id;
     quickSetting.classList.add("canvas-control-item");
     (0, import_obsidian2.setIcon)(quickSetting, menuOption.icon);
@@ -320,7 +320,7 @@ var _CanvasHelper = class _CanvasHelper {
     controlGroup.appendChild(element);
   }
   static createCardMenuOption(canvas, menuOption, previewNodeSize, onPlaced) {
-    const menuOptionElement = document.createElement("div");
+    const menuOptionElement = activeDocument.createElement("div");
     if (menuOption.id) menuOptionElement.id = menuOption.id;
     menuOptionElement.classList.add("canvas-card-menu-button");
     menuOptionElement.classList.add("mod-draggable");
@@ -343,7 +343,7 @@ var _CanvasHelper = class _CanvasHelper {
     canvas == null ? void 0 : canvas.cardMenuEl.appendChild(element);
   }
   static createPopupMenuOption(menuOption) {
-    const menuOptionElement = document.createElement("button");
+    const menuOptionElement = activeDocument.createElement("button");
     if (menuOption.id) menuOptionElement.id = menuOption.id;
     menuOptionElement.classList.add("clickable-icon");
     (0, import_obsidian2.setIcon)(menuOptionElement, menuOption.icon);
@@ -366,14 +366,14 @@ var _CanvasHelper = class _CanvasHelper {
           return;
         }
         menuOptionElement.classList.add("is-active");
-        const submenu = document.createElement("div");
+        const submenu = (_c = menuOptionElement.parentElement) == null ? void 0 : _c.createDiv();
+        if (!submenu) return;
         submenu.id = submenuId;
         submenu.classList.add("canvas-submenu");
         for (const subMenuOption of subMenuOptions) {
           const subMenuOptionElement = this.createPopupMenuOption(subMenuOption);
           submenu.appendChild(subMenuOptionElement);
         }
-        (_c = menuOptionElement.parentElement) == null ? void 0 : _c.appendChild(submenu);
       }
     });
     return menuOptionElement;
@@ -457,12 +457,11 @@ var _CanvasHelper = class _CanvasHelper {
     const popupMenuElement = (_a = canvas == null ? void 0 : canvas.menu) == null ? void 0 : _a.menuEl;
     if (!popupMenuElement) return;
     (_b = popupMenuElement.querySelector(`#${STYLE_MENU_ID}`)) == null ? void 0 : _b.remove();
-    const styleMenuButtonElement = document.createElement("button");
+    const styleMenuButtonElement = popupMenuElement.createEl("button");
     styleMenuButtonElement.id = STYLE_MENU_ID;
     styleMenuButtonElement.classList.add("clickable-icon");
     (0, import_obsidian2.setIcon)(styleMenuButtonElement, "paintbrush");
     (0, import_obsidian2.setTooltip)(styleMenuButtonElement, "Style", { placement: "top" });
-    popupMenuElement.appendChild(styleMenuButtonElement);
     styleMenuButtonElement.addEventListener("click", () => {
       var _a2, _b2, _c;
       const isOpen = styleMenuButtonElement.classList.toggle("has-active-menu");
@@ -471,7 +470,7 @@ var _CanvasHelper = class _CanvasHelper {
         (_b2 = popupMenuElement.querySelector(`#${STYLE_MENU_DROPDOWN_SUBMENU_ID}`)) == null ? void 0 : _b2.remove();
         return;
       }
-      const styleMenuDropdownElement = document.createElement("div");
+      const styleMenuDropdownElement = popupMenuElement.createDiv();
       styleMenuDropdownElement.id = STYLE_MENU_DROPDOWN_ID;
       styleMenuDropdownElement.classList.add("menu");
       styleMenuDropdownElement.style.position = "absolute";
@@ -484,24 +483,20 @@ var _CanvasHelper = class _CanvasHelper {
         styleMenuDropdownElement.style.left = `${leftPosition}px`;
       else styleMenuDropdownElement.style.right = `${rightPosition}px`;
       for (const stylableAttribute of stylableAttributes) {
-        const stylableAttributeElement = document.createElement("div");
+        const stylableAttributeElement = styleMenuDropdownElement.createDiv();
         stylableAttributeElement.classList.add("menu-item");
         stylableAttributeElement.classList.add("tappable");
-        const iconElement = document.createElement("div");
+        const iconElement = stylableAttributeElement.createDiv();
         iconElement.classList.add("menu-item-icon");
         let selectedStyle = (_c = stylableAttribute.options.find((option) => currentStyleAttributes[stylableAttribute.key] === option.value)) != null ? _c : stylableAttribute.options.find((value) => value.value === null);
         if (!selectedStyle) continue;
         (0, import_obsidian2.setIcon)(iconElement, selectedStyle.icon);
-        stylableAttributeElement.appendChild(iconElement);
-        const labelElement = document.createElement("div");
+        const labelElement = stylableAttributeElement.createDiv();
         labelElement.classList.add("menu-item-title");
         labelElement.textContent = stylableAttribute.label;
-        stylableAttributeElement.appendChild(labelElement);
-        const expandIconElement = document.createElement("div");
+        const expandIconElement = stylableAttributeElement.createDiv();
         expandIconElement.classList.add("menu-item-icon");
         (0, import_obsidian2.setIcon)(expandIconElement, "chevron-right");
-        stylableAttributeElement.appendChild(expandIconElement);
-        styleMenuDropdownElement.appendChild(stylableAttributeElement);
         stylableAttributeElement.addEventListener("pointerenter", () => {
           stylableAttributeElement.classList.add("selected");
         });
@@ -511,7 +506,7 @@ var _CanvasHelper = class _CanvasHelper {
         stylableAttributeElement.addEventListener("click", () => {
           var _a3;
           (_a3 = popupMenuElement.querySelector(`#${STYLE_MENU_DROPDOWN_SUBMENU_ID}`)) == null ? void 0 : _a3.remove();
-          const styleMenuDropdownSubmenuElement = document.createElement("div");
+          const styleMenuDropdownSubmenuElement = popupMenuElement.createDiv();
           styleMenuDropdownSubmenuElement.id = STYLE_MENU_DROPDOWN_SUBMENU_ID;
           styleMenuDropdownSubmenuElement.classList.add("menu");
           styleMenuDropdownSubmenuElement.style.position = "absolute";
@@ -537,32 +532,27 @@ var _CanvasHelper = class _CanvasHelper {
             });
             if (selectedStyle === styleOption) {
               styleMenuDropdownSubmenuOptionElement.classList.add("mod-selected");
-              const selectedIconElement = document.createElement("div");
+              const selectedIconElement = styleMenuDropdownSubmenuOptionElement.createDiv();
               selectedIconElement.classList.add("menu-item-icon");
               selectedIconElement.classList.add("mod-selected");
               (0, import_obsidian2.setIcon)(selectedIconElement, "check");
-              styleMenuDropdownSubmenuOptionElement.appendChild(selectedIconElement);
             }
             styleMenuDropdownSubmenuElement.appendChild(styleMenuDropdownSubmenuOptionElement);
           }
-          popupMenuElement.appendChild(styleMenuDropdownSubmenuElement);
         });
       }
-      popupMenuElement.appendChild(styleMenuDropdownElement);
     });
   }
   static createDropdownOptionElement(menuOption) {
-    const menuDropdownOptionElement = document.createElement("div");
+    const menuDropdownOptionElement = activeDocument.createElement("div");
     menuDropdownOptionElement.classList.add("menu-item");
     menuDropdownOptionElement.classList.add("tappable");
-    const iconElement = document.createElement("div");
+    const iconElement = menuDropdownOptionElement.createDiv();
     iconElement.classList.add("menu-item-icon");
     (0, import_obsidian2.setIcon)(iconElement, menuOption.icon);
-    menuDropdownOptionElement.appendChild(iconElement);
-    const labelElement = document.createElement("div");
+    const labelElement = menuDropdownOptionElement.createDiv();
     labelElement.classList.add("menu-item-title");
     labelElement.textContent = menuOption.label;
-    menuDropdownOptionElement.appendChild(labelElement);
     menuDropdownOptionElement.addEventListener("pointerenter", () => {
       menuDropdownOptionElement.classList.add("selected");
     });
@@ -576,7 +566,7 @@ var _CanvasHelper = class _CanvasHelper {
     return menuDropdownOptionElement;
   }
   static createDropdownSeparatorElement() {
-    const separatorElement = document.createElement("div");
+    const separatorElement = activeDocument.createElement("div");
     separatorElement.classList.add("menu-separator");
     return separatorElement;
   }
@@ -1386,7 +1376,7 @@ var CssStylesConfigManager = class {
   getStyles() {
     if (this.cachedConfig) return this.cachedConfig;
     this.cachedConfig = [];
-    const styleSheets = document.styleSheets;
+    const styleSheets = activeDocument.styleSheets;
     for (let i = 0; i < styleSheets.length; i++) {
       const sheet = styleSheets.item(i);
       if (!sheet) continue;
@@ -1657,9 +1647,6 @@ var VariableBreakpointCanvasExtension = class extends CanvasExtension {
 
 // src/settings.ts
 var README_URL = "https://github.com/Developer-Mike/obsidian-advanced-canvas?tab=readme-ov-file";
-var SPENT_HOURS = 250;
-var RECEIVED_DONATIONS = 606;
-var HOURLY_RATE_GOAL = 15;
 var KOFI_PAGE_URL = "https://ko-fi.com/X8X27IA08";
 var KOFI_BADGE_URI = "data:image/webp;base64,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";
 var DEFAULT_SETTINGS_VALUES = {
@@ -2215,10 +2202,9 @@ var AdvancedCanvasPluginSettingTab = class extends import_obsidian4.PluginSettin
         heading.infoSection,
         heading.disableToggle ? null : headingId
       );
-      const settingsHeaderChildrenContainerEl = document.createElement("div");
+      const settingsHeaderChildrenContainerEl = containerEl.createDiv();
       settingsHeaderChildrenContainerEl.classList.add("settings-header-children");
-      settingsHeaderChildrenContainerEl.appendChild(document.createElement("span"));
-      containerEl.appendChild(settingsHeaderChildrenContainerEl);
+      settingsHeaderChildrenContainerEl.createSpan();
       for (const [settingId, setting] of Object.entries(heading.children)) {
         if (!(settingId in DEFAULT_SETTINGS_VALUES)) continue;
         switch (setting.type) {
@@ -2275,7 +2261,7 @@ var AdvancedCanvasPluginSettingTab = class extends import_obsidian4.PluginSettin
   }
   createNumberSetting(containerEl, settingId, setting) {
     new import_obsidian4.Setting(containerEl).setName(setting.label).setDesc(setting.description).addText(
-      (text) => text.setValue(this.settingsManager.getSetting(settingId).toString()).onChange(async (value) => {
+      (text) => text.setValue(JSON.stringify(this.settingsManager.getSetting(settingId))).onChange(async (value) => {
         await this.settingsManager.setSetting({ [settingId]: setting.parse(value) });
       })
     );
@@ -2309,12 +2295,10 @@ var AdvancedCanvasPluginSettingTab = class extends import_obsidian4.PluginSettin
     );
   }
   createStylesSetting(containerEl, settingId, setting) {
-    const nestedContainerEl = document.createElement("details");
+    const nestedContainerEl = containerEl.createEl("details");
     nestedContainerEl.classList.add("setting-item");
-    containerEl.appendChild(nestedContainerEl);
-    const summaryEl = document.createElement("summary");
+    const summaryEl = nestedContainerEl.createEl("summary");
     summaryEl.textContent = setting.label;
-    nestedContainerEl.appendChild(summaryEl);
     for (const styleAttribute of setting.getParameters(this.settingsManager)) {
       new import_obsidian4.Setting(nestedContainerEl).setName(styleAttribute.label).addDropdown(
         (dropdown) => {
@@ -2331,39 +2315,18 @@ var AdvancedCanvasPluginSettingTab = class extends import_obsidian4.PluginSettin
       );
     }
   }
-  async createKofiBanner(containerEl) {
-    const banner = document.createElement("div");
+  createKofiBanner(containerEl) {
+    const banner = containerEl.createDiv();
     banner.classList.add("kofi-banner");
-    const title = document.createElement("h1");
-    title.textContent = "Enjoying the plugin?";
-    banner.appendChild(title);
-    const description = document.createElement("p");
-    description.innerHTML = `
-      Currently, Advanced Canvas has received <b>about ${RECEIVED_DONATIONS}\xA3</b> in donations with a total of <b>about ${SPENT_HOURS} hours</b> spent on development. <br>
-      <br>
-      Please help me develop this plugin further by reaching the goal of <b>${HOURLY_RATE_GOAL}\xA3/hour</b> \u2764\uFE0F
-    `;
-    banner.appendChild(description);
-    const progressContainer = document.createElement("div");
-    progressContainer.classList.add("progress-container");
-    const progressbar = document.createElement("progress");
-    progressbar.value = RECEIVED_DONATIONS / SPENT_HOURS;
-    progressbar.max = HOURLY_RATE_GOAL;
-    progressContainer.appendChild(progressbar);
-    const hourlyRate = document.createElement("span");
-    hourlyRate.classList.add("hourly-rate");
-    hourlyRate.textContent = `${(RECEIVED_DONATIONS / SPENT_HOURS).toString()}\xA3/h`;
-    progressContainer.appendChild(hourlyRate);
-    banner.appendChild(progressContainer);
-    const koFiButton = document.createElement("a");
+    const title = banner.createSpan();
+    title.classList.add("ac-kofi-banner-title");
+    title.textContent = "Support the development of Advanced Canvas";
+    const koFiButton = banner.createEl("a");
     koFiButton.classList.add("ac-kofi-button");
     koFiButton.href = KOFI_PAGE_URL;
     koFiButton.target = "_blank";
-    const koFiImage = document.createElement("img");
+    const koFiImage = koFiButton.createEl("img");
     koFiImage.src = KOFI_BADGE_URI;
-    koFiButton.appendChild(koFiImage);
-    banner.appendChild(koFiButton);
-    containerEl.appendChild(banner);
   }
 };
 
@@ -2442,7 +2405,7 @@ var dist_default = JSONC;
 var Patcher = class _Patcher {
   constructor(plugin) {
     this.plugin = plugin;
-    this.patch();
+    void this.patch();
   }
   static async waitForMapValueLookup(map, viewType, patch) {
     return new Promise((resolve) => {
@@ -2541,7 +2504,7 @@ var _MigrationHelper = class _MigrationHelper {
 };
 _MigrationHelper.MIGRATIONS = {
   undefined: (canvas) => {
-    var _a, _b, _c;
+    var _a, _b, _c, _d;
     const TARGET_SPEC_VERSION = "1.0-1.0";
     let startNode;
     const globalInterdimensionalEdges = {};
@@ -2568,16 +2531,16 @@ _MigrationHelper.MIGRATIONS = {
             if (edge.fromNode !== node.id) edge.fromNode = `${portalId}-${edge.fromNode}`;
             if (edge.toNode !== node.id) edge.toNode = `${portalId}-${edge.toNode}`;
           }
-          globalInterdimensionalEdges[portalId].push(...edges);
+          (_b = globalInterdimensionalEdges[portalId]) == null ? void 0 : _b.push(...edges);
         }
         delete node.edgesToNodeFromPortal;
       }
     }
-    for (const node of (_b = canvas.nodes) != null ? _b : []) {
+    for (const node of (_c = canvas.nodes) != null ? _c : []) {
       if (!(node.id in globalInterdimensionalEdges)) continue;
       node.interdimensionalEdges = globalInterdimensionalEdges[node.id];
     }
-    (_c = canvas.metadata) != null ? _c : canvas.metadata = {
+    (_d = canvas.metadata) != null ? _d : canvas.metadata = {
       version: TARGET_SPEC_VERSION,
       frontmatter: {},
       startNode
@@ -2916,7 +2879,7 @@ var CanvasPatcher = class extends Patcher {
         const addEdgeEventRef = that.plugin.app.workspace.on("advanced-canvas:edge-added", (_canvas, edge) => {
           that.plugin.app.workspace.trigger("advanced-canvas:edge-connection-dragging:before", this.canvas, edge, e, true, "to");
           that.plugin.app.workspace.offref(addEdgeEventRef);
-          document.addEventListener("pointerup", (e2) => {
+          activeDocument.addEventListener("pointerup", (e2) => {
             that.plugin.app.workspace.trigger("advanced-canvas:edge-connection-dragging:after", this.canvas, edge, e2, true, "to");
           }, { once: true });
         });
@@ -2976,7 +2939,7 @@ var CanvasPatcher = class extends Patcher {
         const toPos = BBoxHelper.getCenterOfBBoxSide(this.to.node.getBBox(), this.to.side);
         const draggingSide = Math.hypot(eventPos.x - fromPos.x, eventPos.y - fromPos.y) > Math.hypot(eventPos.x - toPos.x, eventPos.y - toPos.y) ? "to" : "from";
         that.plugin.app.workspace.trigger("advanced-canvas:edge-connection-dragging:before", this.canvas, this, e, false, draggingSide, previousEnds);
-        document.addEventListener("pointerup", (e2) => {
+        activeDocument.addEventListener("pointerup", (e2) => {
           that.plugin.app.workspace.trigger("advanced-canvas:edge-connection-dragging:after", this.canvas, this, e2, false, draggingSide, previousEnds);
         }, { once: true });
         return result;
@@ -3052,7 +3015,7 @@ var AdvancedCanvasEmbed = class extends import_obsidian7.Component {
     super();
     this.onModifyCallback = (file) => {
       if (file.path !== this.file.path) return;
-      this.loadFile();
+      void this.loadFile();
     };
     this.context = context;
     this.file = file;
@@ -3083,7 +3046,7 @@ var AdvancedCanvasEmbed = class extends import_obsidian7.Component {
     else if (canvasNode.type === "file") nodeContent = `**File Node:** ${canvasNode.file}`;
     this.context.containerEl.classList.add("markdown-embed");
     this.context.containerEl.empty();
-    import_obsidian7.MarkdownRenderer.render(this.context.app, nodeContent, this.context.containerEl, this.file.path, this);
+    await import_obsidian7.MarkdownRenderer.render(this.context.app, nodeContent, this.context.containerEl, this.file.path, this);
   }
 };
 
@@ -3139,7 +3102,7 @@ var TaskQueue = class {
   async add(task) {
     return new Promise((resolve) => {
       this.queue.push([resolve, task]);
-      if (!this.running) this.run();
+      if (!this.running) void this.run();
     });
   }
   setOnFinished(callback) {
@@ -3164,10 +3127,12 @@ var MetadataCachePatcher = class extends Patcher {
     if (!this.plugin.settings.getSetting("canvasMetadataCompatibilityEnabled")) return;
     Patcher.patchPrototype(this.plugin, this.plugin.app.metadataCache, {
       getCache: Patcher.OverrideExisting((next) => function(filepath, ...args) {
+        var _a;
         if (FilepathHelper.extension(filepath) === "canvas") {
-          if (!this.fileCache.hasOwnProperty(filepath)) return null;
-          const hash = this.fileCache[filepath].hash;
-          return this.metadataCache[hash] || null;
+          if (!Object.prototype.hasOwnProperty.call(this.fileCache, filepath))
+            return null;
+          const hash = (_a = this.fileCache[filepath]) == null ? void 0 : _a.hash;
+          return hash && this.metadataCache[hash] || null;
         }
         return next.call(this, filepath, ...args);
       }),
@@ -3179,7 +3144,7 @@ var MetadataCachePatcher = class extends Patcher {
       resolveLinks: Patcher.OverrideExisting((next) => async function(filepath) {
         const result = next.call(this, filepath);
         if (FilepathHelper.extension(filepath) === "canvas")
-          CanvasMetadataHandler.resolveCanvasLinks.call(this, filepath);
+          await CanvasMetadataHandler.resolveCanvasLinks.call(this, filepath);
         return result;
       })
     });
@@ -3189,12 +3154,11 @@ var _CanvasMetadataHandler = class _CanvasMetadataHandler {
   static async computeCanvasFileMetadataAsync(file) {
     this.uniqueFileLookup.add(file.name.toLowerCase(), file);
     let isStale = true;
-    if (!this.fileCache.hasOwnProperty(file.path))
-      this.saveFileCache(file.path, { mtime: 0, size: 0, hash: "" });
+    const cache2 = this.fileCache[file.path];
+    if (!cache2) this.saveFileCache(file.path, { mtime: 0, size: 0, hash: "" });
     else {
-      const cache2 = this.fileCache[file.path];
       const unchanged = cache2.mtime === file.stat.mtime && cache2.size === file.stat.size;
-      const hasMetadataCache = cache2.hash && this.metadataCache.hasOwnProperty(cache2.hash);
+      const hasMetadataCache = cache2.hash && Object.prototype.hasOwnProperty.call(this.metadataCache, cache2.hash);
       if (unchanged && hasMetadataCache)
         isStale = false;
     }
@@ -3226,19 +3190,19 @@ var _CanvasMetadataHandler = class _CanvasMetadataHandler {
       data,
       metadata
     );
-    const slowIndexingTimeout = setTimeout(() => {
+    const slowIndexingTimeout = window.setTimeout(() => {
       new import_obsidian8.Notice(`Canvas indexing taking a long time for file ${file.path}`);
     }, 1e4);
     try {
       metadata = await _CanvasMetadataHandler.computeCanvasMetadataAsync.call(this, data);
     } finally {
-      clearTimeout(slowIndexingTimeout);
+      window.clearTimeout(slowIndexingTimeout);
     }
     if (metadata) {
       this.saveMetaCache(hash, metadata);
       this.trigger("changed", file, data, metadata);
     } else {
-      console.log("Canvas metadata failed to parse", file);
+      console.error("Canvas metadata failed to parse", file);
     }
   }
   static async computeCanvasMetadataAsync(data) {
@@ -3261,7 +3225,7 @@ var _CanvasMetadataHandler = class _CanvasMetadataHandler {
         return {
           key,
           displayText: aliases.length > 0 ? aliases.join("|") : link,
-          link,
+          link: link != null ? link : v,
           original: v
         };
       }).filter((v) => v !== null);
@@ -3432,7 +3396,7 @@ var FileManagerPatcher = class extends Patcher {
             const content = JSON.parse(data);
             fn(content.metadata.frontmatter);
             return JSON.stringify(content, null, 2);
-          });
+          }).catch(() => console.error("Failed to update metadata object in canvas file."));
           return;
         }
         return next.call(this, file, fn, options);
@@ -3475,7 +3439,7 @@ var PropertiesPatcher = class extends Patcher {
               const content = JSON.parse(data);
               if (content == null ? void 0 : content.metadata) content.metadata.frontmatter = frontmatter;
               return JSON.stringify(content, null, 2);
-            });
+            }).catch(() => console.error("Failed to update metadata object in canvas file."));
             return;
           }
           return next.call(this, frontmatter);
@@ -3543,50 +3507,41 @@ var CanvasSearchView = class {
     this.createSearchView();
   }
   createSearchView() {
-    this.containerEl = document.createElement("div");
+    this.containerEl = this.view.canvas.wrapperEl.createDiv();
     this.containerEl.className = "document-search-container";
-    const documentSearch = document.createElement("div");
+    const documentSearch = this.containerEl.createDiv();
     documentSearch.className = "document-search";
-    this.containerEl.appendChild(documentSearch);
-    const searchInputContainer = document.createElement("div");
+    const searchInputContainer = documentSearch.createDiv();
     searchInputContainer.className = "search-input-container document-search-input";
-    documentSearch.appendChild(searchInputContainer);
-    this.searchInput = document.createElement("input");
+    this.searchInput = searchInputContainer.createEl("input");
     this.searchInput.type = "text";
     this.searchInput.placeholder = "Find...";
     this.searchInput.addEventListener("keydown", (e) => this.onKeyDown(e));
     this.searchInput.addEventListener("input", () => this.onInput());
-    searchInputContainer.appendChild(this.searchInput);
-    this.searchCount = document.createElement("div");
+    this.searchCount = searchInputContainer.createDiv();
     this.searchCount.className = "document-search-count";
     this.searchCount.style.display = "none";
     this.searchCount.textContent = "0 / 0";
-    searchInputContainer.appendChild(this.searchCount);
-    const documentSearchButtons = document.createElement("div");
+    const documentSearchButtons = documentSearch.createDiv();
     documentSearchButtons.className = "document-search-buttons";
-    documentSearch.appendChild(documentSearchButtons);
-    const previousButton = document.createElement("button");
+    const previousButton = documentSearchButtons.createEl("button");
     previousButton.className = "clickable-icon document-search-button";
     previousButton.setAttribute("aria-label", "Previous\nShift + F3");
     previousButton.setAttribute("data-tooltip-position", "top");
     (0, import_obsidian10.setIcon)(previousButton, "arrow-up");
     previousButton.addEventListener("click", () => this.changeMatch(this.matchIndex - 1));
-    documentSearchButtons.appendChild(previousButton);
-    const nextButton = document.createElement("button");
+    const nextButton = documentSearchButtons.createEl("button");
     nextButton.className = "clickable-icon document-search-button";
     nextButton.setAttribute("aria-label", "Next\nF3");
     nextButton.setAttribute("data-tooltip-position", "top");
     (0, import_obsidian10.setIcon)(nextButton, "arrow-down");
     nextButton.addEventListener("click", () => this.changeMatch(this.matchIndex + 1));
-    documentSearchButtons.appendChild(nextButton);
-    const closeButton = document.createElement("button");
+    const closeButton = documentSearch.createEl("button");
     closeButton.className = "clickable-icon document-search-close-button";
     closeButton.setAttribute("aria-label", "Exit search");
     closeButton.setAttribute("data-tooltip-position", "top");
     (0, import_obsidian10.setIcon)(closeButton, "x");
     closeButton.addEventListener("click", () => this.close());
-    documentSearch.appendChild(closeButton);
-    this.view.canvas.wrapperEl.appendChild(this.containerEl);
     this.view.canvas.searchEl = this.containerEl;
     this.searchInput.focus();
   }
@@ -3718,7 +3673,7 @@ var AbstractSelectionModal = class extends import_obsidian12.FuzzySuggestModal {
   getItemText(item) {
     return item;
   }
-  onChooseItem(item, evt) {
+  onChooseItem(_item, _evt) {
   }
   awaitInput() {
     return new Promise((resolve, _reject) => {
@@ -3985,7 +3940,7 @@ var PresentationCanvasExtension = class extends CanvasExtension {
       checkCallback: CanvasHelper.canvasCommand(
         this.plugin,
         (_canvas) => !this.isPresentationMode,
-        (canvas) => this.startPresentation(canvas)
+        (canvas) => void this.startPresentation(canvas)
       )
     });
     this.plugin.addCommand({
@@ -3994,7 +3949,7 @@ var PresentationCanvasExtension = class extends CanvasExtension {
       checkCallback: CanvasHelper.canvasCommand(
         this.plugin,
         (_canvas) => !this.isPresentationMode,
-        (canvas) => this.startPresentation(canvas, true)
+        (canvas) => void this.startPresentation(canvas, true)
       )
     });
     this.plugin.addCommand({
@@ -4113,7 +4068,6 @@ var PresentationCanvasExtension = class extends CanvasExtension {
     const animationDurationMs = this.plugin.settings.getSetting("slideTransitionAnimationDuration") * 1e3;
     const toNodeBBox = CanvasHelper.getSmallestAllowedZoomBBox(canvas, toNode.getBBox());
     const toNodeBBoxPadded = removePadding ? toNodeBBox : BBoxHelper.enlargeBBox(toNodeBBox, 50);
-    console.log({ toNodeBBox, toNodeBBoxPadded });
     if (animationDurationMs > 0 && fromNode) {
       const animationIntensity = this.plugin.settings.getSetting("slideTransitionAnimationIntensity");
       const fromNodeBBox = CanvasHelper.getSmallestAllowedZoomBBox(canvas, fromNode.getBBox());
@@ -4133,7 +4087,7 @@ var PresentationCanvasExtension = class extends CanvasExtension {
     if (!tryContinue || this.visitedNodeIds.length === 0) {
       const startNode2 = canvas.metadata["startNode"] && canvas.nodes.get(canvas.metadata["startNode"]);
       if (!startNode2) {
-        new import_obsidian13.Notice("No start node found. Please mark a node as a start node trough the popup menu.");
+        new import_obsidian13.Notice("No start node found. Please mark a node as a start node through the popup menu.");
         return;
       }
       this.visitedNodeIds = [startNode2.getData().id];
@@ -4178,16 +4132,16 @@ var PresentationCanvasExtension = class extends CanvasExtension {
         mutationRecords.forEach((mutationRecord) => {
           mutationRecord.addedNodes.forEach((node) => {
             var _a;
-            document.body.removeChild(node);
-            (_a = document.fullscreenElement) == null ? void 0 : _a.appendChild(node);
+            activeDocument.body.removeChild(node);
+            (_a = activeDocument.fullscreenElement) == null ? void 0 : _a.appendChild(node);
           });
         });
-        const inputField = document.querySelector(".prompt-input");
+        const inputField = activeDocument.querySelector(".prompt-input");
         if (inputField) inputField.focus();
       });
-      this.fullscreenModalObserver.observe(document.body, { childList: true });
+      this.fullscreenModalObserver.observe(activeDocument.body, { childList: true });
       canvas.wrapperEl.onfullscreenchange = (_e) => {
-        if (document.fullscreenElement) return;
+        if (activeDocument.fullscreenElement) return;
         this.endPresentation(canvas);
       };
     }
@@ -4198,7 +4152,7 @@ var PresentationCanvasExtension = class extends CanvasExtension {
     if (!startNodeId) return;
     const startNode = canvas.nodes.get(startNodeId);
     if (!startNode) return;
-    this.animateNodeTransition(canvas, void 0, startNode);
+    void this.animateNodeTransition(canvas, void 0, startNode);
   }
   endPresentation(canvas) {
     var _a;
@@ -4207,7 +4161,7 @@ var PresentationCanvasExtension = class extends CanvasExtension {
       (_a = this.fullscreenModalObserver) == null ? void 0 : _a.disconnect();
       this.fullscreenModalObserver = null;
       canvas.wrapperEl.onfullscreenchange = null;
-      if (document.fullscreenElement) document.exitFullscreen();
+      if (activeDocument.fullscreenElement) void activeDocument.exitFullscreen();
     }
     canvas.wrapperEl.onkeydown = null;
     canvas.setReadonly(false);
@@ -4220,7 +4174,7 @@ var PresentationCanvasExtension = class extends CanvasExtension {
     this.presentationUsesFullscreen = false;
   }
   nextNode(canvas) {
-    var _a;
+    var _a, _b;
     const fromNodeId = this.visitedNodeIds.last();
     if (!fromNodeId) return;
     const fromNode = canvas.nodes.get(fromNodeId);
@@ -4235,13 +4189,13 @@ var PresentationCanvasExtension = class extends CanvasExtension {
       });
       const traversedEdgesCount = this.visitedNodeIds.filter((visitedNodeId) => visitedNodeId === fromNodeId).length - 1;
       const nextEdge = sortedEdges[traversedEdgesCount];
-      toNode = nextEdge.to.node;
+      toNode = (_b = nextEdge == null ? void 0 : nextEdge.to) == null ? void 0 : _b.node;
     }
     if (toNode) {
       this.visitedNodeIds.push(toNode.getData().id);
-      this.animateNodeTransition(canvas, fromNode, toNode);
+      void this.animateNodeTransition(canvas, fromNode, toNode);
     } else {
-      this.animateNodeTransition(canvas, fromNode, fromNode);
+      void this.animateNodeTransition(canvas, fromNode, fromNode);
     }
   }
   previousNode(canvas) {
@@ -4255,7 +4209,7 @@ var PresentationCanvasExtension = class extends CanvasExtension {
       toNode = fromNode;
       this.visitedNodeIds.push(fromNodeId);
     }
-    this.animateNodeTransition(canvas, fromNode, toNode);
+    void this.animateNodeTransition(canvas, fromNode, toNode);
   }
 };
 
@@ -4433,16 +4387,16 @@ var BetterReadonlyCanvasExtension = class extends CanvasExtension {
   createToggle(menuOption, settingKey) {
     const toggle = CanvasHelper.createControlMenuButton({
       ...menuOption,
-      callback: () => (async () => {
+      callback: () => void (async () => {
         var _a;
         const newValue = !this.plugin.settings.getSetting(settingKey);
         await this.plugin.settings.setSetting({ [settingKey]: newValue });
-        toggle.dataset.toggled = this.plugin.settings.getSetting(settingKey).toString();
+        toggle.dataset.toggled = JSON.stringify(this.plugin.settings.getSetting(settingKey));
         (_a = menuOption.callback) == null ? void 0 : _a.call(this);
       })()
     });
     toggle.classList.add("show-while-readonly");
-    toggle.dataset.toggled = this.plugin.settings.getSetting(settingKey).toString();
+    toggle.dataset.toggled = JSON.stringify(this.plugin.settings.getSetting(settingKey));
     return toggle;
   }
   updatePopupMenu(canvas) {
@@ -4471,7 +4425,7 @@ var EncapsulateCanvasExtension = class extends CanvasExtension {
       checkCallback: CanvasHelper.canvasCommand(
         this.plugin,
         (canvas) => !canvas.readonly && canvas.selection.size > 0,
-        (canvas) => this.encapsulateSelection(canvas)
+        (canvas) => void this.encapsulateSelection(canvas)
       )
     });
     this.plugin.registerEvent(this.plugin.app.workspace.on(
@@ -4545,7 +4499,7 @@ var CommandsCanvasExtension = class extends CanvasExtension {
       checkCallback: CanvasHelper.canvasCommand(
         this.plugin,
         (canvas) => !canvas.readonly,
-        (canvas) => this.createFileNode(canvas)
+        (canvas) => void this.createFileNode(canvas)
       )
     });
     this.plugin.addCommand({
@@ -4681,13 +4635,13 @@ var CommandsCanvasExtension = class extends CanvasExtension {
       checkCallback: CanvasHelper.canvasCommand(
         this.plugin,
         (canvas) => !canvas.readonly && canvas.selection.size === 1,
-        (canvas) => {
+        async (canvas) => {
           const file = canvas.view.file;
           if (!file) return;
           const nodeData = canvas.getSelectionData().nodes[0];
           if (!nodeData) return;
           const wikilink = `[[${file.path}#${nodeData.id}|${file.name} (${TextHelper.toTitleCase(nodeData.type)} node)]]`;
-          navigator.clipboard.writeText(wikilink);
+          await navigator.clipboard.writeText(wikilink);
           new import_obsidian14.Notice("Copied wikilink to node to clipboard.", 2e3);
         }
       )
@@ -4731,7 +4685,7 @@ var CommandsCanvasExtension = class extends CanvasExtension {
           }
           for (const outgoingLink of outgoingLinks) {
             if (existingFileNodes.has(outgoingLink)) continue;
-            this.createFileNode(canvas, outgoingLink);
+            void this.createFileNode(canvas, outgoingLink);
           }
         }
       )
@@ -4776,7 +4730,7 @@ var CommandsCanvasExtension = class extends CanvasExtension {
           }
           for (const backlink of backlinks) {
             if (existingFileNodes.has(backlink)) continue;
-            this.createFileNode(canvas, backlink);
+            void this.createFileNode(canvas, backlink);
           }
         }
       )
@@ -4954,11 +4908,11 @@ var AutoResizeNodeCanvasExtension = class extends CanvasExtension {
     ));
     this.plugin.registerEvent(this.plugin.app.workspace.on(
       "advanced-canvas:node-editing-state-changed",
-      (canvas, node, editing) => this.onNodeEditingStateChanged(canvas, node, editing)
+      (canvas, node, editing) => void this.onNodeEditingStateChanged(canvas, node, editing)
     ));
     this.plugin.registerEvent(this.plugin.app.workspace.on(
       "advanced-canvas:node-text-content-changed",
-      (canvas, node, viewUpdate) => this.onNodeTextContentChanged(canvas, node, viewUpdate.view.dom)
+      (canvas, node, viewUpdate) => void this.onNodeTextContentChanged(canvas, node, viewUpdate.view.dom)
     ));
   }
   isValidNodeType(nodeData) {
@@ -5005,7 +4959,7 @@ var AutoResizeNodeCanvasExtension = class extends CanvasExtension {
     if (!this.canBeResized(node)) return;
     await sleep(10);
     if (editing) {
-      this.onNodeTextContentChanged(_canvas, node, node.child.editMode.cm.dom);
+      void this.onNodeTextContentChanged(_canvas, node, node.child.editMode.cm.dom);
       return;
     }
     const renderedMarkdownContainer = node.nodeEl.querySelector(".markdown-preview-view.markdown-rendered");
@@ -5101,6 +5055,9 @@ var PortalsCanvasExtension = class _PortalsCanvasExtension extends CanvasExtensi
         this.onSetData(canvas, data).then((newData) => {
           if (newData.nodes.length === data.nodes.length && newData.edges.length === data.edges.length) return;
           setData(newData);
+        }).catch((error) => {
+          console.error("Error loading portal data:", error);
+          new import_obsidian15.Notice("An error occurred while loading portal data. Please check console for details.");
         });
       }
     ));
@@ -5396,9 +5353,9 @@ var FrontmatterControlButtonCanvasExtension = class extends CanvasExtension {
           let propertiesLeaf = (_a2 = this.plugin.app.workspace.getLeavesOfType("file-properties").first()) != null ? _a2 : null;
           if (!propertiesLeaf) {
             propertiesLeaf = this.plugin.app.workspace.getRightLeaf(false);
-            propertiesLeaf == null ? void 0 : propertiesLeaf.setViewState({ type: "file-properties" });
+            void (propertiesLeaf == null ? void 0 : propertiesLeaf.setViewState({ type: "file-properties" }));
           }
-          if (propertiesLeaf) this.plugin.app.workspace.revealLeaf(propertiesLeaf);
+          if (propertiesLeaf) void this.plugin.app.workspace.revealLeaf(propertiesLeaf);
         }
       })
     );
@@ -5422,7 +5379,7 @@ var BetterDefaultSettingsCanvasExtension = class extends CanvasExtension {
     ));
     this.plugin.registerEvent(this.plugin.app.workspace.on(
       "advanced-canvas:double-click",
-      (canvas, event, preventDefault) => this.onDoubleClick(canvas, event, preventDefault)
+      (canvas, event, preventDefault) => void this.onDoubleClick(canvas, event, preventDefault)
     ));
     this.plugin.registerEvent(this.plugin.app.workspace.on(
       "advanced-canvas:node-created",
@@ -5433,7 +5390,7 @@ var BetterDefaultSettingsCanvasExtension = class extends CanvasExtension {
     ));
     this.plugin.registerEvent(this.plugin.app.workspace.on(
       "advanced-canvas:edge-created",
-      (canvas, edge) => this.applyDefaultEdgeStyles(canvas, edge)
+      (canvas, edge) => void this.applyDefaultEdgeStyles(canvas, edge)
     ));
     this.plugin.registerEvent(this.plugin.app.workspace.on(
       "advanced-canvas:node-resized",
@@ -5581,7 +5538,7 @@ var ColorPaletteCanvasExtension = class extends CanvasExtension {
       }
     `).join("");
     for (const win of this.plugin.windowsManager.windows) {
-      const doc = win.document;
+      const doc = win.activeDocument;
       (_a = doc.getElementById(CUSTOM_COLORS_MOD_STYLES_ID)) == null ? void 0 : _a.remove();
       const customColorModStyle = doc.createElement("style");
       customColorModStyle.id = CUSTOM_COLORS_MOD_STYLES_ID;
@@ -5594,8 +5551,8 @@ var ColorPaletteCanvasExtension = class extends CanvasExtension {
     this.observer = new MutationObserver((mutations) => {
       const colorMenuOpened = mutations.some(
         (mutation) => Object.values(mutation.addedNodes).some(
-          (node) => node instanceof HTMLElement && node.classList.contains("canvas-submenu") && Object.values(node.childNodes).some(
-            (node2) => node2 instanceof HTMLElement && node2.classList.contains("canvas-color-picker-item")
+          (node) => node.instanceOf(HTMLElement) && node.classList.contains("canvas-submenu") && Object.values(node.childNodes).some(
+            (node2) => node2.instanceOf(HTMLElement) && node2.classList.contains("canvas-color-picker-item")
           )
         )
       );
@@ -5612,7 +5569,7 @@ var ColorPaletteCanvasExtension = class extends CanvasExtension {
     this.observer.observe(canvas.menu.menuEl, { childList: true });
   }
   createColorMenuItem(canvas, colorId) {
-    const menuItem = document.createElement("div");
+    const menuItem = activeDocument.createElement("div");
     menuItem.classList.add("canvas-color-picker-item");
     menuItem.classList.add(`mod-canvas-color-${colorId}`);
     menuItem.addEventListener("click", () => {
@@ -5626,7 +5583,7 @@ var ColorPaletteCanvasExtension = class extends CanvasExtension {
   }
   getCustomColors() {
     const colors = [];
-    const style = getComputedStyle(document.body);
+    const style = getComputedStyle(activeDocument.body);
     let colorIndex = DEFAULT_COLORS_COUNT + 1;
     while (style.getPropertyValue(`--canvas-color-${colorIndex}`)) {
       colors.push(colorIndex.toString());
@@ -5683,7 +5640,7 @@ var CollapsibleGroupsCanvasExtension = class extends CanvasExtension {
     const groupNodeData = groupNode.getData();
     if (groupNodeData.type !== "group") return;
     (_a = groupNode.collapseEl) == null ? void 0 : _a.remove();
-    const collapseEl = document.createElement("span");
+    const collapseEl = activeDocument.createElement("div");
     collapseEl.className = "collapse-button";
     (0, import_obsidian17.setIcon)(collapseEl, groupNodeData.collapsed ? "plus-circle" : "minus-circle");
     collapseEl.onclick = () => this.toggleCollapseGroup(canvas, groupNode);
@@ -5924,7 +5881,7 @@ var FlipEdgeCanvasExtension = class extends CanvasExtension {
     edgeDirectionButton.addEventListener("click", () => this.onEdgeDirectionDropdownCreated(canvas));
   }
   onEdgeDirectionDropdownCreated(canvas) {
-    const dropdownEl = document.body.querySelector("div.menu");
+    const dropdownEl = activeDocument.body.querySelector("div.menu");
     if (!dropdownEl) return;
     const separatorEl = CanvasHelper.createDropdownSeparatorElement();
     dropdownEl.appendChild(separatorEl);
@@ -6790,7 +6747,7 @@ var ExportCanvasExtension = class extends CanvasExtension {
       checkCallback: CanvasHelper.canvasCommand(
         this.plugin,
         (canvas) => canvas.nodes.size > 0,
-        (canvas) => this.showExportImageSettingsModal(canvas, null)
+        (canvas) => void this.showExportImageSettingsModal(canvas, null)
       )
     });
     this.plugin.addCommand({
@@ -6799,7 +6756,7 @@ var ExportCanvasExtension = class extends CanvasExtension {
       checkCallback: CanvasHelper.canvasCommand(
         this.plugin,
         (canvas) => canvas.selection.size > 0,
-        (canvas) => this.showExportImageSettingsModal(
+        (canvas) => void this.showExportImageSettingsModal(
           canvas,
           canvas.getSelectionData().nodes.map((nodeData) => canvas.nodes.get(nodeData.id)).filter((node) => node !== void 0)
         )
@@ -6842,7 +6799,7 @@ var ExportCanvasExtension = class extends CanvasExtension {
     noFontExportSetting = new import_obsidian18.Setting(modal.contentEl).setName("Skip font export").setDesc("This will not include the fonts in the exported SVG. This will make the SVG file smaller.").addToggle(
       (toggle) => toggle.setValue(noFontExport).onChange((value) => noFontExport = value)
     );
-    let theme = document.body.classList.contains("theme-dark") ? "dark" : "light";
+    let theme = activeDocument.body.classList.contains("theme-dark") ? "dark" : "light";
     new import_obsidian18.Setting(modal.contentEl).setName("Theme").setDesc("The theme used for the export.").addDropdown(
       (dropdown) => dropdown.addOptions({
         light: "Light",
@@ -6864,7 +6821,7 @@ var ExportCanvasExtension = class extends CanvasExtension {
     new import_obsidian18.Setting(modal.contentEl).addButton(
       (button) => button.setButtonText("Save").setCta().onClick(async () => {
         modal.close();
-        this.exportImage(
+        await this.exportImage(
           canvas,
           nodesToExport,
           svg,
@@ -6882,10 +6839,10 @@ var ExportCanvasExtension = class extends CanvasExtension {
   }
   async exportImage(canvas, nodesToExport, svg, pixelRatioFactor, noFontExport, theme, watermark, garbledText, transparentBackground) {
     var _a, _b, _c;
-    const cachedTheme = document.body.classList.contains("theme-dark") ? "dark" : "light";
+    const cachedTheme = activeDocument.body.classList.contains("theme-dark") ? "dark" : "light";
     if (theme !== cachedTheme) {
-      document.body.classList.toggle("theme-dark", theme === "dark");
-      document.body.classList.toggle("theme-light", theme === "light");
+      activeDocument.body.classList.toggle("theme-dark", theme === "dark");
+      activeDocument.body.classList.toggle("theme-light", theme === "light");
     }
     const isWholeCanvas = nodesToExport === null;
     if (!nodesToExport) nodesToExport = [...canvas.nodes.values()];
@@ -6897,7 +6854,7 @@ var ExportCanvasExtension = class extends CanvasExtension {
     const backgroundColor = transparentBackground ? void 0 : window.getComputedStyle(canvas.canvasEl).getPropertyValue("--canvas-background");
     new import_obsidian18.Notice("Exporting the canvas. Please wait...");
     const interactionBlocker = this.getInteractionBlocker();
-    document.body.appendChild(interactionBlocker);
+    activeDocument.body.appendChild(interactionBlocker);
     canvas.screenshotting = true;
     canvas.canvasEl.classList.add("is-exporting");
     if (garbledText) canvas.canvasEl.classList.add("is-text-garbled");
@@ -6953,7 +6910,6 @@ var ExportCanvasExtension = class extends CanvasExtension {
       while (unloadedNodes.length > 0 && performance.now() - startTimestamp < MAX_ALLOWED_LOADING_TIME) {
         await sleep(10);
         unloadedNodes = nodesToExport.filter((node) => node.initialized === false || node.isContentMounted === false);
-        console.info(`Waiting for ${unloadedNodes.length} nodes to finish loading...`);
       }
       if (unloadedNodes.length === 0) {
         const nodeElements = nodesToExport.map((node) => node.nodeEl);
@@ -6991,7 +6947,7 @@ var ExportCanvasExtension = class extends CanvasExtension {
         let baseFilename = `${((_c = canvas.view.file) == null ? void 0 : _c.basename) || "Untitled"}`;
         if (!isWholeCanvas) baseFilename += ` - Selection of ${nodesToExport.length}`;
         const filename = `${baseFilename}.${svg ? "svg" : "png"}`;
-        const downloadEl = document.createElement("a");
+        const downloadEl = activeDocument.createElement("a");
         downloadEl.href = imageDataUri;
         downloadEl.download = filename;
         downloadEl.click();
@@ -7009,33 +6965,27 @@ var ExportCanvasExtension = class extends CanvasExtension {
       canvas.setViewport(cachedViewport.x, cachedViewport.y, cachedViewport.zoom);
       interactionBlocker.remove();
       if (theme !== cachedTheme) {
-        document.body.classList.toggle("theme-dark", cachedTheme === "dark");
-        document.body.classList.toggle("theme-light", cachedTheme === "light");
+        activeDocument.body.classList.toggle("theme-dark", cachedTheme === "dark");
+        activeDocument.body.classList.toggle("theme-light", cachedTheme === "light");
       }
     }
   }
   getInteractionBlocker() {
-    const interactionBlocker = document.createElement("div");
+    const interactionBlocker = activeDocument.createElement("div");
     interactionBlocker.classList.add("progress-bar-container");
-    const progressBar = document.createElement("div");
+    const progressBar = interactionBlocker.createDiv();
     progressBar.classList.add("progress-bar");
-    interactionBlocker.appendChild(progressBar);
-    const progressBarMessage = document.createElement("div");
+    const progressBarMessage = progressBar.createDiv();
     progressBarMessage.classList.add("progress-bar-message", "u-center-text");
     progressBarMessage.innerText = "Generating image...";
-    progressBar.appendChild(progressBarMessage);
-    const progressBarIndicator = document.createElement("div");
+    const progressBarIndicator = progressBar.createDiv();
     progressBarIndicator.classList.add("progress-bar-indicator");
-    progressBar.appendChild(progressBarIndicator);
-    const progressBarLine = document.createElement("div");
+    const progressBarLine = progressBarIndicator.createDiv();
     progressBarLine.classList.add("progress-bar-line");
-    progressBarIndicator.appendChild(progressBarLine);
-    const progressBarSublineIncrease = document.createElement("div");
+    const progressBarSublineIncrease = progressBarIndicator.createDiv();
     progressBarSublineIncrease.classList.add("progress-bar-subline", "mod-increase");
-    progressBarIndicator.appendChild(progressBarSublineIncrease);
-    const progressBarSublineDecrease = document.createElement("div");
+    const progressBarSublineDecrease = progressBarIndicator.createDiv();
     progressBarSublineDecrease.classList.add("progress-bar-subline", "mod-decrease");
-    progressBarIndicator.appendChild(progressBarSublineDecrease);
     return interactionBlocker;
   }
   getWatermark(bbox) {
@@ -7048,7 +6998,7 @@ var ExportCanvasExtension = class extends CanvasExtension {
       y: bboxWidth * 0.014
     };
     bbox.maxY += height + watermarkPadding.y;
-    const watermarkEl = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+    const watermarkEl = activeDocument.createElementNS("http://www.w3.org/2000/svg", "svg");
     watermarkEl.id = "watermark-ac";
     watermarkEl.style.transform = `translate(${bbox.minX + watermarkPadding.x}px, ${bbox.maxY - height - watermarkPadding.y}px)`;
     watermarkEl.setAttrs({
@@ -7144,10 +7094,10 @@ var FloatingEdgeCanvasExtension = class extends CanvasExtension {
         node.nodeEl.classList.toggle("hovering-floating-edge-zone", hovering);
       }
     };
-    document.addEventListener("pointermove", this.onPointerMove);
+    activeDocument.addEventListener("pointermove", this.onPointerMove);
   }
   onEdgeStoppedDragging(_canvas, edge, event, _newEdge, side) {
-    document.removeEventListener("pointermove", this.onPointerMove);
+    activeDocument.removeEventListener("pointermove", this.onPointerMove);
     const dropZoneNode = side === "from" ? edge.from.node : edge.to.node;
     const floatingEdgeDropZone = this.getFloatingEdgeDropZoneForNode(dropZoneNode);
     const wasDroppedInFloatingEdgeDropZone = this.plugin.settings.getSetting("allowFloatingEdgeCreation") ? BBoxHelper.insideBBox({ x: event.clientX, y: event.clientY }, floatingEdgeDropZone, true) : false;
@@ -7328,16 +7278,16 @@ var EdgeExposerExtension = class extends CanvasExtension {
         for (const exposedDataKey of getExposedEdgeData(this.plugin.settings)) {
           const datasetPairs = edgeData[exposedDataKey] && typeof edgeData[exposedDataKey] === "object" ? Object.entries(edgeData[exposedDataKey]) : [[exposedDataKey, edgeData[exposedDataKey]]];
           for (const [key, value] of datasetPairs) {
-            const stringifiedKey = key == null ? void 0 : key.toString();
+            const stringifiedKey = JSON.stringify(key);
             if (!stringifiedKey) continue;
             if (!value) {
               delete edge.path.display.dataset[stringifiedKey];
               if ((_a = edge.fromLineEnd) == null ? void 0 : _a.el) delete edge.fromLineEnd.el.dataset[stringifiedKey];
               if ((_b = edge.toLineEnd) == null ? void 0 : _b.el) delete edge.toLineEnd.el.dataset[stringifiedKey];
             } else {
-              edge.path.display.dataset[stringifiedKey] = value.toString();
-              if ((_c = edge.fromLineEnd) == null ? void 0 : _c.el) edge.fromLineEnd.el.dataset[stringifiedKey] = value.toString();
-              if ((_d = edge.toLineEnd) == null ? void 0 : _d.el) edge.toLineEnd.el.dataset[stringifiedKey] = value.toString();
+              edge.path.display.dataset[stringifiedKey] = JSON.stringify(value);
+              if ((_c = edge.fromLineEnd) == null ? void 0 : _c.el) edge.fromLineEnd.el.dataset[stringifiedKey] = JSON.stringify(value);
+              if ((_d = edge.toLineEnd) == null ? void 0 : _d.el) edge.toLineEnd.el.dataset[stringifiedKey] = JSON.stringify(value);
             }
           }
         }
@@ -7378,7 +7328,7 @@ var CanvasWrapperExposerExtension = class extends CanvasExtension {
   updateExposedSettings(canvas) {
     if (!canvas) return;
     for (const setting of EXPOSED_SETTINGS) {
-      canvas.wrapperEl.dataset[setting] = this.plugin.settings.getSetting(setting).toString();
+      canvas.wrapperEl.dataset[setting] = JSON.stringify(this.plugin.settings.getSetting(setting));
     }
   }
 };
@@ -7389,14 +7339,14 @@ var BasesTableViewPatcher = class extends Patcher {
     if (!this.plugin.settings.getSetting("canvasMetadataCompatibilityEnabled")) return;
     const bases = this.plugin.app.internalPlugins.getEnabledPluginById("bases");
     if (!bases) return;
-    this.patchViewFactory(bases);
+    void this.patchViewFactory(bases);
   }
   async patchViewFactory(bases) {
     const that = this;
     await Patcher.patchOnce(this.plugin, bases.registrations.table, (resolve) => ({
       factory: Patcher.OverrideExisting((next) => function(...args) {
         const view = next.call(this, ...args);
-        that.patchTableView(view);
+        void that.patchTableView(view);
         resolve(view);
         return view;
       })
@@ -7409,7 +7359,7 @@ var BasesTableViewPatcher = class extends Patcher {
         const result = next.call(this, ...args);
         if (this.rows.length > 0) {
           const row = this.rows.first();
-          that.patchTableRow(row);
+          void that.patchTableRow(row);
           resolve(row);
         }
         return result;
@@ -7423,7 +7373,7 @@ var BasesTableViewPatcher = class extends Patcher {
         let result = next.call(this, ...args);
         if (this.cells.length > 0) {
           const cell = this.cells.first();
-          that.patchTableCell(cell);
+          void that.patchTableCell(cell);
           resolve(cell);
           result = next.call(this, ...args);
         }

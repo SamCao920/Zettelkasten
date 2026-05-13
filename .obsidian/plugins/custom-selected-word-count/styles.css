@@ -57,11 +57,11 @@ body {
 
 /* Make modals and plugin UI more mobile-friendly */
 @media (max-width: 600px) {
-  .modal, .word-count-label, .word-count-count, .word-count-buttons, .word-count-history, .word-count-advanced-section {
-    width: 95vw !important;
-    max-width: 95vw !important;
-    min-width: 0 !important;
-    padding: 1em !important;
+  .modal:has(.word-count-modal), .word-count-label, .word-count-count, .word-count-buttons, .word-count-history, .word-count-advanced-section {
+    width: 95vw;
+    max-width: 95vw;
+    min-width: 0;
+    padding: 1em;
     font-size: 1.05em;
   }
   .word-count-buttons button, .word-count-advanced-section button {
@@ -99,22 +99,6 @@ body {
 }
 
 
-
-/* Original Modal Header Styles (restored) */
-.word-count-modal .modal-header {
-    padding: 20px 24px 16px;
-    border-bottom: 1px solid var(--background-modifier-border);
-}
-
-.word-count-modal .modal-title {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    margin: 0;
-    font-size: 16px;
-    font-weight: 600;
-    color: var(--text-normal);
-}
 
 .word-count-modal .modal-title .lucide {
     height: 18px;
@@ -170,7 +154,7 @@ body {
     transform: translateY(-2px);
 }
 
-/* Enhanced Modal Header - Unified Styles */
+/* Modal Header */
 .word-count-modal .modal-header {
     display: flex;
     align-items: center;
@@ -189,6 +173,9 @@ body {
 }
 
 .word-count-modal .modal-title {
+    display: flex;
+    align-items: center;
+    gap: 8px;
     margin: 0;
     font-size: 18px;
     font-weight: 600;
@@ -505,11 +492,6 @@ body {
     background-color: var(--background-primary);
 }
 
-/* Hide Core Word Count (when enabled) - temporarily disabled
-.status-bar-item.plugin-word-count.hide-core-count {
-    display: none;
-} */
-
 /* Settings UI Styles */
 details.word-count-override-info {
     margin-bottom: 1em;
@@ -647,14 +629,6 @@ details.word-count-override-info {
     padding-left: 20px;
 }
 
-/* Core Word Count Hide Style */
-#selected-word-counter-core-hide {
-    display: none;
-}
-
-#selected-word-counter-core-hide.active {
-    display: block;
-}
 
 /* Settings Styles for Custom Selected Word Count Plugin */
 .word-count-settings {
@@ -679,17 +653,24 @@ details.word-count-override-info {
     /* Grouped settings containers */
     .word-count-settings-group {
         margin-bottom: 1em;
-        
+
         /* Settings that follow a heading should have reduced top padding */
         &:has(.setting-item-heading) + .setting-item {
             padding-top: 8px;
+        }
+
+        /* Visually indicate when dependent settings are inactive, but keep them interactive */
+        &:has(.setting-item:first-child .checkbox-container input:not(:checked)) {
+            .word-count-container-indented {
+                opacity: 0.6;
+                /* Removed pointer-events: none to keep settings interactive */
+            }
         }
     }
 
     /* Indented/nested settings */
     .word-count-container-indented {
         padding-left: 20px;
-        }
 
         /* Further nested indentation */
         .word-count-container-indented {
@@ -855,22 +836,11 @@ details.word-count-override-info {
 
     /* Visibility utility classes */
     .word-count-hidden {
-        display: none !important;
+        display: none;
     }
 
     .word-count-visible {
         display: block;
-    }
-
-    /* Settings that depend on other settings - visual indication only */
-    .word-count-settings-group {
-        /* Visually indicate when dependent settings are inactive, but keep them interactive */
-        &:has(.setting-item:first-child .checkbox-container input:not(:checked)) {
-            .word-count-container-indented {
-                opacity: 0.6;
-                /* Removed pointer-events: none to keep settings interactive */
-            }
-        }
     }
 
     /* Status bar related settings grouping */
@@ -898,4 +868,32 @@ details.word-count-override-info {
 /* Global overrides for better integration - scoped to our plugin */
 .word-count-settings .setting-item-heading .setting-item-control {
     display: none; /* Hide any controls on heading items */
+}
+
+/* Hide Obsidian's built-in Word Count core plugin's status-bar item.
+ * Targets `.plugin-word-count` (the class Obsidian gives that core
+ * plugin's status-bar item). Our own item carries
+ * `.plugin-custom-selected-word-count` (auto-added by Obsidian from
+ * our manifest id) and does not have `.plugin-word-count`, so this
+ * rule does not affect it. Activated by toggling the
+ * `word-count-hide-core` class on document.body in
+ * addCoreWordCountStyle. */
+body.word-count-hide-core .status-bar-item.plugin-word-count {
+    display: none;
+}
+
+/* Button row for the in-plugin confirmation dialog (ConfirmModal). */
+.word-count-confirm-buttons {
+    display: flex;
+    gap: 8px;
+    justify-content: flex-end;
+    margin-top: 12px;
+}
+
+/* Briefly applied to copy buttons after a successful clipboard copy
+ * (1s flash). Replaces the old inline element.style.background and
+ * element.style.color toggles flagged by obsidianmd/no-static-styles-assignment. */
+.word-count-copy-confirmed {
+    background: var(--interactive-accent);
+    color: var(--text-on-accent);
 }
