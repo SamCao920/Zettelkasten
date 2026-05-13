@@ -4,7 +4,7 @@ author:
   - Fangyuan Cao
 aliases:
 created: 2026-05-13T12:08:34-07:00
-updated: 2026-05-13T12:23:20-07:00
+updated: 2026-05-13T12:27:20-07:00
 tags:
   - economics
   - economics/labor
@@ -19,5 +19,5 @@ nocite:
 - Tips ensure that the price of the food stays around the same, while compensating the good servers and punishing the bad ones.
 - The tips should be after the service, not before.
 - There are some things that we should not tip for.
-- 
+- The *culture* of tipping
 ## Bibliography

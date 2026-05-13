@@ -1,7 +1,13 @@
 ---
 created: 2025-12-28T09:52:12-08:00
-updated: 2026-05-13T12:13:25-07:00
+updated: 2026-05-13T12:29:21-07:00
 ---
+## Inspo
+
+> [!QUOTE] Astral Codex Ten
+> Contents
+
+## Ideas
 - Boao Hope City: China’s Libertarian city
 	- How it works, why it came into existence, how it is doing, and its future?
 - Complaints in the airport noise.
