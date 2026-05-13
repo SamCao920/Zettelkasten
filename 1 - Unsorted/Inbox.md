@@ -1,6 +1,6 @@
 ---
 created: 2025-09-15T13:54:06-07:00
-updated: 2026-05-13T14:06:41-07:00
+updated: 2026-05-13T14:19:01-07:00
 ---
 > [!QUOTE] Thoreau
 > It is not enough to be busy; so too are the ants. The question is: **what are we busy about?**
@@ -15,7 +15,7 @@ updated: 2026-05-13T14:06:41-07:00
 	- Lawsuits are adding to insurance premiums.
 - Would want to directly increase oil production, not through legislation.
 - Finish California rail.
-- 
+- Enforce the law when it comes to homelessness.
 **Steyer**
 - Shortening permitting times
 - Zoning denser housing.
@@ -23,6 +23,8 @@ updated: 2026-05-13T14:06:41-07:00
 - Close the corporate tax loophole? To make housing more available?
 - Not increase oil.
 - Finish California rail.
+- Would sign the billionaire tax bill.
+- Rental assistance, emergency housing assistance.
 **Bianco**
 - Build more homes.
 - Allow builders to build. Remove regulations.
@@ -30,12 +32,13 @@ updated: 2026-05-13T14:06:41-07:00
 - Increase oil production.
 - Finish California rail.
 - Reduce regulation.
+- Homelessness is more of a problem of addiction.
 **Beccera**
 - Down payment assistance programs expanded.
 - Freeze of insurance rates.
 - Increaese oil.
 - Finish California rail…?
-- Keep Hollywood
+- Keep Hollywood?
 **Porter**
 - Build more housing. Build less expensively. Build faster.
 - Innovation.
@@ -44,6 +47,7 @@ updated: 2026-05-13T14:06:41-07:00
 - Invest in reducing wildfire risk and better green energy.
 - Would veto the bill to increase oil production.
 - Finish California rail.
+- Tuition free UC-CSU.
 **Mahan**
 - Was able to build housing in Sacramento.
 - Bring the insurers back. We need them to compete.
@@ -59,3 +63,4 @@ updated: 2026-05-13T14:06:41-07:00
 - He would sign the bill to increase oil production.
 - Finish California rail.
 - Reduce regulation. 
+- Supports temporary housing, rental assistance, etc.
