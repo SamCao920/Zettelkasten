@@ -1,16 +1,18 @@
 ---
 created: 2025-09-15T13:54:06-07:00
-updated: 2026-05-13T14:19:01-07:00
+updated: 2026-05-13T14:35:03-07:00
 ---
 > [!QUOTE] Thoreau
 > It is not enough to be busy; so too are the ants. The question is: **what are we busy about?**
 ## To Create
 
 ## CA debate
+Dems are in favor of Medi-Cal for illegal immigrants, and Reps are not.
+All are in favor of incentivizing the film industry and nuclear energy.
 **Hilton**
 - End the ideology of starter homes and single family homes.
 	- Build higher density housing?
-- Enforce prop 103. 
+- Enforce prop 103.
 	- Make sure that rate changes are evaluated every 60 days.
 	- Lawsuits are adding to insurance premiums.
 - Would want to directly increase oil production, not through legislation.
@@ -25,6 +27,7 @@ updated: 2026-05-13T14:19:01-07:00
 - Finish California rail.
 - Would sign the billionaire tax bill.
 - Rental assistance, emergency housing assistance.
+- Abolish ICE.
 **Bianco**
 - Build more homes.
 - Allow builders to build. Remove regulations.
@@ -33,6 +36,7 @@ updated: 2026-05-13T14:19:01-07:00
 - Finish California rail.
 - Reduce regulation.
 - Homelessness is more of a problem of addiction.
+- Elimination of sanctuary law.
 **Beccera**
 - Down payment assistance programs expanded.
 - Freeze of insurance rates.
