@@ -1,6 +1,6 @@
 ---
 created: 2025-12-28T09:52:12-08:00
-updated: 2026-05-12T10:48:41-07:00
+updated: 2026-05-13T12:13:25-07:00
 ---
 - Boao Hope City: China’s Libertarian city
 	- How it works, why it came into existence, how it is doing, and its future?
@@ -21,10 +21,6 @@ updated: 2026-05-12T10:48:41-07:00
 	- They could use the time instead to read books that actually interest them.
 - The incoherence of "rights"
 	- Rights are often contradictory and meaningless.
-- A defense of tips.
-	- I saw an X post about how a restaurant posted a sign about how tips are required, and people raging against that, saying that they don’t pay their employees enough.
-	- If tips did not exist, then the prices in the restaurant would rise.
-	- Tips ensure that the price of the food stays around the same, while compensating the good servers and punishing the bad ones.
 - The US's development is going to be held back/is being held back by people's reluctance of engaging with new technology. 
 	- In the past the West has been at the forefront of innovation, and people accepted such change.
 	- Perhaps a reason people think that such change is bad now is that they increase inequality
