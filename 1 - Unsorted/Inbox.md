@@ -1,12 +1,12 @@
 ---
 created: 2025-09-15T13:54:06-07:00
-updated: 2026-05-13T14:52:43-07:00
+updated: 2026-05-13T16:44:42-07:00
 ---
 > [!QUOTE] Thoreau
 > It is not enough to be busy; so too are the ants. The question is: **what are we busy about?**
 ## To Create
 
-## CA debate
+## CA Debate
 Dems are in favor of Medi-Cal for illegal immigrants, and Reps are not.
 All are in favor of incentivizing the film industry and nuclear energy.
 **Hilton**

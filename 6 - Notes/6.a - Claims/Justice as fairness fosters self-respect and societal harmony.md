@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-05-05T23:10:09-07:00
-updated: 2026-05-05T23:14:23-07:00
+updated: 2026-05-13T16:48:05-07:00
 tags:
   - philosophy
   - philosophy/justice
@@ -15,3 +15,5 @@ This is a part of Rawls’ argument for justice as fairness.
 ## References
 - [[Justice as fairness does not apply to individual dealings with specific people, only to institutions]]
 	- This explains why we deal with institutions, and thus its institutions which support our plans.
+- [[Self-respect is the most important primary good]]
+	- This is why it matters that Justice as Fairness promotes self-respect.

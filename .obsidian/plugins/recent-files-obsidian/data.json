@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "A Theory of Justice",
+      "path": "2 - Source Material/2.a - Books & Articles/A Theory of Justice.md"
+    },
+    {
+      "basename": "Self-respect is the most important primary good",
+      "path": "1 - Unsorted/Self-respect is the most important primary good.md"
+    },
+    {
+      "basename": "Justice as fairness fosters self-respect and societal harmony",
+      "path": "6 - Notes/6.a - Claims/Justice as fairness fosters self-respect and societal harmony.md"
+    },
+    {
       "basename": "inbox",
       "path": "1 - Unsorted/inbox.md"
+    },
+    {
+      "basename": "glossary",
+      "path": "definitions/glossary.md"
     },
     {
       "basename": "writing ideas",
@@ -29,20 +45,12 @@
       "path": "4 - Maps of Content/zettelkasten styleguide.md"
     },
     {
-      "basename": "glossary",
-      "path": "definitions/glossary.md"
-    },
-    {
       "basename": "Institutional investors ensure that individual firm are correctly priced",
       "path": "6 - Notes/6.a - Claims/Institutional investors ensure that individual firm are correctly priced.md"
     },
     {
       "basename": "Justice as Fairness",
       "path": "6 - Notes/6.b - Canvases/Justice as Fairness.canvas"
-    },
-    {
-      "basename": "A Theory of Justice",
-      "path": "2 - Source Material/2.a - Books & Articles/A Theory of Justice.md"
     },
     {
       "basename": "Determinism and Moral Responsibility Essay Outline",
@@ -83,10 +91,6 @@
     {
       "basename": "Classical utilitarianism is only possible in a world where people are perfectly altruistic",
       "path": "6 - Notes/6.a - Claims/Classical utilitarianism is only possible in a world where people are perfectly altruistic.md"
-    },
-    {
-      "basename": "Justice as fairness fosters self-respect and societal harmony",
-      "path": "6 - Notes/6.a - Claims/Justice as fairness fosters self-respect and societal harmony.md"
     },
     {
       "basename": "Average utilitarianism is more justifiable for rational agents than classical utilitarianism",
@@ -195,10 +199,6 @@
     {
       "basename": "The groups best able to solve collective action problems are best able to dominate in Congress",
       "path": "6 - Notes/6.a - Claims/The groups best able to solve collective action problems are best able to dominate in Congress.md"
-    },
-    {
-      "basename": "Fair equality of opportunity is lexically before the difference principle",
-      "path": "6 - Notes/6.a - Claims/Fair equality of opportunity is lexically before the difference principle.md"
     }
   ],
   "omittedPaths": [],
