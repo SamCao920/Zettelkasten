@@ -1,6 +1,6 @@
 ---
 created: 2025-12-28T09:52:12-08:00
-updated: 2026-05-13T12:29:21-07:00
+updated: 2026-05-14T08:32:43-07:00
 ---
 ## Inspo
 
@@ -41,4 +41,5 @@ updated: 2026-05-13T12:29:21-07:00
 - In defense of X
 	- I like the community notes system.
 - In defense of prediction markets
+- In defense of ai art
 - 
