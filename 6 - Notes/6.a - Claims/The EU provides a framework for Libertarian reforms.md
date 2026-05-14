@@ -21,7 +21,7 @@ Currently, the framework is being used to push a left-wing agenda, even though i
 ## References
 - [[Free trade is generally beneficial for those involved]]
 	- This is the principle underlying the free trade agreements of countries in the EU.
-- [[Private property is a prerequisite for a allocatively efficient economy]]
+- [[Private property is a prerequisite for an allocatively efficient economy]]
 	- This is the principle underlying protections for individual rights.
 - [[Deregulation is generally beneficial for the economy]]
 	- This is the principle underlying the laws that enable deregulation.
