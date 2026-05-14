@@ -1,6 +1,6 @@
 ---
 created: 2026-04-30T21:19:22-07:00
-updated: 2026-05-12T10:32:43-07:00
+updated: 2026-05-14T09:58:09-07:00
 def-type: consolidated
 ---
 # Secondary Balancer
@@ -869,6 +869,6 @@ That the validity of a principle is not contingent upon some particular desire o
 
 ---
 
-# economic calculation
+# Economic Calculation
 
 Capitalist economies, via price, offer subjective information about the relative value of different things and different uses of things. This allows for such an economy to efficiently allocate resources. Socialist economies, lacking a price system, fail to achieve this.
