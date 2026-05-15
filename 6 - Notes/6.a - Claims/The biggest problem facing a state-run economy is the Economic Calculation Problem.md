@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2025-12-25T18:00:14-08:00
-updated: 2026-05-14T09:55:08-07:00
+updated: 2026-05-15T09:36:35-07:00
 tags:
   - economics
   - politics/socialism
@@ -14,9 +14,10 @@ While many point to the problem of incentives as the biggest problem facing syst
 This explains the greatest problem that faces a state-run economy, important for when analyzing such economies.
 ## Explanation
 The common explanation for why socialist economies don’t work is that they have an incentive problem, that without proper compensation, people lack the incentives to do stuff like in a capitalist economy. While this is certainly part of the problem, the bigger problem is that of economic calculation.
+Without freedom to allocate capital freely as individuals, capital will not be allocated to their most productive uses, meaning that the system will not be efficient.
+## Capital Markets
+A solution that is sometimes proposed is to introduce a market mechanism for consumer goods such that people are able to bid on those goods, but nationalize the means of production. This does not fundamentally solve the economic calculation problem, however, since here is no way to determine the allocatively efficient use of capital when capital is centralized. Without prices, the marginal value of heterogeneous capital cannot be found, and thus, economic calculation cannot be performed.
 ## References
-- [[The Communist Manifesto and Other Revolutionary Writings]]
-	- This is a problem that faces those who support a state-run economy.
 - [[Private property is a prerequisite for an allocatively efficient economy]]
 	- This is the fundamental claim behind the Economics Calculation problem.
 - [[Socialism has a Knowledge Problem]]

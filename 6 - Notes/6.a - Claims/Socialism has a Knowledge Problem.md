@@ -15,5 +15,5 @@ This both differs from the economic calculation problem that is presented by Mis
 ## Explanation
 Fundamentally, the way this argument differs from the economic calculation problem is that this only states that there is an epistemic problem. There is an unknowableness of the necessary information in order to run command economies in command economies. It does not state that such information does not exist in command economies.
 ## References
-- [[The biggest problem facing a state-run economy is the Economic Calculation Problem]]
+- [[The biggest problem facing a state-run economy is the economic calculation Problem]]
 	- This presents the economic calculation problem.

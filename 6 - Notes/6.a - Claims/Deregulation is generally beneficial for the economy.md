@@ -29,5 +29,5 @@ This is especially true when the following three criteria are met:
 	- This is a reason why regulation would be bad.
 - [[France’s strict regulation, high worker benefits, and high pensions are crippling the economy]]
 	- An example of regulation being bad.
-- [[The biggest problem facing a state-run economy is the Economic Calculation Problem]]
+- [[The biggest problem facing a state-run economy is the economic calculation Problem]]
 	- A set of problems with a highly regulated economy.
