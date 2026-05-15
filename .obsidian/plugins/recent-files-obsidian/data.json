@@ -1,32 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "The right is not the same as the good",
-      "path": "1 - Unsorted/The right is not the same as the good.md"
+      "basename": "inbox",
+      "path": "1 - Unsorted/inbox.md"
+    },
+    {
+      "basename": "In Defense of Tip Culture",
+      "path": "3 - Writings/In Defense of Tip Culture.md"
+    },
+    {
+      "basename": "Aristotle on Pleasure",
+      "path": "6 - Notes/6.b - Canvases/Aristotle on Pleasure.canvas"
     },
     {
       "basename": "A Theory of Justice",
       "path": "2 - Source Material/2.a - Books & Articles/A Theory of Justice.md"
     },
     {
+      "basename": "The right is not the same as the good",
+      "path": "6 - Notes/6.a - Claims/The right is not the same as the good.md"
+    },
+    {
       "basename": "Excellencies are positive externalities",
-      "path": "1 - Unsorted/Excellencies are positive externalities.md"
+      "path": "6 - Notes/6.a - Claims/Excellencies are positive externalities.md"
     },
     {
       "basename": "Shame can be natural or moral",
-      "path": "1 - Unsorted/Shame can be natural or moral.md"
-    },
-    {
-      "basename": "inbox",
-      "path": "1 - Unsorted/inbox.md"
+      "path": "6 - Notes/6.a - Claims/Shame can be natural or moral.md"
     },
     {
       "basename": "The biggest problem facing a state-run economy is the economic calculation Problem",
       "path": "6 - Notes/6.a - Claims/The biggest problem facing a state-run economy is the economic calculation Problem.md"
-    },
-    {
-      "basename": "In Defense of Tip Culture",
-      "path": "3 - Writings/In Defense of Tip Culture.md"
     },
     {
       "basename": "The Rashidun conquest was made possible by geography and unique political economy",
@@ -195,10 +199,6 @@
     {
       "basename": "I and the Village",
       "path": "2 - Source Material/2.b - Art/I and the Village.md"
-    },
-    {
-      "basename": "Sarah Siddons as the Tragic Muse",
-      "path": "2 - Source Material/2.b - Art/Sarah Siddons as the Tragic Muse.md"
     }
   ],
   "omittedPaths": [],
