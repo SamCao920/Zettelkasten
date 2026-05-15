@@ -3,7 +3,7 @@ aliases:
 author:
   - John Rawls
 created: 2026-03-30T10:58:56-07:00
-updated: 2026-05-13T16:50:12-07:00
+updated: 2026-05-15T10:23:11-07:00
 tags:
   - philosophy
   - philosophy/political
@@ -67,5 +67,7 @@ This is crucial for understanding the view of justice that is developed/referenc
 - [[Moral principles originate from rational choice]]
 - [[The Thin Theory of the Good serves as a standard frameworks for agents to consider in the original position]]
 - [[Self-respect is the most important primary good]]
-- [[Excellencies are ‘public goods’]]
+- [[Excellencies are positive externalities]]
+- [[Shame can be natural or moral]]
+- [[The right is not the same as the good]]
 ## References
