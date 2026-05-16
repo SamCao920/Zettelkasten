@@ -4,7 +4,7 @@ author:
   - Fangyuan Cao
 aliases:
 created: 2026-05-13T12:08:34-07:00
-updated: 2026-05-16T16:25:55-07:00
+updated: 2026-05-16T16:46:35-07:00
 tags:
   - economics
   - economics/labor
@@ -29,5 +29,8 @@ In the comments, were a combination of (1) furious incredulousness at the gall o
 At first sight, this seems, at least, understandable. The customers’ already had to pay for their food, which ought to have included the cost of the service of the food, right? Its not like when you go get a yearly checkup, that you have to pay the clerk at the front desk separately from the nurse, and the nurse separately from the doctor, right? 
 Perhaps, but this essay will try to offer some evidence to the contrary—that the hated tip culture that Europeans always harp about when they come to the US is, in fact, *beneficial* for the customer.
 
-The First Theorem of Welfare Economics states fundamentally that social welfare is maximized by competition. On the market level, competition is already fierce; in fact restaurants have some of the lowest margins of any small business. To ensure high levels of competition in the system is trivial on this level, even without extensive government intervention. When we look inside the firm, however, how to incentive each individual to put the most effort and quality into their service is a more pressing problem. Federal and state minimum wage laws, worker protection laws, and union protection in many states make it difficult for the restaurant to be reward workers based on their actual productivity. But even if they could, a fundamental issue remains: how could worker productivity be accurately b
+The First Theorem of Welfare Economics states fundamentally that social welfare is maximized by competition. On the market level, competition is already fierce; in fact restaurants have some of the lowest margins of any small business. To ensure high levels of competition in the system is trivial on this level, even without extensive government intervention. When we look inside the firm, however, how to incentive each individual to put the most effort and quality into their service is a more pressing problem. Federal and state minimum wage laws, worker protection laws, and union protection in many states make it difficult for the restaurant to be reward workers based on their actual productivity. But even if they could, a fundamental issue remains: how could worker productivity be accurately measured? 
+For a job that pays something like $17.5 dollars an hour, being a server takes a remarkable level of social astuteness, like being able to discern when the customer is having a bad day, or when they just want something to stuff down their gullet before rushing to work.
+It’s extremely difficult for the restaurant owner to measure the productivity of individual workers, since doing so would requirement being able to isolate the effects of singular workers, something clearly impractical. 
+However, there is something else we can do—give customers the initiative. 
 ## Bibliography
