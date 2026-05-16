@@ -4,7 +4,7 @@ author:
   - Fangyuan Cao
 aliases:
 created: 2026-05-13T12:08:34-07:00
-updated: 2026-05-16T15:54:39-07:00
+updated: 2026-05-16T16:16:23-07:00
 tags:
   - economics
   - economics/labor
@@ -29,5 +29,5 @@ In the comments, were a combination of (1) furious incredulousness at the gall o
 At first sight, this seems, at least, understandable. The customers’ already had to pay for their food, which ought to have included the cost of the service of the food, right? Its not like when you go get a yearly checkup, that you have to pay the clerk at the front desk separately from the nurse, and the nurse separately from the doctor, right? 
 Perhaps, but this essay will try to offer some evidence to the contrary—that the hated tip culture that Europeans always harp about when they come to the US is, in fact, *beneficial* for the customer.
 
-In Nocompistan, all hospitals have been nationalized by the state. When a patient enters the local hospital, th
+The First Theorem of Welfare Economics 
 ## Bibliography
