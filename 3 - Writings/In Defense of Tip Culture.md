@@ -4,7 +4,7 @@ author:
   - Fangyuan Cao
 aliases:
 created: 2026-05-13T12:08:34-07:00
-updated: 2026-05-14T09:30:58-07:00
+updated: 2026-05-16T14:50:35-07:00
 tags:
   - economics
   - economics/labor
@@ -20,4 +20,7 @@ nocite:
 - What’s more, there are many restaurants that practice tip pooling, so this ensures faster service as well.
 - The tips should be after the service, not before.
 - There are some things that we should not tip for.
+
+A few days ago, I saw this post.
+![[twitter.com/trumplicans2024/status/2054955249652421083]]
 ## Bibliography
