@@ -4,7 +4,7 @@ author:
   - Fangyuan Cao
 aliases:
 created: 2026-05-13T12:08:34-07:00
-updated: 2026-05-16T16:46:35-07:00
+updated: 2026-05-16T19:12:40-07:00
 tags:
   - economics
   - economics/labor
@@ -32,5 +32,13 @@ Perhaps, but this essay will try to offer some evidence to the contrary—that t
 The First Theorem of Welfare Economics states fundamentally that social welfare is maximized by competition. On the market level, competition is already fierce; in fact restaurants have some of the lowest margins of any small business. To ensure high levels of competition in the system is trivial on this level, even without extensive government intervention. When we look inside the firm, however, how to incentive each individual to put the most effort and quality into their service is a more pressing problem. Federal and state minimum wage laws, worker protection laws, and union protection in many states make it difficult for the restaurant to be reward workers based on their actual productivity. But even if they could, a fundamental issue remains: how could worker productivity be accurately measured? 
 For a job that pays something like $17.5 dollars an hour, being a server takes a remarkable level of social astuteness, like being able to discern when the customer is having a bad day, or when they just want something to stuff down their gullet before rushing to work.
 It’s extremely difficult for the restaurant owner to measure the productivity of individual workers, since doing so would requirement being able to isolate the effects of singular workers, something clearly impractical. 
-However, there is something else we can do—give customers the initiative. If customers could affect how much their server gets paid, servers would naturally be incentized to offer better service
+However, there is something else we can do—give customers the initiative. If customers could affect how much their server gets paid, servers would naturally be incentivized to offer better service. 
+Of course, regulations would ensure that there is a floor to the amount paid to the workers, but above that, workers are compensated to the degree that they satisfy customers. 
+Wait… we’ve just reinvented tipping!
+
+There is a plethora of empirical evidence to support this too. 
+- [Just a moment...](https://www.researchgate.net/publication/321989281_The_Effects_of_Tipping_on_Consumers'_Satisfaction_with_Restaurants)
+
+But the effects of tipping go beyond merely encouraging servers to improve the customer experience. Many restaurants also practice tip 
+
 ## Bibliography
