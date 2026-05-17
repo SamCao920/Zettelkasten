@@ -1,6 +1,6 @@
 ---
 created: 2025-12-28T09:52:12-08:00
-updated: 2026-05-14T08:32:43-07:00
+updated: 2026-05-16T21:22:50-07:00
 ---
 ## Inspo
 
@@ -42,4 +42,5 @@ updated: 2026-05-14T08:32:43-07:00
 	- I like the community notes system.
 - In defense of prediction markets
 - In defense of ai art
-- 
+- Music is the best form of art, since there are the most amount of surprises in music.
+- Optimal restaurant trying strategy.
