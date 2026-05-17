@@ -4,7 +4,7 @@ author:
   - Fangyuan Cao
 aliases:
 created: 2026-05-13T12:08:34-07:00
-updated: 2026-05-16T21:27:52-07:00
+updated: 2026-05-16T21:38:01-07:00
 tags:
   - economics
   - economics/labor
@@ -41,6 +41,6 @@ There is a plethora of empirical evidence to support this claim.
 
 But the effects of tipping go beyond merely encouraging servers to improve the customer experience. Many restaurants also practice tip pooling, whereby 
 ## A Model for Consumer Behavior
-Of course, the situation must also be analyzed from the perspective of the customer too. Specifically, we must account for the willingness of the customer to tip. After all, considering the scenario in game-theoretic terms, the perfectly rational consumer has no reason to tip. This arises both in the fact that (1) there are other restaurants to visit, and (2) it is unlikely to meet the same server, who would presumably “seek retribution” for the lack of a tip. With the knowledge that 
+Of course, the situation must also be analyzed from the perspective of the customer too. Specifically, we must account for the willingness of the customer to tip. After all, considering the scenario in game-theoretic terms, the perfectly rational consumer has no reason to tip. This arises both in the fact that (1) there are other restaurants to visit, and (2) it is unlikely to meet the same server, who would presumably “seek retribution” for the lack of a tip. Even assuming that the resturant is a local monpoly (which is a highly unrealistic assumption), this is a paradimic case of the free-rider problem. The customers who do not tip are benefiting form the fact that the customers who do tip keep all of the good servers working at a restaurant. Theoretically, if allowed to continue forever, good servers (who would presumably have realtively high human capital and be able to perform other, albeit higher paying jobs) would decrease in number as the number of tippers decrease.
 
 ## Bibliography
