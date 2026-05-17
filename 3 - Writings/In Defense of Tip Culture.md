@@ -4,7 +4,7 @@ author:
   - Fangyuan Cao
 aliases:
 created: 2026-05-13T12:08:34-07:00
-updated: 2026-05-16T19:12:40-07:00
+updated: 2026-05-16T19:15:55-07:00
 tags:
   - economics
   - economics/labor
@@ -39,6 +39,6 @@ Wait… we’ve just reinvented tipping!
 There is a plethora of empirical evidence to support this too. 
 - [Just a moment...](https://www.researchgate.net/publication/321989281_The_Effects_of_Tipping_on_Consumers'_Satisfaction_with_Restaurants)
 
-But the effects of tipping go beyond merely encouraging servers to improve the customer experience. Many restaurants also practice tip 
+But the effects of tipping go beyond merely encouraging servers to improve the customer experience. Many restaurants also practice tip pooling, whereby 
 
 ## Bibliography
