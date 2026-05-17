@@ -4,7 +4,7 @@ author:
   - Fangyuan Cao
 aliases:
 created: 2026-05-13T12:08:34-07:00
-updated: 2026-05-17T11:09:19-07:00
+updated: 2026-05-17T11:23:36-07:00
 tags:
   - economics
   - economics/labor
@@ -43,10 +43,10 @@ But the effects of tipping go beyond merely encouraging servers to improve the c
 
 Of course, the situation must also be analyzed from the perspective of the customer too. Specifically, we must account for the willingness of the customer to tip. After all, considering the scenario in game-theoretic terms, since visiting a resturant is a single game, the perfectly rational consumer has no reason to tip. This arises both in the fact that (1) there are other restaurants to visit, and (2) it is unlikely to meet the same server, who would presumably “seek retribution” for the lack of a tip. 
 
-|            |     | **High-effort Service** | **Low-effort Service** |
-| ---------- | --- | ----------------------- | ---------------------- |
-| **Tip**    |     |                         |                        |
-| **No tip** |     |                         |                        |
+|                  |     | **High-effort Service**                                                                                              | **Low-effort Service**                                                                                                          |
+| ---------------- | --- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Generous Tip** |     | The best outcome, since the high-effort service of the server is rewarded with a tip by the customer.                | /                                                                                                                               |
+| **Low/No tip**   |     | The worst outcome, whereby the high effort service of the server fails to be compensated with a tip by the customer. | An acceptable scenario whereby the low-effort service of the server does not receive additional compensation from the customer. |
 
 Even assuming that the resturant is a local monpoly (which is a highly unrealistic assumption), this is a paradimic case of the free-rider problem. The customers who do not tip are benefiting form the fact that the customers who do tip keep all the good servers working at a restaurant. Such an arrangement is clearly unsustainable.
 There is no easy way to legislate this either. An attempt at legislating some sort of additional compensation (like a tip, but government mandated) simply weakens the incentive mechanism. By imposing some sort of “floor tip” amount, we’ve simply weakened the ability of the customer to respond to service in the restaurant. 
