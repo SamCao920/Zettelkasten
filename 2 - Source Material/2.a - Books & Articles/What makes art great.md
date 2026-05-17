@@ -3,7 +3,7 @@ aliases:
 author:
   - Nabeel S. Qureshi
 created: 2026-05-04T12:37:16-07:00
-updated: 2026-05-04T12:40:59-07:00
+updated: 2026-05-17T10:41:02-07:00
 tags:
   - philosophy/aesthetics
   - art
@@ -22,7 +22,7 @@ It is important to understand what makes great art because it would allow us to 
 	- One can also manipulate the grammar/syntax of a sentence in order to surprise the audience. This could mean phrasing a sentence to sound like a question, but then building upon it in the next sentence, thereby undermining the initial expectations of the reader.
 	- This also applies to art, as elements of the way that the artist creates a painting could be interesting while making sense, since it is unique/subverts our expectations of what could appear in a particular spot in a painting.
 2. There are layers/echoes.
-	- There are specifical sorts of relationships between the elements of an artwork, both between layers and in which layer of an artwork. 
+	- There are specific sorts of relationships between the elements of an artwork, both between layers and in which layer of an artwork. 
 	- There are common threads that tie works together, even when it may not seem obvious. These symbols don’t need to have have any sort of meaning, though they often do, but the purpose of the symbols is just to tie everything together.
 		- In the *Metamorphosis* by Franz Kafka, the number 3 appears many times, in many circumstances.
 		- “Ears” are a common theme throughout *Hamlet*.

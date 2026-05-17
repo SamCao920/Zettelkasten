@@ -4,7 +4,7 @@ author:
   - Fangyuan Cao
 aliases:
 created: 2026-05-13T12:08:34-07:00
-updated: 2026-05-16T21:54:18-07:00
+updated: 2026-05-17T10:53:50-07:00
 tags:
   - economics
   - economics/labor
@@ -41,6 +41,6 @@ There is a plethora of empirical evidence to support this claim.
 
 But the effects of tipping go beyond merely encouraging servers to improve the customer experience. Many restaurants also practice tip pooling, whereby 
 ## A Model for Consumer Behavior
-Of course, the situation must also be analyzed from the perspective of the customer too. Specifically, we must account for the willingness of the customer to tip. After all, considering the scenario in game-theoretic terms, the perfectly rational consumer has no reason to tip. This arises both in the fact that (1) there are other restaurants to visit, and (2) it is unlikely to meet the same server, who would presumably “seek retribution” for the lack of a tip. Even assuming that the resturant is a local monpoly (which is a highly unrealistic assumption), this is a paradimic case of the free-rider problem. The customers who do not tip are benefiting form the fact that the customers who do tip keep all of the good servers working at a restaurant. Theoretically, if allowed to continue forever, good servers (who would presumably have realtively high human capital and be able to perform other, albeit higher paying jobs) would decrease in number as the number of tippers decrease.
-
+Of course, the situation must also be analyzed from the perspective of the customer too. Specifically, we must account for the willingness of the customer to tip. After all, considering the scenario in game-theoretic terms, the perfectly rational consumer has no reason to tip. This arises both in the fact that (1) there are other restaurants to visit, and (2) it is unlikely to meet the same server, who would presumably “seek retribution” for the lack of a tip. Even assuming that the resturant is a local monpoly (which is a highly unrealistic assumption), this is a paradimic case of the free-rider problem. The customers who do not tip are benefiting form the fact that the customers who do tip keep all the good servers working at a restaurant. Such an arrangement is clearly unsustainable.
+There is no easy way to solve this problem. An attempt at legislating some sort of additional compensation (like a tip, but government mandated) simply weakens the incentive mechanism. After all, if tips are floored at a certain amount, the customer is then simply unable to 
 ## Bibliography
