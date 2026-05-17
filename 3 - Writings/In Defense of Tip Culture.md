@@ -4,7 +4,7 @@ author:
   - Fangyuan Cao
 aliases:
 created: 2026-05-13T12:08:34-07:00
-updated: 2026-05-16T21:38:01-07:00
+updated: 2026-05-16T21:54:18-07:00
 tags:
   - economics
   - economics/labor
