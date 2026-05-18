@@ -567,3 +567,9 @@
 2026-05-16 08:18:30  Interval: 5 min | Poll: 10s | Cooldown: 5s
 2026-05-17 21:30:09  Running deduplication (Obsidian opened).
 2026-05-17 21:30:09  Scan complete — no issues found.
+2026-05-17 21:35:09  Running deduplication (periodic check).
+2026-05-17 21:35:09  Scan complete — no issues found.
+2026-05-17 21:40:09  Running deduplication (periodic check).
+2026-05-17 21:40:09  Scan complete — no issues found.
+2026-05-17 21:45:09  Running deduplication (periodic check).
+2026-05-17 21:45:09  Scan complete — no issues found.
