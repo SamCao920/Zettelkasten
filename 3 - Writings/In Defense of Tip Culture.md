@@ -13,8 +13,8 @@ tags:
 citations: ""
 link-citations:
 nocite:
-feature: 1 - Unsorted/Pasted image 20260516153150.png
-thumbnail: thumbnails/resized/0d960a7f46b74f3af6079a41fc713168_86cf658e.webp
+feature: 0 - Assets/0.e - In-text Images/Pasted image 20260516153150.png
+thumbnail: thumbnails/resized/73ae88bd82f08642620d618bcbc022c7_86cf658e.webp
 ---
 - I saw an X post about how a restaurant posted a sign about how tips are required, and people raging against that, saying that they don’t pay their employees enough.
 - If tips did not exist, then the prices in the restaurant would rise.
