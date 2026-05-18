@@ -603,3 +603,5 @@
 2026-05-17 22:55:10  Scan complete — no issues found.
 2026-05-17 23:00:10  Running deduplication (periodic check).
 2026-05-17 23:00:10  Scan complete — no issues found.
+2026-05-17 23:02:30  Running deduplication (Obsidian closed).
+2026-05-17 23:02:30  Scan complete — no issues found.
