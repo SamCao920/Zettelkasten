@@ -4,7 +4,7 @@ author:
   - Fangyuan Cao
 aliases:
 created: 2026-05-13T12:08:34-07:00
-updated: 2026-05-18T12:30:46-07:00
+updated: 2026-05-18T14:05:03-07:00
 tags:
   - economics
   - economics/labor
@@ -53,5 +53,7 @@ There is no easy way to legislate this either. An attempt at legislating some so
 
 Tipping culture presents the best available solution. By introducing slight social pressure into the practice of tipping, we eliminate the possibility of a free-rider problem. 
 
-All this being said, tipping is only effective if done right. 
+All this being said, tipping is only effective if done right; there are many cases where tipping does not achieve its justificatory welfare-maximizing effect. Below, I’ve outlined a few ways this could occur:
+1. Tipping *before* the service is provided,
+2. Tipping for 
 ## Bibliography
