@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "inbox",
+      "path": "1 - Unsorted/inbox.md"
+    },
+    {
+      "basename": "The Sound and the Fury",
+      "path": "2 - Source Material/2.a - Books & Articles/The Sound and the Fury.md"
+    },
+    {
+      "basename": "East of Eden",
+      "path": "2 - Source Material/2.a - Books & Articles/East of Eden.md"
+    },
+    {
       "basename": "The Stranger",
       "path": "2 - Source Material/2.a - Books & Articles/The Stranger.md"
     },
     {
       "basename": "The Absurd man pursues merely aesthetic value",
-      "path": "1 - Unsorted/The Absurd man pursues merely aesthetic value.md"
+      "path": "6 - Notes/6.a - Claims/The Absurd man pursues merely aesthetic value.md"
     },
     {
       "basename": "Absurdity manifests through cleavages which are impossible to overcome",
-      "path": "1 - Unsorted/Absurdity manifests through cleavages which are impossible to overcome.md"
-    },
-    {
-      "basename": "inbox",
-      "path": "1 - Unsorted/inbox.md"
+      "path": "6 - Notes/6.a - Claims/Absurdity manifests through cleavages which are impossible to overcome.md"
     },
     {
       "basename": "Mainstream economics’ need for assumptions in their models justifies government intervention into the economy",
@@ -191,14 +199,6 @@
     {
       "basename": "Death of Salomé",
       "path": "2 - Source Material/2.b - Art/Death of Salomé.md"
-    },
-    {
-      "basename": "Palace Guards Warming Sake with Crimson Leaves",
-      "path": "2 - Source Material/2.b - Art/Palace Guards Warming Sake with Crimson Leaves.md"
-    },
-    {
-      "basename": "The Water Lily Pond",
-      "path": "2 - Source Material/2.b - Art/The Water Lily Pond.md"
     }
   ],
   "omittedPaths": [],

@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-05-18T22:05:24-07:00
-updated: 2026-05-18T22:08:34-07:00
+updated: 2026-05-18T22:11:49-07:00
 tags:
   - philosophy
   - philosophy/Absurdism
@@ -13,6 +13,8 @@ For the Absurd man, since traditional values and meanings are no longer consider
 ## Significance
 This describes the nature of the Absurd man in the face of the lack of moral values and guidance.
 ## Explanation
+For the Absurd man, life is simply a series of impressions. There is no value attached to the meanings constructed above this layer of sensory experience.
+Where a normal person could claim to “love” even when they are not thinking about the object of their “love,” and they would even be willing to suffer physically/mentally for such an abstract concept, the Absurd man finds this absurd.
 > [!QUOTE] An Explication on the Stranger
 > **Since God does not exist and man dies, everything is permissible. One experience is as good as another; the important thing is simply to acquire as many as possible.** “The ideal of the absurd man is the present and the succession of present moments before an ever-conscious spirit” (Sisyphus). Confronted with this “quantitative ethic” all values collapse; thrown into this world, the absurd man, rebellious and irresponsible, has “nothing to justify.” He is innocent, innocent as Somerset Maugham’s savages before the arrival of clergyman who teaches them Good and Evil, what is lawful and what is forbidden. For this man, everything is lawful. He is as innocent as Prince Mishkin, who “lives in an everlasting present, lightly tinged with smiles and indifference.” Innocent in every sense of the word, he, too, is, if you like, an “Idiot.”
 ## References
