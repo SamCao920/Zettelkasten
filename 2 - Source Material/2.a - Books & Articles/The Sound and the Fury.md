@@ -3,7 +3,7 @@ aliases:
 author:
   - William Faulkner
 created: 2026-03-11T20:33:13-07:00
-updated: 2026-05-20T11:35:43-07:00
+updated: 2026-05-20T11:47:58-07:00
 tags:
   - literature/novel
   - literature/Modernism
@@ -33,14 +33,6 @@ One of the great American works.
 - Benjy is unrealiable because he
 	- Has an inventive to portray the people that he likes in a better light that they actually might be
 	- And he is unable to mentally comprehend everything that is going on.
-**Candance Compson**
-- Caring and represents the point of intersection between the Compson world and the outside world.
-- She is the conduit whereby the Compson boys are able to view the world beyond just their home (through the contrast between her innocence and her “spoiling”).
-**Quentin Compson**
-- The fact that he focuses on his shadow is because he wants to focus on the passage of time, since that is something that is important to him.
-- A martyr for the cause of purity.
-	- Not a hero
-## Yale Lectures
 - "Idiot" is a formal developmental term that categorizes someone as being stuck at the mental development of age 2.
 - The sense of smell is important in the book, because while Freud said that as civilization developed, smell has been replaced by sight, Faulkner disagrees.
 	- Through the character of Benji Faulkner portrays the importance of smell in our understanding of the world, even if at a base level.
@@ -51,12 +43,21 @@ One of the great American works.
 - Benji is essentially holding Caddy's development hostage.
 - Caddy losing her virginity is the breaking point for Benji, since that is not something that Caddy can wash away. It is permanent.
 - Benji demands that time stands still. He wants the world the freeze with him. He represents the past.
+**Candance Compson**
+- Caring and represents the point of intersection between the Compson world and the outside world.
+- She is the conduit whereby the Compson boys are able to view the world beyond just their home (through the contrast between her innocence and her “spoiling”).
+**Quentin Compson**
+- The fact that he focuses on his shadow is because he wants to focus on the passage of time, since that is something that is important to him.
+- A martyr for the cause of purity.
+	- Not a hero
+- Quentin kills himself in order to freeze his grief (at the loss of innocence of Caddy) in time.
+	- He breaks his watch.
+
 
 
 - True power lies in the people who are able to see the present, not people who are stuck in the past. 
 
-- Quentin kills himself in order to freeze his grief (at the loss of innocence of Caddy) in time.
-	- He breaks his watch.
+
 - Knowable community:
 	- The people that one can know.
 - Jason loves to complain about the people in his knowable community.

@@ -5,6 +5,10 @@
       "path": "2 - Source Material/2.a - Books & Articles/The Sound and the Fury.md"
     },
     {
+      "basename": "People often obsess over abstractions",
+      "path": "1 - Unsorted/People often obsess over abstractions.md"
+    },
+    {
       "basename": "People value present goods more than future goods",
       "path": "1 - Unsorted/People value present goods more than future goods.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Lucia and the Wave (painting)",
       "path": "2 - Source Material/2.b - Art/Lucia and the Wave (painting).md"
-    },
-    {
-      "basename": "Prometheus Bound (painting)",
-      "path": "2 - Source Material/2.b - Art/Prometheus Bound (painting).md"
     }
   ],
   "omittedPaths": [],
