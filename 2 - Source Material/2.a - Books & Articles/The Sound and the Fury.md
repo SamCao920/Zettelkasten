@@ -3,7 +3,7 @@ aliases:
 author:
   - William Faulkner
 created: 2026-03-11T20:33:13-07:00
-updated: 2026-04-19T17:21:35-07:00
+updated: 2026-05-20T11:35:43-07:00
 tags:
   - literature/novel
   - literature/Modernism
@@ -17,8 +17,9 @@ Tells the story of the Compsons as they descend from prosperity to despair in th
 ## Significance
 One of the great American works.
 ## Themes
-- [[Truth is relative]]
-	- There are conflicting narratives between the various characters in the book, and specifically Benjy’s view of the world is disjointed and the truth that we are able to gleam from it is uniquely constructed based on his associative thinking patterns.
+- [[People often obsess over abstractions]]
+- [[The Old South was reluctant to change after the Civil War]]
+- [[There was a sense of powerlessness in the South after the Civil War]]
 ## Characters
 **Benjamin Compson**
 - Severely mentally disabled, only able to moan, scream, and cry. Unable to speak.
