@@ -3,7 +3,7 @@ aliases:
 author:
   - James Fishkin
 created: 2026-04-20T12:22:01-07:00
-updated: 2026-05-21T11:14:31-07:00
+updated: 2026-05-21T11:15:00-07:00
 tags:
   - philosophy
   - philosophy/justice

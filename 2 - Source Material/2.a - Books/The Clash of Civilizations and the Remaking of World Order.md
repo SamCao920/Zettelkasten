@@ -4,7 +4,7 @@ aliases:
 author:
   - "Samuel P. Huntington\r"
 created: 2026-02-16T21:49:52-08:00
-updated: 2026-03-28T23:31:44-07:00
+updated: 2026-05-21T11:15:25-07:00
 tags:
   - politics
   - politics/international-relations
@@ -12,6 +12,7 @@ tags:
 citations:
   - https://msuweb.montclair.edu/~lebelp/1993SamuelPHuntingtonTheClashOfCivilizationsAndTheRemakingofWorldOrder.pdf
 done: true
+cover: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781451628975/the-clash-of-civilizations-and-the-remaking-of-world-order-9781451628975_hr.jpg
 ---
 ## Summary
 Argued against Fukuyama’s thesis of the “end of history” while presenting a culture-centric view of geopolitics.

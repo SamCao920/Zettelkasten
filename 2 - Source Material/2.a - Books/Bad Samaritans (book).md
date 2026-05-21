@@ -3,14 +3,14 @@ aliases:
 author:
   - Ha-Joon Chang
 created: 2025-09-19T21:50:48-07:00
-updated: 2025-10-27T19:09:34-07:00
+updated: 2026-05-21T11:17:27-07:00
 tags:
   - economics
-  - economics
   - politics
-  - politics
+  - economics/development
 citations: https://archive.org/details/badsamaritansmyt0000chan
 done:
+cover: https://m.media-amazon.com/images/I/71oFX+Pn+sL._UF1000,1000_QL80_.jpg
 ---
 ## Summary
 This book discusses the many downsides to the neoliberal world order that has been established.

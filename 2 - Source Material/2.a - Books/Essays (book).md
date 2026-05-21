@@ -3,11 +3,12 @@ aliases:
 author:
   - Michel de Montaigne
 created: 2025-08-24T20:39:58-07:00
-updated: 2026-03-11T20:36:45-07:00
+updated: 2026-05-21T11:15:47-07:00
 tags:
   - philosophy
 citations: https://dn790007.ca.archive.org/0/items/MontaigneEssayscompleteScreech.num/Montaigne%20-%20%27%27Essays%27%27%20%5Bcomplete%2C%20screech.num%5D.pdf
 done: true
+cover: https://m.media-amazon.com/images/I/71iCNKGTIbL._AC_UF1000,1000_QL80_.jpg
 ---
 ## Summary
 A collecting of essays that explore topics that range from lying to cannibalism. This book invented the modern concept of an “essay,” or, from the original French, “an attempt.”

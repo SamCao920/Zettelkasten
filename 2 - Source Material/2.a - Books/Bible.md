@@ -2,7 +2,7 @@
 aliases:
 author:
 created: 2026-01-31T11:54:45-08:00
-updated: 2026-02-15T14:24:59-08:00
+updated: 2026-05-21T11:16:50-07:00
 tags:
   - religion/Christianity
   - religion/Judaism
@@ -11,6 +11,7 @@ tags:
 citations:
   - https://www.bibleref.com/
 done:
+cover: https://m.media-amazon.com/images/I/71U0MvNYxpL._AC_UF1000,1000_QL80_.jpg
 ---
 ## Summary
 An important religion text that sets the foundation for religions like Christianity, Judaism, and Islam.

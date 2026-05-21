@@ -3,14 +3,14 @@ aliases:
 author:
   - Mary Shelley
 created: 2025-11-13T11:24:29-08:00
-updated: 2026-04-18T21:10:13-07:00
+updated: 2026-05-21T11:20:39-07:00
 tags:
   - literature
   - philosophy
   - art/Romanticism
 citations: "[[Frankenstein, or, The modern Prometheus.pdf]]"
 done: true
-cover: https://cdn2.penguin.com.au/covers/original/9780141045115.jpg
+cover: https://www.hachettebookgroup.com/wp-content/uploads/2026/02/9781435171442.jpg
 ---
 ## Summary
 Modern classic that explores themes such as the nature of fate, human progress, revenge, existentialism, and religion.
