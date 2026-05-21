@@ -3,7 +3,7 @@ aliases:
 author:
   - William Faulkner
 created: 2026-03-11T20:33:13-07:00
-updated: 2026-05-20T11:47:58-07:00
+updated: 2026-05-21T10:52:32-07:00
 tags:
   - literature/novel
   - literature/Modernism
@@ -20,6 +20,7 @@ One of the great American works.
 - [[People often obsess over abstractions]]
 - [[The Old South was reluctant to change after the Civil War]]
 - [[There was a sense of powerlessness in the South after the Civil War]]
+- [[One ought to focus on the present and not remain ]]
 ## Characters
 **Benjamin Compson**
 - Severely mentally disabled, only able to moan, scream, and cry. Unable to speak.

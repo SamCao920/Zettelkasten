@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-02-25T13:43:27-08:00
-updated: 2026-05-21T10:40:20-07:00
+updated: 2026-05-21T10:45:48-07:00
 tags:
   - China
   - society
@@ -18,7 +18,7 @@ This means that the Chinese may receive the benefits of new technologies before 
 ## Explanation
 Some have argued that the cause of this positive attitude to technology is not necessarily a result of techno-optimism. Rather, it is because Chinese history has demonstrated that those who are not able to meet the pace of new technology and adopt it timely fall behind in society. 
 - This was what occurred in Northern China during the Reform and Opening Up, when millions of people working in government-run industries lost their jobs to the South and East of China, as higher tech industries sprang up.
-Either way, there is 
+Either way, there is higher trust and willingness (whether it is out of genuine techno-optimism or simply FOMO) in China compared to the West.
 ## References
 - [[China is characterized by a strong state, while India is characterized by a strong society]]
 	- Additionally, China’s strong state is able to ensure that new technologies are fostered by the central government.
