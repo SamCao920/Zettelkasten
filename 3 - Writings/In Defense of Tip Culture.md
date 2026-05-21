@@ -4,7 +4,7 @@ author:
   - Fangyuan Cao
 aliases:
 created: 2026-05-13T12:08:34-07:00
-updated: 2026-05-21T13:04:37-07:00
+updated: 2026-05-21T13:15:00-07:00
 tags:
   - economics
   - economics/labor
@@ -55,5 +55,10 @@ Tipping culture presents the best available solution. By introducing slight soci
 
 All this being said, tipping is only effective if done right; there are many cases where tipping does not achieve its justificatory welfare-maximizing effect. Below, I’ve outlined a few ways this could occur:
 1. Tipping *before* the service is provided,
-2. Tipping in cases where the object of the tip is not directly related to the service provided.
+2. Tipping in service-quality irrelevant situation.
+It seems obvious why the former is not viable—it entirely overrides the incentive mechanism that makes tipping a worthwhile activity in the first place. Of course, there might be a hypothesized parallel “serving culture” which could replace tipping culture, whereby the servers are always accepted to provide high quality service. The impossibility of this occurring is evident: not all servers are/can be good servers! On the other hand, any customer of a restaurant, by the very nature of that activity, has money.
+![[Pasted image 20260521131307.png]]
+[edit the image above]
+The second possibility regards situations such as tipping a barista or a food truck. 
+
 ## Bibliography
