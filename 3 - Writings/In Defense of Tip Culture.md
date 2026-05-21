@@ -4,7 +4,7 @@ author:
   - Fangyuan Cao
 aliases:
 created: 2026-05-13T12:08:34-07:00
-updated: 2026-05-21T13:00:23-07:00
+updated: 2026-05-21T13:04:37-07:00
 tags:
   - economics
   - economics/labor
@@ -55,5 +55,5 @@ Tipping culture presents the best available solution. By introducing slight soci
 
 All this being said, tipping is only effective if done right; there are many cases where tipping does not achieve its justificatory welfare-maximizing effect. Below, I’ve outlined a few ways this could occur:
 1. Tipping *before* the service is provided,
-2. Tipping in cases where the 
+2. Tipping in cases where the object of the tip is not directly related to the service provided.
 ## Bibliography
