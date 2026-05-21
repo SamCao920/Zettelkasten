@@ -1216,6 +1216,8 @@
 2026-05-21 11:28:07  Scan complete — no issues found.
 2026-05-21 11:33:07  Running deduplication (periodic check).
 2026-05-21 11:33:07  Scan complete — no issues found.
+<<<<<<< HEAD
+=======
 2026-05-21 11:38:07  Running deduplication (periodic check).
 2026-05-21 11:38:07  Scan complete — no issues found.
 2026-05-21 11:43:07  Running deduplication (periodic check).
@@ -1226,15 +1228,4 @@
 2026-05-21 11:53:07  Scan complete — no issues found.
 2026-05-21 11:58:07  Running deduplication (periodic check).
 2026-05-21 11:58:07  Scan complete — no issues found.
-2026-05-21 12:03:07  Running deduplication (periodic check).
-2026-05-21 12:03:07  Scan complete — no issues found.
-2026-05-21 12:08:07  Running deduplication (periodic check).
-2026-05-21 12:08:07  Scan complete — no issues found.
-2026-05-21 12:13:08  Running deduplication (periodic check).
-2026-05-21 12:13:08  Scan complete — no issues found.
-2026-05-21 12:18:08  Running deduplication (periodic check).
-2026-05-21 12:18:08  Scan complete — no issues found.
-2026-05-21 12:23:08  Running deduplication (periodic check).
-2026-05-21 12:23:08  Scan complete — no issues found.
-2026-05-21 12:28:08  Running deduplication (periodic check).
-2026-05-21 12:28:08  Scan complete — no issues found.
+>>>>>>> origin/master
