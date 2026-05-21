@@ -3,7 +3,7 @@ aliases:
 author:
   - Albert Camus
 created: 2026-05-15T10:46:54-07:00
-updated: 2026-05-18T22:12:24-07:00
+updated: 2026-05-21T11:12:54-07:00
 tags:
   - philosophy
   - literature/novel
@@ -11,6 +11,7 @@ tags:
 citations:
   - https://www.macobo.com/essays/epdf/CAMUS,%20Albert%20-%20The%20Stranger.pdf
 done: true
+cover: https://www.bookcritics.org/wp-content/uploads/2020/02/the-stranger.jpg
 ---
 ## Summary
 Meursault, a French Algerian clerk, learns that his mother has died and attends her funeral without showing much emotion. He starts a relationship with Marie, befriends his neighbor Raymond, and becomes involved in Raymond’s conflict with some Arabs. One day at the beach, Meursault later goes back alone, meets one of the Arabs, and kills him with a gun after being overwhelmed by the heat and sunlight. He is arrested, put on trial, and sentenced to death, with the court focusing as much on his behavior and lack of feeling as on the murder itself.

@@ -3,7 +3,7 @@ aliases:
 author:
   - John Rawls
 created: 2026-03-30T10:58:56-07:00
-updated: 2026-05-15T10:23:11-07:00
+updated: 2026-05-21T11:13:20-07:00
 tags:
   - philosophy
   - philosophy/political
@@ -14,6 +14,7 @@ citations:
 done:
 feature: 0 - Assets/0.e - In-text Images/Pasted image 20260422181024.png
 thumbnail: thumbnails/resized/674aeeca39056e8e3e77b2225ce1607e_86cf658e.webp
+cover: https://m.media-amazon.com/images/I/61qBPy8AGZL._AC_UF1000,1000_QL80_.jpg
 ---
 ## Summary
 One of the foundational works in politics philosophy in contemporary philosophy.

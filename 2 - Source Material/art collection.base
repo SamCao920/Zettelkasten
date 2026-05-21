@@ -3,11 +3,14 @@ views:
     name: Table
     filters:
       and:
-        - file.folder == "2 - Source Material/2.b - Art"
+        - file.folder == "2 - Source Material/2.b - Visual Art"
     order:
       - file.name
       - artist
       - tags
+    sort:
+      - property: file.mtime
+        direction: DESC
     image: note.cover
     imageAspectRatio: 1
     cardSize: 200

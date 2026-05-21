@@ -3,13 +3,14 @@ aliases:
 author:
   - James Fishkin
 created: 2026-04-20T12:22:01-07:00
-updated: 2026-04-25T09:15:00-07:00
+updated: 2026-05-21T11:14:31-07:00
 tags:
   - philosophy
   - philosophy/justice
   - philosophy/meritocracy
 citations: ""
 done:
+cover: https://commoncrowbooks.cdn.bibliopolis.com/pictures/B67736.jpg?auto=webp&v=1722367149
 ---
 ## Summary
 Identifies Fishkin’s trilemma, a fundamental problem with liberal societies.

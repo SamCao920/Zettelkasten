@@ -3,13 +3,14 @@ aliases:
 author:
   - Thomas Mulligan
 created: 2026-04-18T21:21:03-07:00
-updated: 2026-04-21T23:12:09-07:00
+updated: 2026-05-21T11:13:57-07:00
 tags:
   - philosophy
   - philosophy/justice
 citations:
   - https://philarchive.org/archive/MULJAT-2
 done: true
+cover: https://m.media-amazon.com/images/I/A1cdaL7sS3L._AC_UF1000,1000_QL80_.jpg
 ---
 ## Summary
 Presents a philosophical defense of meritocracy. 
