@@ -4,7 +4,7 @@ author:
   - Fangyuan Cao
 aliases:
 created: 2026-05-13T12:08:34-07:00
-updated: 2026-05-21T13:15:00-07:00
+updated: 2026-05-21T13:15:57-07:00
 tags:
   - economics
   - economics/labor
@@ -59,6 +59,6 @@ All this being said, tipping is only effective if done right; there are many cas
 It seems obvious why the former is not viable—it entirely overrides the incentive mechanism that makes tipping a worthwhile activity in the first place. Of course, there might be a hypothesized parallel “serving culture” which could replace tipping culture, whereby the servers are always accepted to provide high quality service. The impossibility of this occurring is evident: not all servers are/can be good servers! On the other hand, any customer of a restaurant, by the very nature of that activity, has money.
 ![[Pasted image 20260521131307.png]]
 [edit the image above]
-The second possibility regards situations such as tipping a barista or a food truck. 
+The second possibility regards situations such as tipping a barista or a food truck. Take a barista for example: the extend of an interaction with a barista consists of telling someone an order, and once the order is done, having them call out your name. Yeah, sure, one would prefer a nice barista over a bored and monotone one, but (1) 15% of one’s order seems like a high price to pay for very little (basic courtesy?) in return, and (2) the existence of a tipping culture may skew the incentives incorrectly in the first place. Because there is 
 
 ## Bibliography
