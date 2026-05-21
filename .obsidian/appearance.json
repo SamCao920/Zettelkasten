@@ -9,7 +9,8 @@
     "heading-fonts",
     "heading-fonts & bolds",
     "links",
-    "remove-unwanted-header-tabs"
+    "remove-unwanted-header-tabs",
+    "image-align"
   ],
   "monospaceFontFamily": "JetBrains Mono"
 }
