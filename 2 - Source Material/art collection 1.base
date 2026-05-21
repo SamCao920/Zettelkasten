@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.folder == "2 - Source Material/2.b - Art"
+    order:
+      - file.name
+      - artist
+      - tags
+    image: note.cover
+    imageAspectRatio: 1
+    cardSize: 200

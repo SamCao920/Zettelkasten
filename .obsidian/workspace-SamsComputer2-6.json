@@ -1,0 +1,340 @@
+{
+  "main": {
+    "id": "8b9fc20d755f4770",
+    "type": "split",
+    "children": [
+      {
+        "id": "413144c7ace540a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30afb59a9fd47114",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Unsorted/inbox.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "inbox"
+            }
+          },
+          {
+            "id": "006e0db2f7cf8499",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "definitions/glossary.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "glossary"
+            }
+          },
+          {
+            "id": "5daaa02627a266bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Material/2.a - Books & Articles/The Sound and the Fury.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "The Sound and the Fury"
+            }
+          },
+          {
+            "id": "6cb8aed3559e0620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Writings/In Defense of Tip Culture.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "In Defense of Tip Culture"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8792cd16c3327798",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaeef1dfacd53a6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22dca8179b776f66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "75e51ed7ef1cedf9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:metatheory",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "716aa1e5c24e9f68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": "phil"
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "37a6170257aeb289",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 597.5
+  },
+  "right": {
+    "id": "b1fc4fe94c0f020d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3891cb8c29b1e118",
+        "type": "tabs",
+        "dimension": 42.94003868471953,
+        "children": [
+          {
+            "id": "f103c352706f4ded",
+            "type": "leaf",
+            "state": {
+              "type": "annotations-outline",
+              "state": {},
+              "icon": "message-square",
+              "title": "Enhanced Annotations"
+            }
+          },
+          {
+            "id": "bf2d77b4507ed193",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "86a4ba150a7954c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3 - Writings/A Diachronic Rejection of Meritocracy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from A Diachronic Rejection of Meritocracy"
+            }
+          },
+          {
+            "id": "a495a9c170827eff",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "54a2b57a306511e0",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "file-digit",
+              "title": "Strange New Worlds"
+            }
+          },
+          {
+            "id": "ad6e51fe846f85a3",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "file-digit",
+              "title": "Strange New Worlds"
+            }
+          },
+          {
+            "id": "d3b5a574f89c00d7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "4806e9979f815a96",
+        "type": "tabs",
+        "dimension": 57.05996131528046,
+        "children": [
+          {
+            "id": "f5ef7cecc05ed6d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 - Source Material/2.a - Books & Articles/Merit and justice.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Merit and justice"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-wordy:Wordy view": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "22dca8179b776f66",
+  "lastOpenFiles": [
+    "2 - Source Material/2.a - Books & Articles/The Sound and the Fury.md",
+    "2 - Source Material/Untitled/desktop.ini",
+    "2 - Source Material/2.d - Short Stories & Poems",
+    "1 - Unsorted/One ought to focus on the present and not remain bogged down in the past.md",
+    "2 - Source Material/2.a - Books & Articles/The Sound and the Fury-SamsComputer4.md",
+    "1 - Unsorted/The Old South was reluctant to change after the Civil War.md",
+    "6 - Notes/6.a - Claims/People often obsess over abstractions.md",
+    "1 - Unsorted/inbox.md",
+    "6 - Notes/6.a - Claims/Chinese society is generally more receptive to new technologies.md",
+    "6 - Notes/6.a - Claims/Since the Industrial Revolution, inventions have occurred more readily.md",
+    "thumbnails/resized/3a148c691a9312240b6bbd107ff87443_86cf658e.webp",
+    "0 - Assets/0.e - In-text Images/Pasted image 20260521103003.png",
+    "6 - Notes/6.a - Claims/If a superintelligence is able to rewrite its own utility function, it would be neutralized as a threat to humanity.md",
+    "3 - Writings/In Defense of Tip Culture.md",
+    "6 - Notes/6.a - Claims/People value present goods more than future goods.md",
+    "6 - Notes/6.a - Claims/The Absurd man pursues merely aesthetic value.md",
+    "6 - Notes/6.a - Claims/Mainstream economics’ need for assumptions in their models justifies government intervention into the economy.md",
+    "6 - Notes/6.a - Claims/Absurdity manifests through cleavages which are impossible to overcome.md",
+    "6 - Notes/6.a - Claims/The alignment tax on AI makes the models too altruistic in economic distribution.md",
+    "1 - Unsorted/The alignment tax on AI makes the models too altruistic in economic distribution.md",
+    "thumbnails/resized/73ae88bd82f08642620d618bcbc022c7_86cf658e.webp",
+    "6 - Notes/6.a - Claims/The reason that socialist regimes survive is because they exist in a free-market global order.md",
+    "6 - Notes/6.a - Claims/The biggest problem facing a state-run economy is the economic calculation Problem.md",
+    "6 - Notes/6.a - Claims/SNAP does not cause economic growth.md",
+    "4 - Maps of Content/writing ideas.md",
+    "2 - Source Material/2.a - Books & Articles/What makes art great.md",
+    "definitions/glossary.md",
+    "thumbnails/resized/0d960a7f46b74f3af6079a41fc713168_86cf658e.webp",
+    "0 - Assets/0.e - In-text Images/Pasted image 20260516153150.png",
+    "thumbnails/resized/a3b8569a95234df6a50bae8ca4ff67ab_86cf658e.webp",
+    "thumbnails/external/b9299aa3648a6b3bc7389c5c6755fe20.failed.png",
+    "thumbnails/resized/cac52a9705b92a2d3de189b2d77b1ece_86cf658e.webp",
+    "thumbnails/external/6a2c0806b9ecd43642dbac0440cf5d29.failed.png",
+    "thumbnails/resized/dedafde08605d5f93a0ed39d6cc53234_86cf658e.webp",
+    "thumbnails/external",
+    "6 - Notes/6.a - Claims/The Rashidun conquest was made possible by geography and unique political economy.md",
+    "6 - Notes/6.a - Claims/Socialism has a Knowledge Problem.md",
+    "6 - Notes/6.a - Claims/The biggest problem facing a state-run economy is the Economic Calculation Problem.md",
+    "definitions/glossary.md-SamsComputer4.bak",
+    "definitions/dedup_log-SamsComputer4.txt",
+    "definitions/dedup_log.txt",
+    "definitions/New Text Document.txt",
+    "6 - Notes/6.b - Canvases/Justice as Fairness.canvas",
+    "2 - Source Material/art collection.base",
+    "0 - Assets/0.c - Python/j-curve.py",
+    "0 - Assets/0.c - Python/s-curve.py",
+    "6 - Notes/6.b - Canvases/Rawls' Reflective Equilibrium.canvas",
+    "6 - Notes/6.b - Canvases/Aristotle on Pleasure.canvas",
+    "6 - Notes/6.b - Canvases/Determinism and Moral Responsibility Essay Outline.canvas",
+    "6 - Notes/6.b - Canvases/Aristotle's Taxonomy of Justice.canvas",
+    "6 - Notes/6.b - Canvases/Aristotle's Moral States.canvas",
+    "6 - Notes/6.c - Canvases/Determinism and Moral Responsibility Essay Outline.canvas",
+    "6 - Notes/6.c - Canvases/Aristotle's Taxonomy of Justice.canvas",
+    "6 - Notes/6.c - Canvases/Aristotle's Moral States.canvas",
+    "6 - Notes/6.c - Canvases/Aristotle on Pleasure.canvas"
+  ]
+}
