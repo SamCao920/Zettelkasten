@@ -3,7 +3,7 @@ aliases:
 author:
   - William Faulkner
 created: 2026-03-11T20:33:13-07:00
-updated: 2026-05-21T10:59:07-07:00
+updated: 2026-05-21T10:55:21-07:00
 tags:
   - literature/novel
   - literature/Modernism
@@ -19,6 +19,7 @@ One of the great American works.
 ## Themes
 - [[People often obsess over abstractions]]
 - [[The Old South was reluctant to change after the Civil War]]
+- [[There was a sense of powerlessness in the South after the Civil War]]
 - [[One ought to focus on the present and not remain bogged down in the past]]
 ## Characters
 **Benjamin Compson**
@@ -52,7 +53,25 @@ One of the great American works.
 	- Not a hero
 - Quentin kills himself in order to freeze his grief (at the loss of innocence of Caddy) in time.
 	- He breaks his watch.
+
+
+
+- All three characters struggle with a loss of innocence/purity.
+	- Benji is unable to process this, and thus is the least affected.
+	- Quentin kills himself because he realizes such a loss is permanent and there is nothing he can do.
+	- Jason fights against the world and tries his best to preserve his purity/honor, but fails.
 ## Notes
+- The final chapter of the book is in third person to make a more general point about the South and how people deal with loss.
+- There is not much about the characters? There is an detachment of the characters from the reader.
+	- There is not much character development, but more about contrast between the characters.
+- Ms. Compson always references heritage and naming.
+	- A comment on fate?
+	- Her own inabaility to do anything is likewise relfected in the way that she sees the world. She sees everybody as being bound to fate and people are not able to act independently.
+	- She believes that Jason has some unique ability to act. She often repeats of how Jason is “not a compson.”
+- Benji is christ-like.
+	- He becomes disabaled (dies) to suffer for their family’s sins.
+- The shift of perspective to the servants (Dilsey and Luster) is representative of resurrection.
+
 - Each of the women represents something:
 	- Ms compson: the past
 	- Miss Quentin & Caddy: the present
