@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-05-22T09:52:13-07:00
-updated: 2026-05-22T10:13:47-07:00
+updated: 2026-05-22T10:42:57-07:00
 tags:
   - space
   - war
@@ -14,7 +14,14 @@ In intergalactic warfare between symmetrical technology and symmetrical paranoia
 ## Significance
 This would mean that in any such war, the rational player would choose to defend and never attack. However, there are many assumptions made in the course of this conclusion.
 ## Explanation
+There are approximately three ways to conduct offense in an intergalactic war:
+1. Ranged Laser attacks.
+2. Relativistic kill vehicles, which can re-target mid flight.
+3. Invasion ships.
+All three can be countered easily by the defender: for the first case, a paranoid civilization could position their civilization such that it is highly decentralized on many small living areas. This would make targeting extremely diff
 There are many assumptions made in order for this strategy to be true:
 - That the two civilizations are equally technologically advanced and have similar utility functions.
-	- If fighting against a less advanced civilization without the capability to decentralize their civilization
+	- If fighting against a less advanced civilization without the capability to decentralize their civilization, offense remains a viable strategy.
+	- If fighting against a civilizations that is “irrational,” then there is no reason to adopt a defense strategy because they wouldn’t know the rational counter strategy.
+- 
 ## References
