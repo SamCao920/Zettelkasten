@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-05-22T09:52:13-07:00
-updated: 2026-05-22T10:42:57-07:00
+updated: 2026-05-22T10:45:52-07:00
 tags:
   - space
   - war
@@ -18,7 +18,7 @@ There are approximately three ways to conduct offense in an intergalactic war:
 1. Ranged Laser attacks.
 2. Relativistic kill vehicles, which can re-target mid flight.
 3. Invasion ships.
-All three can be countered easily by the defender: for the first case, a paranoid civilization could position their civilization such that it is highly decentralized on many small living areas. This would make targeting extremely diff
+All three can be countered easily by the defender: for the first case, a paranoid civilization could position their civilization such that it is highly decentralized on many small living areas. This would make targeting extremely difficult and an attack very inefficient, specially if the habitation spaces orbit randomly around the host stars.
 There are many assumptions made in order for this strategy to be true:
 - That the two civilizations are equally technologically advanced and have similar utility functions.
 	- If fighting against a less advanced civilization without the capability to decentralize their civilization, offense remains a viable strategy.
