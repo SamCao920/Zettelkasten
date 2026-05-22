@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-05-22T09:13:10-07:00
-updated: 2026-05-22T09:37:08-07:00
+updated: 2026-05-22T09:43:39-07:00
 tags:
   - culture
   - economics
@@ -20,7 +20,8 @@ This could serve as a launching point for a deeper understanding of Confucianist
 The above charts seems to demonstrate that there is in fact some correlation between Confucianism and higher levels of economic growth, such that it is statistically significant that Confucianist, non-communist countries have higher levels of growth than non-Confucianist, non-communist countries.
 There are some things which much be noted, however:
 - The sample size is rather small ($n=11$).
-- The Confucianist countries begin in a better economic situation than the non=
+- The Confucianist countries begin in a better economic situation than the non-Confucianist ones, though the difference is not statistically significant.
+- There are confounders such as the fact that Confucianist non-Communist states tend to be small, guaranteed by Western nations, and had good port access.
 ## References
 - [[Many East Asian countries are dirigisme and neo-mercantilist]]
 	- Perhaps *some* state intervention in present, and cannot be discounted in explaining the rapid growth?
