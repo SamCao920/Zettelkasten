@@ -3,7 +3,7 @@ aliases:
 author:
   - John Rawls
 created: 2026-03-30T10:58:56-07:00
-updated: 2026-05-21T11:13:20-07:00
+updated: 2026-05-22T20:56:44-07:00
 tags:
   - philosophy
   - philosophy/political
@@ -71,4 +71,8 @@ This is crucial for understanding the view of justice that is developed/referenc
 - [[Excellencies are positive externalities]]
 - [[Shame can be natural or moral]]
 - [[The right is not the same as the good]]
+- [[Only moral people are entitled to justice]]
+- [[People are not apportioned a greater share of liberties beyond a certain limit of their capacity for justice]]
+- [[In a Rawlsian society, people would be educated for autonomy]]
+- [[Human social relations are non-trivial]]
 ## References
