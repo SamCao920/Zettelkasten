@@ -3,7 +3,7 @@ aliases:
 author:
   - John Rawls
 created: 2026-03-30T10:58:56-07:00
-updated: 2026-05-23T21:56:20-07:00
+updated: 2026-05-23T22:49:35-07:00
 tags:
   - philosophy
   - philosophy/political

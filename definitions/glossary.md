@@ -1,6 +1,6 @@
 ---
 created: 2026-04-30T21:19:22-07:00
-updated: 2026-05-23T21:59:30-07:00
+updated: 2026-05-23T22:50:34-07:00
 def-type: consolidated
 ---
 # Secondary Balancer
@@ -602,6 +602,7 @@ Things that one cannot control which is decided by the social circumstances that
 *natural contingencies*
 
 Things that one cannot control which is decided by the genetics/random chance. Ex. intelligence, physical strength and health, imagination and creativity, etc.
+One unique example that Rawls gives is that of temporal position, i.e., which generation you are born into.
 
 ---
 
@@ -896,7 +897,7 @@ Ex. Hedonism, Utilitarianism, Eudaimonism, etc.
 
 ---
 
-# dominant-end
+# Dominant-end
 
 *dominant-end theory, dominant-ends theory, dominant-ends, value monism, eonistic practical deliberation, summum bonum, maximizing conception of rationality*
 
