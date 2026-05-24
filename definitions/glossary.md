@@ -1,6 +1,6 @@
 ---
 created: 2026-04-30T21:19:22-07:00
-updated: 2026-05-16T11:22:03-07:00
+updated: 2026-05-23T21:59:30-07:00
 def-type: consolidated
 ---
 # Secondary Balancer
@@ -879,6 +879,17 @@ Capitalist economies, via price, offer subjective information about the relative
 
 # Last Great War of Antiquity
 
-*Byzantine–Sasanian War of 602–628*
+*Byzantine–Sasanian War of 602–628, Last Great War of Antiquities, Byzantine–Sasanian War of 602–628s*
 
 The final conflict between the Byzantine Empire and the Sassanid empire, which greatly weakened both sides as to have allowed the rise of the Rashidun.
+
+---
+
+# Teleological
+
+*teleology*
+
+(General) Exploring causality through ends, goals, or purposes.
+
+(Rawls) Defining good irrespective of what is right, then defining right as being whatever produces the most of that good.
+Ex. Hedonism, Utilitarianism, Eudaimonism, etc.
