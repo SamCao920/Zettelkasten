@@ -887,9 +887,17 @@ The final conflict between the Byzantine Empire and the Sassanid empire, which g
 
 # Teleological
 
-*teleology*
+*teleology, Teleologicals, teleologies*
 
 (General) Exploring causality through ends, goals, or purposes.
 
 (Rawls) Defining good irrespective of what is right, then defining right as being whatever produces the most of that good.
 Ex. Hedonism, Utilitarianism, Eudaimonism, etc.
+
+---
+
+# dominant-end
+
+*dominant-end theory, dominant-ends theory, dominant-ends, value monism, eonistic practical deliberation, summum bonum, maximizing conception of rationality*
+
+(Rawls) Proposes that rational choice requires identifying a single overriding end to which all other ends are subordinate, and then treating all decisions as questions of how best to advance that dominant end.
