@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-04-22T22:58:17-07:00
-updated: 2026-05-22T21:36:33-07:00
+updated: 2026-05-24T19:38:29-07:00
 tags:
   - philosophy
   - philosophy/justice
@@ -15,7 +15,7 @@ This is important in understanding the way that the second principle of justice 
 ## Explanation
 This rules out actions such as undermining individuals’ rights to have the ability to hold any position that they would be qualified through the justification that such a case would not be able to benefit the worst-off.
 Rawls specifically offers three arguments in favor of this claim:
-1. As the conditions of a civilization improve, the marginal benefit of economic prosperity decreases, while the marginal benefit of liberties increases. Therefore, the case for putting liberty first given relatively good economic conditions is solid.
+1. Once a certain threshold of material sufficiency is met, people come to recognize that their fundamental interests—particularly in self-respect and freedom of conscience—cannot be satisfied through additional economic gains, because these interests are not fungible with economic ones.
 	- This means that under economically stressful situations, economic welfare can be placed as a higher priority than protecting equal liberties.
 2. No one behind the veil of ignorance would be willing to gamble their freedom of conscience and freedom of thought for economic gains.
 3. A serial ordering allows for inequalities in the socio-economic sphere to generate overall benefits while ensuring that individuals have sufficient primary goods.
