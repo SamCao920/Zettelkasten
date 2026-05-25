@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-05-22T20:27:18-07:00
-updated: 2026-05-22T20:40:29-07:00
+updated: 2026-05-24T18:03:08-07:00
 tags:
   - philosophy
   - philosophy/justice
@@ -15,6 +15,7 @@ Only people are not moral are entitled to justice. A moral person is someone who
 This explains the nature of morality and why people would rationally want to be moral.
 ## Explanation
 Rawls states that only the people with moral personalities are the ones who ought to be subject to demands of the principles of justice.
+There is the specific case of someone whose naturally constituted such that their plan of life is fundamentally incompatible with the principles of justice as a result of their moral psychology, e.g., their sense of the good is built upon a desire to dominant others and engage in zero-sum competition. In this case, they would be punished by their society.
 ## Note
 This claim faces many obvious problems, such as the fact that whether someone has a moral personality is a natural contingency, and thereby is morally arbitrary. However, the difference principle is unable to solve it in this case. Additionally, this also means that people who are mentally impaired therefore don’t have rights accorded to them via the principle justice, and must rely on people’s humanity and kindness.
 ## References

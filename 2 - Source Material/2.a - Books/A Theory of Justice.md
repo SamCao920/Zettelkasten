@@ -3,7 +3,7 @@ aliases:
 author:
   - John Rawls
 created: 2026-03-30T10:58:56-07:00
-updated: 2026-05-24T17:41:22-07:00
+updated: 2026-05-24T18:04:52-07:00
 tags:
   - philosophy
   - philosophy/political
@@ -48,7 +48,7 @@ This is crucial for understanding the view of justice that is developed/referenc
 - [[Fair equality of opportunity is lexically before the difference principle]]
 - [[The difference principle has definite advantages over utilitarianism]]
 - [[What is good for a person is a rational long-term plan of life given reasonably favorable circumstances]]
-- [[The expectations of representative men are are defined by the index of primary goods available to them]]
+- [[The expectations of representative men are defined by the index of primary goods available to them]]
 - [[There are two considerations relevant to social positions, which are the existence of equal citizenship, and where someone is in the distribution of wealth]]
 - [[The basic structure is not responsible for inequalities in associations which one enters voluntarily]]
 - [[The difference principle embodies the idea that natural contingencies are commonly shared between members of a society]]
@@ -77,5 +77,7 @@ This is crucial for understanding the view of justice that is developed/referenc
 - [[Human social relations are non-trivial]]
 - [[Dominant-end moral theories fail]]
 -  [[The congruence problem is easier solved by contract theories rather than utilitarian ones]]
-- [[Util]]
+- [[A contract theory is justified, not merely proved]]
 ## References
+- [[Nicomachean Ethics]]
+	- This two books have some o

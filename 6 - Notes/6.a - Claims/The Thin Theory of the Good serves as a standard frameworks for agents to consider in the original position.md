@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-05-11T23:12:48-07:00
-updated: 2026-05-24T17:41:01-07:00
+updated: 2026-05-24T17:54:52-07:00
 tags:
   - philosophy
   - philosophy/justice
@@ -20,6 +20,7 @@ The Thin Theory of the Good would be in line with the principles of justice sinc
 2. In such a society, we cannot pinpoint an attack on anybody, meaning that one is disincentivized to act rashly and aggressively towards others, and thereby abide by the principles of justice.
 3. According to the Aristotelian Principle, people are complementary for each other such that the total capability of people together outweighs people’s individual capabilities. However, in order to maintain the well-ordered society in which this occurs, the principles of justice need to be maintained.
 4. The Kantian Interpretation states that the desire to act justly and the desire to express our nature as free and independent persons in one in the same. Both principles would be chosen in the original position, and best allow us to express ourselves as rational and equal persons.
+	- We can differ in our expression of our nature as free and rational persons, but we cannot weigh the sense of justice against other ends.
 The indeterminacy of the Thin Theory is acceptable given its fundamental requirement to be coherent with justice, and given that, any other variations are innocuous.
 ## References
 - [[Long term goodness is the means to a happy life]]

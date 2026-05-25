@@ -16,5 +16,5 @@ Paternalism is only justified given the subject’s failure/absence of reason an
 ## References
 - [[What is good for a person is a rational long-term plan of life given reasonably favorable circumstances]]
 	- Primary goods are what allow for the development and carrying out of this long-term life plan, which leads to goodness and happiness.
-- [[The expectations of representative men are are defined by the index of primary goods available to them]]
+- [[The expectations of representative men are defined by the index of primary goods available to them]]
 	- Ibid.

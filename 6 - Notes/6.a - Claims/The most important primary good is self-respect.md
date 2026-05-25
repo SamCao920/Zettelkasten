@@ -17,5 +17,5 @@ Self-respect mean:
 1. One’s own conviction that his conception of the good is wroth carrying out.
 2. A confidence in one’s ability to fulfill one’s intentions.
 ## References
-- [[The expectations of representative men are are defined by the index of primary goods available to them]]
+- [[The expectations of representative men are defined by the index of primary goods available to them]]
 	- So then it is most important to index the level of self-respect.
