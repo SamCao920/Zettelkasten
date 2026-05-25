@@ -899,6 +899,12 @@ Ex. Hedonism, Utilitarianism, Eudaimonism, etc.
 
 # Dominant-end
 
-*dominant-end theory, dominant-ends theory, dominant-ends, value monism, eonistic practical deliberation, summum bonum, maximizing conception of rationality*
+*dominant-end theory, dominant-ends theory, dominant-ends, value monism, eonistic practical deliberation, summum bonum, maximizing conception of rationality, dominant-end theories, dominant-ends theories, value monisms, eonistic practical deliberations, summum bonums, maximizing conception of rationalities*
 
 (Rawls) Proposes that rational choice requires identifying a single overriding end to which all other ends are subordinate, and then treating all decisions as questions of how best to advance that dominant end.
+
+---
+
+# congruence problem
+
+(Rawls) Whether it makes sense for a rational person to regard the principles of justice as regulative of their plan of life.
