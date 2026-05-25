@@ -1,13 +1,14 @@
 ---
 aliases:
 created: 2026-05-13T16:45:29-07:00
-updated: 2026-05-13T16:49:34-07:00
+updated: 2026-05-24T18:23:06-07:00
 tags:
   - philosophy
   - philosophy/axiology/ethics
   - philosophy/justice
   - politics
-citations: ""
+citations:
+  - "[[A Theory of Justice]]"
 ---
 ## Summary
 Self-respect means that one is confident that one’s conception of the good is worth carrying out, and that one has the capability to carry out that rational plan.

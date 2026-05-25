@@ -5,7 +5,8 @@ updated: 2026-05-11T20:15:02-07:00
 tags:
   - philosophy
   - philosophy/justice
-citations: ""
+citations:
+  - "[[A Theory of Justice]]"
 ---
 ## Summary
 Paternalistic decisions are to be made so that they align with the settled preferences of the individual. If this is not possible, then the decisions should be made as to maximize the possible primary goods available to the person.

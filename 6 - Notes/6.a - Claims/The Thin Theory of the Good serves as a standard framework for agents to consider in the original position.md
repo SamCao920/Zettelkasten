@@ -10,7 +10,7 @@ citations:
   - "[[A Theory of Justice]]"
 ---
 ## Summary
-The Thin Theory of Justice is the framework that is adopted in the original position in order to judge the outcomes of particular arrangements of society.
+The Thin Theory of the Good is the framework that is adopted in the original position in order to judge the outcomes of particular arrangements of society.
 ## Significance
 This is the framework that is used in the original position in the bargaining.
 ## Explanation

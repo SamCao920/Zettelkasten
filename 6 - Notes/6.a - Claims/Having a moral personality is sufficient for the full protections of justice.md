@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-05-22T20:27:18-07:00
-updated: 2026-05-24T18:03:08-07:00
+updated: 2026-05-24T18:25:09-07:00
 tags:
   - philosophy
   - philosophy/justice
@@ -10,7 +10,7 @@ citations:
   - "[[A Theory of Justice]]"
 ---
 ## Summary
-Only people are not moral are entitled to justice. A moral person is someone who is capable of having a conception of the good and someone who is capable of having a conception of justice.
+A moral person with a moral personality is someone who is capable of having a conception of the good and someone who is capable of having a conception of justice. Having a moral personality is sufficient for being treated with the principles of justice.
 ## Significance
 This explains the nature of morality and why people would rationally want to be moral.
 ## Explanation

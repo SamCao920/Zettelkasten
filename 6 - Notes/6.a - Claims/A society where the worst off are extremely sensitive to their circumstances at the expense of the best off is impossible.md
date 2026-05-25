@@ -13,7 +13,7 @@ There is a possible society where the prospects of the worst off can be improved
 ## Significance
 This is a common and powerful objection against Rawls’ views.
 ## Counterargument
-Rawls argues that this is simply an inconceivable situation, since with realistic institutional assumptions, this situation could never occur. Additionally, with an open and competitive economy, social mobility mitigates this issue.
+Rawls argues that this is simply an inconceivable situation, since with realistic institutional assumptions, this situation could never occur. Specifically, his close-knit and chain-connected assumptions (see [[Rawls optimally assumes that expectations are close-knit and chain-connected]]) entail that improving the position of the least advantaged will in practice tend to improve or leave unchanged the positions of the better-off — making the extreme sensitivity scenario empirically implausible.
 ## References
 - [[The difference principle expresses fraternity]]
 	- If this objection works, then this is no longer true.

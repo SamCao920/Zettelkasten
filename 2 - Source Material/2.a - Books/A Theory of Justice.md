@@ -3,7 +3,7 @@ aliases:
 author:
   - John Rawls
 created: 2026-03-30T10:58:56-07:00
-updated: 2026-05-24T18:21:09-07:00
+updated: 2026-05-24T18:25:12-07:00
 tags:
   - philosophy
   - philosophy/political
@@ -67,12 +67,12 @@ This is crucial for understanding the view of justice that is developed/referenc
 - [[People are not apportioned a greater share of liberties beyond a certain limit of their capacity for justice]]
 ### Theory of the Good & Stability
 - [[Moral principles originate from rational choice]]
-- [[The Thin Theory of the Good serves as a standard frameworks for agents to consider in the original position]]
+- [[The Thin Theory of the Good serves as a standard framework for agents to consider in the original position]]
 - [[Self-respect is the most important primary good]]
 - [[Excellencies are positive externalities]]
 - [[Shame can be natural or moral]]
 - [[The right is not the same as the good]]
-- [[Only moral people are entitled to justice]]
+- [[Having a moral personality is sufficient for the full protections of justice]]
 - [[In a Rawlsian society, people would be educated for autonomy]]
 - [[Human social relations are non-trivial]]
 - [[Dominant-end moral theories fail]]
