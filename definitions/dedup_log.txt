@@ -1885,3 +1885,8 @@
 2026-05-24 18:13:17  Running deduplication (file modified).
 2026-05-24 18:13:17  Fixed 1 issue(s). Backup: glossary.md.bak
 2026-05-24 18:13:52  Running deduplication (file modified).
+2026-05-24 18:13:52  Fixed 1 issue(s). Backup: glossary.md.bak
+2026-05-24 18:14:07  Running deduplication (Obsidian closed).
+2026-05-24 18:14:07  Scan complete — no issues found.
+2026-05-24 18:20:27  Running deduplication (Obsidian opened).
+2026-05-24 18:20:27  Scan complete — no issues found.
