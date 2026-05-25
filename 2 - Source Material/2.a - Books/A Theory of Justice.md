@@ -3,7 +3,7 @@ aliases:
 author:
   - John Rawls
 created: 2026-03-30T10:58:56-07:00
-updated: 2026-05-23T22:49:35-07:00
+updated: 2026-05-24T17:28:28-07:00
 tags:
   - philosophy
   - philosophy/political
@@ -76,4 +76,5 @@ This is crucial for understanding the view of justice that is developed/referenc
 - [[In a Rawlsian society, people would be educated for autonomy]]
 - [[Human social relations are non-trivial]]
 - [[Dominant-end moral theories fail]]
+-  
 ## References
