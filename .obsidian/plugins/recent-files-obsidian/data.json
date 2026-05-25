@@ -5,8 +5,16 @@
       "path": "2 - Source Material/2.a - Books/A Theory of Justice.md"
     },
     {
+      "basename": "inbox",
+      "path": "1 - Unsorted/inbox.md"
+    },
+    {
+      "basename": "bookshelf",
+      "path": "2 - Source Material/bookshelf.base"
+    },
+    {
       "basename": "A contract theory is justified, not merely proved",
-      "path": "1 - Unsorted/A contract theory is justified, not merely proved.md"
+      "path": "6 - Notes/6.a - Claims/A contract theory is justified, not merely proved.md"
     },
     {
       "basename": "The expectations of representative men are defined by the index of primary goods available to them",
@@ -26,7 +34,7 @@
     },
     {
       "basename": "The congruence problem is easier solved by contract theories rather than utilitarian ones",
-      "path": "1 - Unsorted/The congruence problem is easier solved by contract theories rather than utilitarian ones.md"
+      "path": "6 - Notes/6.a - Claims/The congruence problem is easier solved by contract theories rather than utilitarian ones.md"
     },
     {
       "basename": "A principle must satisfy generality, universality, publicity, ordering, and finality in order to be a candidate principle in the original position",
@@ -35,10 +43,6 @@
     {
       "basename": "Good institutions are the source of economic growth",
       "path": "6 - Notes/6.a - Claims/Good institutions are the source of economic growth.md"
-    },
-    {
-      "basename": "inbox",
-      "path": "1 - Unsorted/inbox.md"
     },
     {
       "basename": "Japanese companies are fundamentally structured to favor incremental progress over drastic breakthroughs",
@@ -99,10 +103,6 @@
     {
       "basename": "quote bank",
       "path": "4 - Maps of Content/quote bank.md"
-    },
-    {
-      "basename": "bookshelf",
-      "path": "2 - Source Material/bookshelf.base"
     },
     {
       "basename": "Frankenstein (book)",

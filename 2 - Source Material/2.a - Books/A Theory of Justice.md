@@ -3,7 +3,7 @@ aliases:
 author:
   - John Rawls
 created: 2026-03-30T10:58:56-07:00
-updated: 2026-05-24T18:04:52-07:00
+updated: 2026-05-24T18:08:25-07:00
 tags:
   - philosophy
   - philosophy/political
@@ -11,7 +11,7 @@ tags:
   - philosophy/justice
 citations:
   - "[[A Theory of Justice.pdf]]"
-done:
+done: true
 feature: 0 - Assets/0.e - In-text Images/Pasted image 20260422181024.png
 thumbnail: thumbnails/resized/674aeeca39056e8e3e77b2225ce1607e_86cf658e.webp
 cover: https://m.media-amazon.com/images/I/61qBPy8AGZL._AC_UF1000,1000_QL80_.jpg
@@ -80,4 +80,4 @@ This is crucial for understanding the view of justice that is developed/referenc
 - [[A contract theory is justified, not merely proved]]
 ## References
 - [[Nicomachean Ethics]]
-	- This two books have some o
+	- This two books have some overlap in that they both address problems of ethics and justice.
