@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-05-26T12:44:35-07:00
-updated: 2026-05-26T12:48:03-07:00
+updated: 2026-05-26T16:31:55-07:00
 tags:
   - philosophy
   - law
@@ -17,5 +17,9 @@ The idea that retribution punishments are never justified, which is often justif
 3. we can punish the crime-doer not directly through retributive punishment, and 
 4. punishment’s main goal should be deterrence and prevention.
 ## Significance
-Explain briefly how this idea fits into a bigger system, problem, or use-case. Make it meaningful to your future self.
+This is a significant perspective on criminal justice that is shared by philosophers such as Scanlon.
+## Explanation
+Scanlon argues that while we cannot wish for an offender to suffer, we are justified in being indifferent to their misfortune. While theses responses may cause the offender to suffer, we are justified in doing this since the offender has already broken the contract of interpersonal relations (i.e., indifferent to the interests of others).
 ## References
+- [[Free will and responsibility are not mutually exclusive]]
+	- This is one of the parts of the argument presented here.

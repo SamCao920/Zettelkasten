@@ -2005,3 +2005,10 @@
 2026-05-25 17:58:06  Running deduplication (Obsidian closed).
 2026-05-25 17:58:06  Scan complete — no issues found.
 2026-05-26 16:19:27  Running deduplication (Obsidian opened).
+2026-05-26 16:19:27  Scan complete — no issues found.
+2026-05-26 16:24:27  Running deduplication (periodic check).
+2026-05-26 16:24:27  Scan complete — no issues found.
+2026-05-26 16:29:27  Running deduplication (periodic check).
+2026-05-26 16:29:27  Scan complete — no issues found.
+2026-05-26 16:34:27  Running deduplication (periodic check).
+2026-05-26 16:34:27  Scan complete — no issues found.
