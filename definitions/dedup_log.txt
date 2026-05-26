@@ -1999,3 +1999,9 @@
 2026-05-25 09:48:16  Running deduplication (Obsidian closed).
 2026-05-25 09:48:16  Scan complete — no issues found.
 2026-05-25 17:51:16  Running deduplication (Obsidian opened).
+2026-05-25 17:51:16  Scan complete — no issues found.
+2026-05-25 17:56:16  Running deduplication (periodic check).
+2026-05-25 17:56:16  Scan complete — no issues found.
+2026-05-25 17:58:06  Running deduplication (Obsidian closed).
+2026-05-25 17:58:06  Scan complete — no issues found.
+2026-05-26 16:19:27  Running deduplication (Obsidian opened).

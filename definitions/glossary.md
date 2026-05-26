@@ -1,6 +1,6 @@
 ---
 created: 2026-04-30T21:19:22-07:00
-updated: 2026-05-23T22:50:34-07:00
+updated: 2026-05-26T12:44:34-07:00
 def-type: consolidated
 ---
 # Secondary Balancer
@@ -905,6 +905,6 @@ Ex. Hedonism, Utilitarianism, Eudaimonism, etc.
 
 ---
 
-# congruence problem
+# Congruence Problem
 
 (Rawls) Whether it makes sense for a rational person to regard the principles of justice as regulative of their plan of life.

@@ -3,7 +3,7 @@ aliases:
 author:
   - Albert Camus
 created: 2026-05-15T10:46:54-07:00
-updated: 2026-05-24T11:50:21-07:00
+updated: 2026-05-25T17:54:20-07:00
 tags:
   - philosophy
   - literature/novel
@@ -27,3 +27,4 @@ In a sense, what this book is trying to say is that if the conventional view of 
 Although doing so would mean isolating oneself from the community, who continue to hold such values, such isolation ought to be of no concern. Although the community will condemn the person who is Absurd that their philosophy is fundamentally destabilizing and corrupting, it seems to capture the truth in a more accurate manner. To care about the condemn nation of others is to concede that there is at least one value which exists. In realizing that other people are likewise simply corpses waiting to be buried is comfort. The understanding of the fact that the universe itself is meaningless already provides a sense of fraternity. 
 To hold no values and yet enjoy aesthetics is a life that is possible to live, and indeed, it seems rational to live as such.
 ## References
+- [[Camus and Kafka are diametrically opposite in what they seek to do in their writings]]
