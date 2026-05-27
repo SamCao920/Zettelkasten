@@ -59,7 +59,7 @@ This is crucial for understanding the view of justice that is developed/referenc
 - [[Average utilitarianism is more justifiable for rational agents than classical utilitarianism]] 
 - [[The principle of insufficient reason is false]]
 - [[Justice as fairness fosters self-respect and societal harmony]]
-- [[Classical utilitarianism is only possible in a world where people are perfectly altruistic]]
+- [[Classical utilitarianism is too demanding]]
 ### Liberty & Political Application
 - [[The intolerant must mostly be tolerated]]
 - [[Liberty can only be restricted in order to protect or strengthen the overall system of equal basic liberties]]

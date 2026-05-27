@@ -21,7 +21,7 @@ Rawls makes three key points:
 2. The vagueness of a dominant-end theory means that it does not actually solve the problem that it claims to. For instance, if happiness if the dominant end, then how does one define happiness?
 3. Human good seems to be heterogeneous, and not convergent upon some ultimate, singular end.
 ## References
-- [[Classical utilitarianism is only possible in a world where people are perfectly altruistic]]
+- [[Classical utilitarianism is too demanding]]
 	- This unrealistic assumption is related to Rawls’ third objection here, and is part of the reason why it is unrealistic.
 - [[The difference principle has definite advantages over utilitarianism]]
 	- The critiques here are related to Rawls’ 2nd critique in this note.

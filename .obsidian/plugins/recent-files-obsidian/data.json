@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "TIPS yields are not a good proxy for real interest rates",
-      "path": "1 - Unsorted/TIPS yields are not a good proxy for real interest rates.md"
-    },
-    {
       "basename": "inbox",
       "path": "1 - Unsorted/inbox.md"
+    },
+    {
+      "basename": "glossary",
+      "path": "definitions/glossary.md"
+    },
+    {
+      "basename": "Retributive punishment is never justified",
+      "path": "6 - Notes/6.a - Claims/Retributive punishment is never justified.md"
+    },
+    {
+      "basename": "Utilitarianism fails",
+      "path": "6 - Notes/6.a - Claims/Utilitarianism fails.md"
+    },
+    {
+      "basename": "Classical utilitarianism is too demanding",
+      "path": "6 - Notes/6.a - Claims/Classical utilitarianism is too demanding.md"
+    },
+    {
+      "basename": "TIPS yields are not a good proxy for real interest rates",
+      "path": "6 - Notes/6.a - Claims/TIPS yields are not a good proxy for real interest rates.md"
     },
     {
       "basename": "Long-term bond yields are driven by expectations of inflation, not worries about government debt",
@@ -18,15 +34,7 @@
     },
     {
       "basename": "Free will and responsibility are not mutually exclusive",
-      "path": "1 - Unsorted/Free will and responsibility are not mutually exclusive.md"
-    },
-    {
-      "basename": "glossary",
-      "path": "definitions/glossary.md"
-    },
-    {
-      "basename": "Retributive punishment is never justified",
-      "path": "6 - Notes/6.a - Claims/Retributive punishment is never justified.md"
+      "path": "6 - Notes/6.a - Claims/Free will and responsibility are not mutually exclusive.md"
     },
     {
       "basename": "In Defense of Tip Culture",
@@ -117,10 +125,6 @@
       "path": "6 - Notes/6.a - Claims/Pure time preference is irrational.md"
     },
     {
-      "basename": "Classical utilitarianism is only possible in a world where people are perfectly altruistic",
-      "path": "6 - Notes/6.a - Claims/Classical utilitarianism is only possible in a world where people are perfectly altruistic.md"
-    },
-    {
       "basename": "Dominant-end moral theories fail",
       "path": "6 - Notes/6.a - Claims/Dominant-end moral theories fail.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "art collection",
       "path": "2 - Source Material/art collection.base"
-    },
-    {
-      "basename": "The Sound and the Fury",
-      "path": "2 - Source Material/2.a - Books/The Sound and the Fury.md"
     }
   ],
   "omittedPaths": [],

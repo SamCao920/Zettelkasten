@@ -20,6 +20,6 @@ There are three reasons Rawls identifies why the right is not the same thing as 
 3. The explication of the principles of justice must be conducted from behind the Veil of Ignorance, while goodness requires the full knowledge of particulars in the world.
 All these principles imply a **priority of right** such that what is right overrides claims of what is good. This means that perverse utilitarian outcomes, such as when a majority suppresses the rights of a minority with order to satisfy their own good, cannot occur.
 ## References
-- [[Classical utilitarianism is only possible in a world where people are perfectly altruistic]]
+- [[Classical utilitarianism is too demanding]]
 	- If they are not, the priority of rights is required, and thus utilitarianism is disqualified as a valid system of justice.
 - [[Average utilitarianism is more justifiable for rational agents than classical utilitarianism]]

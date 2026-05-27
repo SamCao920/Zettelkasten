@@ -1,6 +1,6 @@
 ---
 created: 2026-04-30T21:19:22-07:00
-updated: 2026-05-26T12:44:34-07:00
+updated: 2026-05-27T12:24:33-07:00
 def-type: consolidated
 ---
 # Secondary Balancer
@@ -913,7 +913,7 @@ Ex. Hedonism, Utilitarianism, Eudaimonism, etc.
 
 ---
 
-# hyperobject
+# Hyperobject
 
 *hyper-object*
 
