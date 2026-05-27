@@ -1,10 +1,9 @@
 ---
 created: 2025-08-24T20:39:58-07:00
-updated: 2025-10-27T19:09:34-07:00
+updated: 2026-05-27T12:12:22-07:00
 tags:
   - chemistry
   - biology
-  - bonds
 citations:
 ---
 ## Summary

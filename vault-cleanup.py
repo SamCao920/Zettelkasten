@@ -2,20 +2,23 @@
 """
 vault-cleanup.py
 ================
-Run with Obsidian closed:
+Run ONCE on each computer (with Obsidian closed) to:
+  1. Delete all *-SamsComputer* files everywhere (vault, .obsidian, .git internals)
+  2. Delete machine-specific workspace/plugin data files
+  3. Delete duplicate/conflict note copies
+  4. Remove stale .git/index.lock
+  5. Untrack from git index anything that now matches the new .gitignore
+  6. Stage the Hormones rename and Free will note move
+  7. Install the .githooks/ directory so git auto-cleans after every future sync
+  8. Register a Windows Task Scheduler job (runs vault-auto-clean.py on login)
+  9. Commit and push
 
+After this, everything is automatic — no manual runs needed.
+
+Usage:
     cd "C:/Users/Fangyuan Cao/OneDrive/Documents/Obsidian/Learning"
-    python vault-cleanup.py
-
-What it does:
-  1. Physically deletes all *-SamsComputerX* files everywhere
-     (vault files, .obsidian/ files, and .git/ internal backups)
-  2. Physically deletes machine-specific workspace/plugin data files
-  3. Deletes duplicate/conflict note copies
-  4. Removes stale .git/index.lock
-  5. Untracks anything matching the new .gitignore that's still in the index
-  6. Stages the Hormones rename and Free will note move
-  7. Commits everything
+    python vault-cleanup.py           # real run
+    python vault-cleanup.py --dry-run # preview only
 """
 
 import sys
@@ -39,7 +42,7 @@ def run(cmd, check=True, read_only=False):
     if result.stderr.strip():
         print(f"    STDERR: {result.stderr.strip()[:300]}")
     if check and result.returncode != 0:
-        print(f"  [!] Command exited {result.returncode}")
+        print(f"  [!] exited {result.returncode}")
     return result
 
 
@@ -52,7 +55,10 @@ def delete_file(path: Path, reason: str = ""):
     if path.exists():
         print(f"  DELETE{label}: {rel}")
         if not DRY_RUN:
-            path.unlink()
+            try:
+                path.unlink()
+            except OSError as e:
+                print(f"  [!] Could not delete: {e}")
         return True
     return False
 
@@ -66,29 +72,21 @@ if DRY_RUN:
     print("DRY RUN — no files will be touched.\n")
 
 
-# ── Step 1: Physical deletion of ALL *-SamsComputer* files ───────────────────
-# Covers: .git/ internals (index-*, ORIG_HEAD-*, COMMIT_EDITMSG-*, FETCH_HEAD-*,
-#          logs/HEAD-*, logs/refs/heads/master-*, info/refs-*)
-#         .obsidian/ (workspace-*, community-plugins-*, plugin data-*)
-#         definitions/ (dedup_log-*, glossary.md-*.bak is left alone per user)
-#         vault notes (any *-SamsComputer*.md that shouldn't exist)
+# ── Step 1: Delete ALL *-SamsComputer* files ──────────────────────────────────
 section("1. Delete ALL *-SamsComputer* files (vault + .obsidian + .git internals)")
 
-sams_deleted = 0
-# Walk the entire vault directory, including .git and .obsidian
+count = 0
 for path in sorted(VAULT.rglob("*-SamsComputer*")):
     if path.is_file():
         delete_file(path)
-        sams_deleted += 1
+        count += 1
+print(f"  Total: {count} file(s)")
 
-print(f"  Total: {sams_deleted} file(s)")
 
+# ── Step 2: Delete machine-specific .obsidian / definitions files ─────────────
+section("2. Delete machine-specific .obsidian and definitions files")
 
-# ── Step 2: Delete machine-specific workspace/plugin data files ───────────────
-section("2. Delete machine-specific .obsidian files (all variants)")
-
-# Patterns relative to vault root
-delete_patterns = [
+extra_patterns = [
     ".obsidian/workspace-*.json",
     ".obsidian/community-plugins-*.json",
     ".obsidian/plugins/recent-files-obsidian/data-*.json",
@@ -97,7 +95,7 @@ delete_patterns = [
     "definitions/dedup_log-*.txt",
 ]
 
-extra_deleted = 0
+count = 0
 for path in sorted(VAULT.rglob("*")):
     if not path.is_file():
         continue
@@ -105,15 +103,10 @@ for path in sorted(VAULT.rglob("*")):
         rel = str(path.relative_to(VAULT)).replace("\\", "/")
     except ValueError:
         continue
-    for pattern in delete_patterns:
-        if fnmatch(rel, pattern):
-            # Skip if already deleted in step 1
-            if path.exists():
-                delete_file(path, "machine-specific")
-                extra_deleted += 1
-            break
-
-print(f"  Total: {extra_deleted} file(s)")
+    if path.exists() and any(fnmatch(rel, p) or fnmatch(path.name, p) for p in extra_patterns):
+        delete_file(path, "machine-specific")
+        count += 1
+print(f"  Total: {count} file(s)")
 
 
 # ── Step 3: Delete duplicate/conflict note copies ─────────────────────────────
@@ -136,8 +129,8 @@ if not delete_file(lock, "stale lock"):
     print("  No lock file (already clean)")
 
 
-# ── Step 5: Untrack from git index anything still matching new .gitignore ─────
-section("5. Untrack files from git index that are now gitignored")
+# ── Step 5: Untrack anything still in index that now matches .gitignore ───────
+section("5. Untrack gitignored files from git index")
 
 tracked_result = run(["git", "ls-files"], check=False, read_only=True)
 all_tracked = tracked_result.stdout.splitlines()
@@ -154,17 +147,14 @@ untrack_patterns = [
 
 to_untrack = [
     p for p in all_tracked
-    if any(
-        fnmatch(p, pat) or fnmatch(Path(p).name, pat)
-        for pat in untrack_patterns
-    )
+    if any(fnmatch(p, pat) or fnmatch(Path(p).name, pat) for pat in untrack_patterns)
 ]
 
 if to_untrack:
-    print(f"  Untracking {len(to_untrack)} file(s) from index...")
+    print(f"  Untracking {len(to_untrack)} file(s)...")
     run(["git", "rm", "--cached", "--ignore-unmatch", "--"] + to_untrack)
 else:
-    print("  Nothing left to untrack (already clean from previous run)")
+    print("  Nothing left to untrack")
 
 
 # ── Step 6: Stage note renames and moves ─────────────────────────────────────
@@ -176,33 +166,97 @@ if (VAULT / hormones_new).exists():
     print("  Staging Hormones rename...")
     run(["git", "rm", "--cached", "--ignore-unmatch", "--", hormones_old])
     run(["git", "add", "--", hormones_new])
+    print("  OK")
+else:
+    print(f"  [!] {hormones_new} not found")
 
 fw_old = "6 - Notes/6.a - Claims/Free will and responsibility are not mutually exclusive.md"
 fw_new = "1 - Unsorted/Free will and responsibility are not mutually exclusive.md"
 fw_path = VAULT / fw_new
 if fw_path.exists():
-    print("  Fixing permissions on Free will note...")
     if not DRY_RUN:
-        import getpass
-        user = getpass.getuser()
-        subprocess.run(
-            ["icacls", str(fw_path), "/grant", f"{user}:(F)"],
-            capture_output=True
-        )
+        import getpass, subprocess as sp
+        sp.run(["icacls", str(fw_path), "/grant", f"{getpass.getuser()}:(F)"],
+               capture_output=True)
     print("  Staging Free will note move (6 - Notes -> 1 - Unsorted)...")
     run(["git", "rm", "--cached", "--ignore-unmatch", "--", fw_old])
     run(["git", "add", "--", fw_new])
+    print("  OK")
 else:
     print(f"  [!] {fw_new} not found — skipping")
 
 
-# ── Step 7: Stage config changes and commit ───────────────────────────────────
-section("7. Stage config changes and commit")
+# ── Step 7: Install .githooks so future syncs auto-clean ─────────────────────
+section("7. Install git hooks (auto-clean after every future sync)")
+
+# Point git at the tracked .githooks/ directory
+run(["git", "config", "core.hooksPath", ".githooks"])
+print("  git config core.hooksPath .githooks — done")
+
+# Make hook scripts executable (needed on Mac/Linux; harmless on Windows)
+for hook in [".githooks/post-merge", ".githooks/post-rewrite"]:
+    hook_path = VAULT / hook
+    if hook_path.exists() and not DRY_RUN:
+        hook_path.chmod(0o755)
+    print(f"  chmod +x {hook} — done")
+
+# Also stage the new hook files and auto-clean script
+run(["git", "add", "--", ".githooks/post-merge", ".githooks/post-rewrite"])
+run(["git", "add", "--", "vault-auto-clean.py"])
+print("  Hooks and auto-clean script staged")
+
+
+# ── Step 8: Register Windows Task Scheduler login job (safety net) ────────────
+section("8. Register Windows Task Scheduler login trigger")
+
+task_name = "ObsidianVaultAutoClean"
+python_exe = sys.executable
+script = str(VAULT / "vault-auto-clean.py")
+
+# Use schtasks (available on all Windows without requiring elevation)
+ps_cmd = (
+    f'$action = New-ScheduledTaskAction -Execute "{python_exe}" -Argument "{script}"; '
+    f'$trigger = New-ScheduledTaskTrigger -AtLogOn; '
+    f'$settings = New-ScheduledTaskSettingsSet -ExecutionTimeLimit (New-TimeSpan -Minutes 2); '
+    f'Register-ScheduledTask -TaskName "{task_name}" -Action $action '
+    f'-Trigger $trigger -Settings $settings -Force'
+)
+
+result = run(
+    ["powershell", "-NonInteractive", "-Command", ps_cmd],
+    check=False,
+)
+if not DRY_RUN and result.returncode != 0:
+    print("  [!] Task Scheduler registration failed (may need to run as Administrator).")
+    print(f"      Task name: {task_name}")
+    print(f"      Script:    {script}")
+    print("      You can register it manually in Task Scheduler if needed.")
+else:
+    print(f"  Task '{task_name}' registered — runs vault-auto-clean.py at each login")
+
+
+# ── Step 9: Stage config changes and commit ───────────────────────────────────
+section("9. Stage config changes and commit")
+
 run(["git", "add", "--", ".gitignore"])
 run(["git", "add", "--", ".obsidian/plugins/obsidian-git/data.json"])
 run([
     "git", "commit", "--allow-empty", "-m",
-    "chore: vault cleanup - delete conflict copies, fix gitignore, rebase sync",
+    "chore: vault cleanup - delete conflict copies, auto-clean hooks, rebase sync",
 ])
+run(["git", "push"])
 
-print("\n" + "="*60 + "\n  Done! Run: git push\n" + "="*60)
+print("\n" + "="*60)
+print("  Done! Auto-clean is now fully set up.")
+print("="*60)
+print("""
+What happens automatically from now on:
+  - After every obsidian-git sync: .githooks/post-rewrite fires
+    and calls vault-auto-clean.py to delete any *-SamsComputer* files.
+  - At every Windows login: Task Scheduler runs vault-auto-clean.py
+    as a safety net for anything created between syncs.
+  - The .gitignore blocks any stragglers from ever being committed.
+
+On each additional computer: run this script once to install the hooks
+and Task Scheduler job on that machine too.
+""")

@@ -1,0 +1,5 @@
+#!/bin/sh
+# Runs automatically after every `git pull --merge` (obsidian-git sync).
+# Cleans up *-SamsComputer* conflict copies and machine-specific junk files.
+VAULT="$(git rev-parse --show-toplevel)"
+python3 "$VAULT/vault-auto-clean.py" 2>/dev/null || python "$VAULT/vault-auto-clean.py" 2>/dev/null || true
