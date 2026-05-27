@@ -1,3 +1,26 @@
+# ── Machine-specific Obsidian state ──────────────────────────────────────────
+# Main workspace layout (Obsidian rewrites this on every open)
 .obsidian/workspace.json
+# Per-machine workspace variants created by obsidian-git conflict handling
+.obsidian/workspace-*.json
+# Per-machine community-plugins lists
+.obsidian/community-plugins-*.json
+# Machine-specific plugin data files (recent files, omnisearch index, pandoc cache)
+.obsidian/plugins/recent-files-obsidian/data*.json
+.obsidian/plugins/omnisearch/data*.json
+.obsidian/plugins/obsidian-pandoc-reference-list/data-*.json
+# Obsidian internal caches
 .obsidian/cache
+.obsidian/.cache
+
+# ── Conflict-copy leftovers ────────────────────────────────────────────────────
+# obsidian-git appends -SamsComputerN to files it can't merge; never commit these
+*-SamsComputer*.md
+*-SamsComputer*.json
+*-SamsComputer*.txt
+
+# ── Obsidian trash ────────────────────────────────────────────────────────────
 .trash
+
+# ── Deduplication run logs (generated, not source) ───────────────────────────
+definitions/dedup_log*.txt
