@@ -1,0 +1,12 @@
+{
+  "activePreset": "Default",
+  "activeFullscreenPreset": "Default",
+  "separateFullscreenPreset": false,
+  "presets": {
+    "Default": {}
+  },
+  "presetsOrder": [
+    "Default"
+  ],
+  "version": "2.1.4"
+}
