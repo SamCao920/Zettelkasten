@@ -2196,3 +2196,9 @@
 2026-05-27 17:34:25  Running deduplication (Obsidian closed).
 2026-05-27 17:34:25  Scan complete — no issues found.
 2026-05-28 23:14:31  Running deduplication (Obsidian opened).
+2026-05-28 23:14:31  Scan complete — no issues found.
+2026-05-28 23:19:31  Running deduplication (periodic check).
+2026-05-28 23:19:31  Scan complete — no issues found.
+2026-05-28 23:24:31  Running deduplication (periodic check).
+2026-05-28 23:24:31  Scan complete — no issues found.
+2026-05-28 23:29:31  Running deduplication (periodic check).
