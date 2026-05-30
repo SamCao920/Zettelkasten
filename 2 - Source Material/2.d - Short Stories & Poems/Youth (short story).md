@@ -3,7 +3,7 @@ aliases:
 author:
   - Joseph Conrad
 created: 2026-05-30T14:37:10-07:00
-updated: 2026-05-30T14:41:02-07:00
+updated: 2026-05-30T14:46:52-07:00
 tags:
   - philosophy
   - literature
@@ -19,5 +19,5 @@ Here, Marlow recalls his first voyage to the East aboard the _Judea_, a shabby 
 ## Significance
 One of Conrad’s most famous short stories.
 ## Explanation
-- [[Struggles during our youth is meaningful]]
+- [[Struggles during youth are meaningful]]
 ## References

@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Only when moribund do we have a clear perspective on our own life",
-      "path": "6 - Notes/6.a - Claims/Only when moribund do we have a clear perspective on our own life.md"
-    },
-    {
       "basename": "bookshelf",
       "path": "2 - Source Material/bookshelf.base"
+    },
+    {
+      "basename": "Only when moribund do we have a clear perspective on our own life",
+      "path": "6 - Notes/6.a - Claims/Only when moribund do we have a clear perspective on our own life.md"
     },
     {
       "basename": "On Liberty",
@@ -19,10 +19,6 @@
     {
       "basename": "East of Eden",
       "path": "2 - Source Material/2.a - Books/East of Eden.md"
-    },
-    {
-      "basename": "Youth (short story)",
-      "path": "1 - Unsorted/Youth (short story).md"
     },
     {
       "basename": "To Build A Fire",
@@ -195,10 +191,6 @@
     {
       "basename": "The Future of Freedom",
       "path": "2 - Source Material/2.a - Books/The Future of Freedom.md"
-    },
-    {
-      "basename": "Capitalism and Freedom",
-      "path": "2 - Source Material/2.a - Books/Capitalism and Freedom.md"
     }
   ],
   "omittedPaths": [],

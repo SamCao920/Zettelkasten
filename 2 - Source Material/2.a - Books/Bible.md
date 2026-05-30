@@ -2,12 +2,13 @@
 aliases:
 author:
 created: 2026-01-31T11:54:45-08:00
-updated: 2026-05-21T11:16:50-07:00
+updated: 2026-05-30T14:48:49-07:00
 tags:
   - religion/Christianity
   - religion/Judaism
   - philosophy/religion/God
   - religion/Islam
+  - religion
 citations:
   - https://www.bibleref.com/
 done:
