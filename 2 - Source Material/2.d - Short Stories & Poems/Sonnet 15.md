@@ -3,7 +3,7 @@ aliases:
 author:
   - William Shakespeare
 created: 2026-05-04T12:11:18-07:00
-updated: 2026-05-04T12:24:35-07:00
+updated: 2026-05-30T14:38:50-07:00
 tags:
   - literature/poetry
   - philosophy/fate
@@ -12,6 +12,7 @@ tags:
 citations:
   - https://www.poetryfoundation.org/poems/45086/sonnet-15-when-i-consider-everything-that-grows
 done:
+cover: https://upload.wikimedia.org/wikipedia/commons/0/09/Sonnet_15_1609.jpg
 ---
 ## Summary
 A poem about love and growth.

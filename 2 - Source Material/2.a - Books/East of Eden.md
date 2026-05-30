@@ -3,7 +3,7 @@ aliases:
 author:
   - John Steinbeck
 created: 2026-02-03T20:38:51-08:00
-updated: 2026-03-09T13:46:59-07:00
+updated: 2026-05-30T14:42:52-07:00
 tags:
   - literature/novel
   - philosophy/axiology/ethics
@@ -14,7 +14,7 @@ done: true
 cover: https://g.christianbook.com/dg/product/cbd/f450/86395.jpg
 ---
 ## Summary
-An epic family saga regarding the lives of the Hamiltons and Trasks.
+A sweeping family saga set in California’s Salinas Valley that follows the intertwined lives of the Trask and Hamilton families across generations. At its center are the Trask brothers, Adam and Charles, and later Adam’s twin sons, Aron and Cal, whose struggle with jealousy, love, guilt, and the search for identity echoes the biblical story of Cain and Abel. The novel explores the idea of *timshel*—the belief that people are not doomed by fate or sin but have the power to choose between good and evil.
 ## Significance
 This is considered to be Steinbeck’s best work, and one of the best American novels ever written.
 ## Themes & Ideas

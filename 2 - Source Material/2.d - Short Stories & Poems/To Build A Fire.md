@@ -3,7 +3,7 @@ aliases:
 author:
   - Jack London
 created: 2025-12-26T15:38:26-08:00
-updated: 2026-03-11T20:38:00-07:00
+updated: 2026-05-30T14:39:16-07:00
 tags:
   - literature
   - survival
@@ -14,6 +14,7 @@ tags:
 citations:
   - https://americanenglish.state.gov/files/ae/resource_files/to-build-a-fire.pdf
 done: true
+cover: https://m.media-amazon.com/images/I/81jd8E6yypL._AC_UF1000,1000_QL80_.jpg
 ---
 ## Summary
 A story about a man who travels through the wild with his dog, and eventually succumbs to the pressures imposed by nature.
