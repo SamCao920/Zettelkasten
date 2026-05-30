@@ -2,8 +2,9 @@ views:
   - type: cards
     name: Table
     filters:
-      and:
+      or:
         - file.folder == "2 - Source Material/2.a - Books"
+        - file.folder == "2 - Source Material/2.d - Short Stories & Poems"
     order:
       - file.name
       - tags

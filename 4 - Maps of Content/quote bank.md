@@ -1,12 +1,16 @@
 ---
 created: 2025-09-29T17:55:12-07:00
-updated: 2026-05-05T23:34:38-07:00
+updated: 2026-05-30T14:34:41-07:00
 ---
+- *By all that’s wonderful, it is the sea, I believe, the sea itself—or is it youth alone? Who can tell? But you here—you all had something out of life: money, love— whatever one gets on shore—and, tell me, wasn’t that the best time, that time when we were young at sea; young and had nothing, on the sea that gives nothing, except hard knocks—and sometimes a chance to feel your strength—that only—what you all regret?*
+	- Marlow, from *Youth* by Joseph Conrad
+- *I remember the drawn faces, the dejected figures of my two men, and I remember my youth and the feeling that will never come back any more—the feeling that I could last for ever, outlast the sea, the earth, and all men; the deceitful feeling that lures us on to joys, to perils, to love, to vain effort—to death; the triumphant conviction of strength, the heat of life in the handful of dust, the glow in the heart that with every year grows dim, grows cold, grows small, and expires—and expires, too soon— before life itself.*
+	- Marlow, from *Youth* by Joseph Conrad
 - The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.
 	- Marcel Proust
 - *[[Frankenstein, or, The modern Prometheus.pdf#page=258&selection=10,35,15,37|Did you not call this a glorious expedition? And wherefore was it glorious? Not because the way was smooth and placid as a southern sea, but because it was full of dangers and terror; because, at every new incident, your fortitude was to be called forth, and your courage exhibited; because danger and death surrounded it, and these you were to brave and overcome.]]*
 	- Victor Frankenstein to the crew of Robert Walton from *Frankenstein*, Chapter 7 Vol. 3 
-- [[Frankenstein, or, The modern Prometheus.pdf#page=258&selection=25,8,27,70|Oh! be men, or be more than men. Be steady to your purposes, and firm as a rock. This ice is not made of such stuff as your hearts may be; it is mutable, and cannot withstand you, if you say that it shall not.]]
+- *[[Frankenstein, or, The modern Prometheus.pdf#page=258&selection=25,8,27,70|Oh! be men, or be more than men. Be steady to your purposes, and firm as a rock. This ice is not made of such stuff as your hearts may be; it is mutable, and cannot withstand you, if you say that it shall not.]]*
 	- Victor Frankenstein to the crew of Robert Walton from *Frankenstein*, Chapter 7 Vol. 3 
 - *But it is nice for a mediocre man to know that greatness must be the loneliest state in the world.*
 	- Samuel Hamilton to Lee and Adam from *East of Eden*, page 264
