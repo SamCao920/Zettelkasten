@@ -3,7 +3,7 @@ aliases:
 author:
   - Ernest Hemingway
 created: 2026-05-29T15:26:57-07:00
-updated: 2026-05-31T15:38:02-07:00
+updated: 2026-05-31T15:55:49-07:00
 tags:
   - literature
   - literature/short-story
@@ -30,4 +30,9 @@ This is one of Hemmingway’s most acclaimed short stories.
 It seems more likely to me that the ending is an ironic trick, since it never seems to me that Hemmingway changes Harry’s perspective on his life. While during this story, Harry gains a deeper understanding of his faults, I think that the message would be much more profound if Harry were not able to be immediately save, since that would be unrealistic. Harry has already lived a lifetime of “sin”, and he doesn’t get to achieve redemption just because he realized that he was sinning.
 His failure to leave the safari can be analogized to the fact that he is unable to escape his “sin?”
 
+The leopard is representative of Harry, as they both seek something greater, but they die before achieving that.
+
+### Possible Theses
+1. Harry is having regrets due to the fact that he could have written 
+2. 
 ## References
