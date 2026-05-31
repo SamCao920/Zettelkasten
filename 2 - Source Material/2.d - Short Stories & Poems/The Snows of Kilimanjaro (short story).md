@@ -3,7 +3,7 @@ aliases:
 author:
   - Ernest Hemingway
 created: 2026-05-29T15:26:57-07:00
-updated: 2026-05-30T14:44:32-07:00
+updated: 2026-05-31T15:38:02-07:00
 tags:
   - literature
   - literature/short-story
@@ -23,7 +23,11 @@ This is one of Hemmingway’s most acclaimed short stories.
 - [[Distractions prevent us from fulfilling our life goals]]
 	- In his distractions, Harry failed to live a “fulfilling” life.
 - [[Only when moribund do we have a clear perspective on our own life]]
+- Italics:
+	- 
 **Is the final flight scene a moment of redemption or self-deception?**
 - Is the fact that this section is unitalicized because Harry achieved salvation (perhaps not through doing the right thing, but at least realizing his wrong and being able to see the right), or it is an ironic trick to show the way that Harry’s delusion tricked both himself to the audience in a direct manner.
 It seems more likely to me that the ending is an ironic trick, since it never seems to me that Hemmingway changes Harry’s perspective on his life. While during this story, Harry gains a deeper understanding of his faults, I think that the message would be much more profound if Harry were not able to be immediately save, since that would be unrealistic. Harry has already lived a lifetime of “sin”, and he doesn’t get to achieve redemption just because he realized that he was sinning.
+His failure to leave the safari can be analogized to the fact that he is unable to escape his “sin?”
+
 ## References
