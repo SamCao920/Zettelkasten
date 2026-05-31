@@ -2334,3 +2334,5 @@
 2026-05-30 14:46:50  Scan complete — no issues found.
 2026-05-30 14:48:10  Running deduplication (file modified).
 2026-05-30 14:48:10  Scan complete — no issues found.
+2026-05-30 14:49:00  Running deduplication (Obsidian closed).
+2026-05-30 14:49:00  Scan complete — no issues found.
