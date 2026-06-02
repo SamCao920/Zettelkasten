@@ -1,11 +1,12 @@
 ---
 aliases:
 author:
+  - Polybius
 created: 2026-06-02T10:06:19-07:00
-updated: 2026-06-02T12:04:35-07:00
+updated: 2026-06-02T12:55:16-07:00
 tags:
   - history
-  - history/Roman-Republic
+  - history/ancient/Roman-Republic
   - literature/Ancient
 citations:
   - https://theswissbay.ch/pdf/Books/Ancient%20history/Polybius%20-%20The%20Histories%20-%20Robin%20Waterfield.pdf

@@ -5,7 +5,7 @@ updated: 2026-01-23T23:12:20-08:00
 tags:
   - literature
   - history
-  - history/Ancient-Greece
+  - history/ancient/Greece
 citations: "[[Oedipus the King (play)]]"
 ---
 ## Summary

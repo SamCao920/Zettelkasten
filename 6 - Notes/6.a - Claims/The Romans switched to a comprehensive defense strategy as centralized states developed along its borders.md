@@ -5,7 +5,7 @@ updated: 2025-12-17T13:28:52-08:00
 tags:
   - history
   - war/strategy
-  - history/Roman-Empire
+  - history/ancient/Roman-Empire
 citations:
   - https://www.youtube.com/watch?v=ymMR_TJt4go&feature=youtu.be
 ---
