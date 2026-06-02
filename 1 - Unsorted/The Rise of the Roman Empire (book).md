@@ -2,7 +2,7 @@
 aliases:
 author:
 created: 2026-06-02T10:06:19-07:00
-updated: 2026-06-02T11:50:49-07:00
+updated: 2026-06-02T12:04:35-07:00
 tags:
   - history
   - history/Roman-Republic
@@ -19,9 +19,12 @@ This is one of the main sources for historians with regards to the rise of the R
 ## Themes & Ideas
 - [[Hannibal was an excellent tactician, but poor grand strategist]] 
 - [[Divided leadership compromises the effectiveness of an army]]
+- [[Cavalry were effective in ancient warfare because of the mobility asymmetry that they created]]
 ## Tactics Compendium
 - The use both a contravallation and circumvallation in the Siege of Agrigentum by the Romans, a tactic that would later by employed by Caesar during the Gallic Wars (specifically the Siege of Alesia).
 - The use of the *corvus*, a long, hinged stick with a metal hook at the end, which would have been used against Carthaginian vessels to pull them closer to the Roman vessels and thus neutralize the power of their fleet.
 - Hannibal’s crossing of the Alps and the Arno Marshes, which allowed him to penetrate deep into Roman territory without encountering much resistance.
-- 
+- At the Battle of the Trebia, Hannibal ensures that when the time came for the armies to engage, while the Romans had to ford a river and were left without eating breakfast, the Carthaginians were well-prepared.
+- At the Battle of Cannae, the use of a convex line which drew the Romans in and eventually produced a concave shape that allowed for the envelopment of the Roman army.
+- At the Battle of Ager Falernus, although Hannibal was trapped in the Capuan valleys, he was able to use a herd of oxen with torches attached to their horns in order to distract the Romans and escape.
 ## References
