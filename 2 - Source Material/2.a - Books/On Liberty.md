@@ -3,7 +3,7 @@ aliases:
 author:
   - John Stuart Mill
 created: 2026-05-25T11:50:37-07:00
-updated: 2026-06-02T17:43:14-07:00
+updated: 2026-06-02T18:05:59-07:00
 tags:
   - philosophy
   - philosophy/Utilitarianism
@@ -25,4 +25,5 @@ One of the foundational works on liberalism.
 - [[A social truth is one which is able to be challenged]]
 - [[Through synthesis of the heretical and orthodox opinions, we arrive closer to the real truth]]
 - [[Christian morality entails passive obedience to authority]]
+- [[Democracies are doomed to mediocrity since they are ultimately, on average, subject to mediocre people]]
 ## References

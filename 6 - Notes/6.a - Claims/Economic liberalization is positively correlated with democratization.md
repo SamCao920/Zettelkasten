@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2025-10-15T06:46:28-07:00
-updated: 2025-10-27T19:09:34-07:00
+updated: 2026-06-02T18:09:46-07:00
 tags:
   - economics
   - economics/capitalism
@@ -24,7 +24,6 @@ There are at least two main observations that could explain this correlation:
 Some argue that countries such as the UAE, Hong Kong, or Singapore stand as proof that economic liberalization does not indicate a growth in democracy, though I would argue that these nations are not truly capitalist, incorporating far more dirigisme and neo-mercantilist elements.
 
 ## References
-- [[Capitalism is killing democracy]]
 - [[Democracy and capitalism are mutually incompatible]]
 - [[Many East Asian countries are dirigisme and neo-mercantilist]]
 - [[China is characterized by a strong state, while India is characterized by a strong society]]

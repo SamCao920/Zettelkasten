@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-06-01T20:51:30-07:00
-updated: 2026-06-01T21:00:42-07:00
+updated: 2026-06-02T18:03:19-07:00
 tags:
   - politics
   - politics/authoritarianism
