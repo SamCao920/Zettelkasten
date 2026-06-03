@@ -1,11 +1,12 @@
 ---
 aliases:
 created: 2025-11-22T17:04:11-08:00
-updated: 2025-11-22T20:29:11-08:00
+updated: 2026-06-03T12:08:14-07:00
 tags:
   - economics
-  - economics
   - ai
+  - economics/competition
+  - economics/welfare
 citations: https://archive.is/tj5Xq
 ---
 ## Summary
@@ -17,4 +18,5 @@ How AI could make markets more efficient depends on two factors:
 1. People have to know how to correctly use AI, since that is the only way for its benefits to manifest.
 2. How AI is used by retailers or suppliers, which could affect how much of an advantage the consumer gets.
 ## Reference
-- [[AI's Adoption Pace and Economic Impact A Comparative Study]]
+- [[Capital's share of income will rise in the future due to AI]]
+	- This is a potential for increased inequality, though the thing described in this note should lower inequality.

@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2025-11-09T22:50:08-08:00
-updated: 2025-11-09T22:54:51-08:00
+updated: 2026-06-03T12:02:50-07:00
 tags:
   - ai
   - ai/llm
@@ -12,4 +12,3 @@ When you are attempting to elicit a response from a LLM that is based off some s
 ## Significance
 This helps one understand how to use an LLM in the most effective way.
 ## Reference
-- [[The context window is the 'working memory' of an LLM]]

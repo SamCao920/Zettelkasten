@@ -1,6 +1,6 @@
 ---
 created: 2026-02-10T22:44:44-08:00
-updated: 2026-02-10T22:48:26-08:00
+updated: 2026-06-03T12:07:14-07:00
 aliases:
 tags:
   - ecology
@@ -30,4 +30,3 @@ This disputes the narrative that AI can only increase inequality and argues for 
 ## References
 - [[AI has the potential to eliminate information asymmetry in markets]]
 	- This describes another potential way that AI could help individuals.
-- [[AI's Adoption Pace and Economic Impact A Comparative Study]]

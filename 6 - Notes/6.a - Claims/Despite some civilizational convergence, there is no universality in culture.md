@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-03-27T20:04:38-07:00
-updated: 2026-03-28T23:00:34-07:00
+updated: 2026-06-03T12:02:12-07:00
 tags:
   - culture
   - history
@@ -35,3 +35,5 @@ This refutes the idea that there is some universal cultural element to humanity.
 	- Specific example of the current note.
 - [[The IMF and World Bank have been criticized for promoting Western neocolonial interests]]
 	- This is an example of this note in practice.
+- [[Hoppes describes the 'process of civilization' as one where time preferences diminish]]
+	- But this seems to be something that happens universally has civilizations become more advanaced?

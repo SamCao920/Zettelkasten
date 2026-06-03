@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-01-25T18:15:21-08:00
-updated: 2026-06-03T11:55:49-07:00
+updated: 2026-06-03T11:57:16-07:00
 tags:
   - philosophy
   - philosophy/metaphysics/free-will
@@ -24,4 +24,4 @@ The Basic Argument
 - [[Determinism and free will are incompatible]]
 	- This note makes the two notes above irrelevant.
 - [[The Frankfurt Cases argue against the Principle of Alternative Possibilities]]
-	- Another cir
+	- Another critique of free will.

@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-05-27T12:11:12-07:00
-updated: 2026-05-27T12:16:16-07:00
+updated: 2026-06-03T12:11:40-07:00
 tags:
   - finance
   - finance/bonds
@@ -17,3 +17,5 @@ This argues against the thesis that long-term bond yields are the result of peop
 ## Explanation
 Debt levels do matter somewhat for countries with credible central banks, though the main driver of long-term bond yields is still inflation.
 ## References
+- [[TIPS yields are not a good proxy for real interest rates]]
+	- Even if this note is true, it is not immediately applicable in the case of TIPS.

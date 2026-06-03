@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-03-16T10:56:50-07:00
-updated: 2026-03-16T11:11:14-07:00
+updated: 2026-06-03T12:09:01-07:00
 tags:
   - economics
   - immigration
@@ -29,3 +29,5 @@ This challenges the ideas that immigration is bad for the economy.
 ## References
 - [[In the US, direct state expenditures are often 'submerged' through indirect tax breaks]]
 	- Likewise, many tax receipts are not properly documented due to the existence of things like payroll taxes.
+- [[Compensating differentials partly explain why jobs have different pay]]
+	- Some of these immigrants may be more likely to take more dangerous jobs.

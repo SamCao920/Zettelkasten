@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-05-27T12:20:44-07:00
-updated: 2026-05-27T12:24:33-07:00
+updated: 2026-06-03T12:11:32-07:00
 tags:
   - finance
   - economics/interest

@@ -20,3 +20,5 @@ Market anomalies exist for three main reaons:
 ## Reference
 - [[Markets help allocate resources efficiently, mobilizes savings, fund innovation]]
 - [[Financial momentum is predictive of the outcome of a prediction market]]
+- [[Institutional investors ensure that individual firm are correctly priced]]
+	- Helps provide price information in markets.

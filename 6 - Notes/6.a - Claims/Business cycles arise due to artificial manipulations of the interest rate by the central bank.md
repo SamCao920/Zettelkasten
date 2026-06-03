@@ -1,9 +1,8 @@
 ---
 aliases:
 created: 2025-12-25T17:55:05-08:00
-updated: 2025-12-25T17:59:52-08:00
+updated: 2026-06-03T12:00:01-07:00
 tags:
-  - economics
   - economics
   - economics/interest
   - economics/Austrian
@@ -16,3 +15,6 @@ This is the Austrian explanation for the existence of the business cycle, and th
 ## References
 - [[The Savings and Loan Crisis was caused by interest rate shocks, risky investments, and regulatory failure]]
 	- The artificial manipulation of the interest by the central bank during this period of time could be fit as the factor that ultimately lead to the collapse of thrift banks.
+- [[Mainstream economics’ need for assumptions in their models justifies government intervention into the economy]]
+	- Perhaps it is due to these interventions that bubbles are caused.
+- 

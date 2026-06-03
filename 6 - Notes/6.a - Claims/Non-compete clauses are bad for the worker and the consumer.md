@@ -1,6 +1,6 @@
 ---
 created: 2026-02-10T22:52:05-08:00
-updated: 2026-05-05T23:18:18-07:00
+updated: 2026-06-03T12:09:32-07:00
 aliases:
 tags:
   - economics

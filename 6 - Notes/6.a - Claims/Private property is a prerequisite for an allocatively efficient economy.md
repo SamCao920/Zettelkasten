@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2025-12-19T21:12:15-08:00
-updated: 2025-12-19T21:30:01-08:00
+updated: 2026-06-03T12:01:41-07:00
 tags:
   - economics
   - economics/Austrian
@@ -20,3 +20,7 @@ Prices also allow for the calculation of profit and loss, which can be used to d
 	- This relates to the ideas about markets that are described in this note.
 - [[Private property facilitates trade]]
 	- Another idea that relates to the concepts discussed herein.
+- [[Socialism has a Knowledge Problem]]
+	- Without private property, the state has to perform economic calculation, which it cannot.
+- [[Securing a good may increase its value, but security does not necessarily mean greater value]]
+	- This describes some particularities with private property.
