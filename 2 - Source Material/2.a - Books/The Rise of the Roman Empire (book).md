@@ -18,9 +18,12 @@ Polybius’ Histories is a 40-book work that explains how Rome rose from a regio
 ## Significance
 This is one of the main sources for historians with regards to the rise of the Roman Republic.
 ## Themes & Ideas
+### Historical Narrative
 - [[Hannibal was an excellent tactician, but poor grand strategist]] 
 - [[Divided leadership compromises the effectiveness of an army]]
 - [[Cavalry were effective in ancient warfare because of the mobility asymmetry that they created]]
+### Roman State
+
 ## Tactics Compendium
 - The use both a contravallation and circumvallation in the Siege of Agrigentum by the Romans, a tactic that would later by employed by Caesar during the Gallic Wars (specifically the Siege of Alesia).
 - The use of the *corvus*, a long, hinged stick with a metal hook at the end, which would have been used against Carthaginian vessels to pull them closer to the Roman vessels and thus neutralize the power of their fleet.
