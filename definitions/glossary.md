@@ -1,6 +1,6 @@
 ---
 created: 2026-04-30T21:19:22-07:00
-updated: 2026-05-30T14:48:09-07:00
+updated: 2026-06-03T11:54:52-07:00
 def-type: consolidated
 ---
 # Secondary Balancer
@@ -922,7 +922,7 @@ Ex. the banking system, the government, etc.
 
 ---
 
-# circumvallation
+# Circumvallation
 
 *circumvallations*
 
@@ -930,6 +930,6 @@ A defense system built by besiegers facing the besieged.
 
 ---
 
-# contravallation
+# Contravallation
 
 A defense system built by besiegers facing away from the besieged to protect themselves from forces allied to the besieged.

@@ -1,6 +1,6 @@
 ---
 created: 2026-06-03T11:27:30-07:00
-updated: 2026-06-03T11:37:02-07:00
+updated: 2026-06-03T11:44:20-07:00
 aliases:
 tags:
   - philosophy
@@ -15,7 +15,10 @@ The idea that modern progressive activism was shaped by the Frankfurt School, th
 This explains the ideological origins of the modern progressive activism movement.
 ## Explanation
 - The Frankfurt School practiced *negative dialectics*, which involved describing a concept by what it is not.
-- The Frank
+- The Frankfurt School opposed political activism, since they opposed propaganda and the adulteration of their philosophy with propaganda.
 - They also invented the method of examining society not just through the economic substructure, but also, directly from the cultural superstructure.
 The modern progressivism has adopted the second of these and has weakened the central philosophical core of the first move through critique as merely critique, and nothing more.
+Herbert Marcuse was the person who took Frankfurt School philosophy out of the abstract and began advocating for political activism.
 ## References
+- [[The bias of researchers manifest clearly through their research (typically left)]]
+	- This is part of the influence of the Frankfurt School.

@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-01-25T18:15:21-08:00
-updated: 2026-01-25T20:20:14-08:00
+updated: 2026-06-03T11:55:49-07:00
 tags:
   - philosophy
   - philosophy/metaphysics/free-will
@@ -20,3 +20,8 @@ The Basic Argument
 ## Responses
 - [ ] [How do philosophers respond to Galen Strawson’s Argument Against Free Will? : r/askphilosophy](https://www.reddit.com/r/askphilosophy/comments/1blchp1/how_do_philosophers_respond_to_galen_strawsons/)
 ## References
+- [[Determinism and free will are compatible]]
+- [[Determinism and free will are incompatible]]
+	- This note makes the two notes above irrelevant.
+- [[The Frankfurt Cases argue against the Principle of Alternative Possibilities]]
+	- Another cir
