@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2025-12-21T19:14:06-08:00
-updated: 2026-06-03T12:26:26-07:00
+updated: 2026-06-03T12:26:54-07:00
 tags:
   - politics
   - research
