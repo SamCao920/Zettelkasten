@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2025-10-15T06:46:28-07:00
-updated: 2026-06-02T18:09:46-07:00
+updated: 2026-06-02T18:10:16-07:00
 tags:
   - economics
   - economics/capitalism
