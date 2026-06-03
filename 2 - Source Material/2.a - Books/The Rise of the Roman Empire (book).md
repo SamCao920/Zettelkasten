@@ -3,7 +3,7 @@ aliases:
 author:
   - Polybius
 created: 2026-06-02T10:06:19-07:00
-updated: 2026-06-02T12:55:16-07:00
+updated: 2026-06-02T20:46:30-07:00
 tags:
   - history
   - history/ancient/Roman-Republic
@@ -22,8 +22,14 @@ This is one of the main sources for historians with regards to the rise of the R
 - [[Hannibal was an excellent tactician, but poor grand strategist]] 
 - [[Divided leadership compromises the effectiveness of an army]]
 - [[Cavalry were effective in ancient warfare because of the mobility asymmetry that they created]]
-### Roman State
-
+### Explications on Political Systems
+Polybius argues that political systems follow this cycle:
+1. People follow the strongest leader, and one leader eventually starts a **kingship** where they are virtuous. 
+2. The kingship deteriorates into a **tyranny** and the people overthrow it.
+3. The people establish an **aristocracy**, which is likewise corrupted and becomes an **oligarchy**.
+4. People overthrow the oligarchy and establish a **democracy**.
+5. The democracy eventually deteriorates into anarchy, and the cycle repeats.
+- [[The Roman Republican political system is incredibly stable due to its composite construction]]
 ## Tactics Compendium
 - The use both a contravallation and circumvallation in the Siege of Agrigentum by the Romans, a tactic that would later by employed by Caesar during the Gallic Wars (specifically the Siege of Alesia).
 - The use of the *corvus*, a long, hinged stick with a metal hook at the end, which would have been used against Carthaginian vessels to pull them closer to the Roman vessels and thus neutralize the power of their fleet.
