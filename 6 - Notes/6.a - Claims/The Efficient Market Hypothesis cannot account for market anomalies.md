@@ -1,11 +1,10 @@
 ---
 aliases:
 created: 2025-11-19T07:00:45-08:00
-updated: 2025-11-19T07:12:18-08:00
+updated: 2026-06-03T12:12:54-07:00
 tags:
   - economics
   - finance
-  - economics
 citations: ""
 ---
 ## Summary
@@ -19,6 +18,8 @@ Market anomalies exist for three main reaons:
 3. Humans are not perfectly rational and they may make mistakes or suffer data issues.
 ## Reference
 - [[Markets help allocate resources efficiently, mobilizes savings, fund innovation]]
+	- What markets do when they are well structured.
 - [[Financial momentum is predictive of the outcome of a prediction market]]
+	- An anomaly that disobeys the EMH.
 - [[Institutional investors ensure that individual firm are correctly priced]]
 	- Helps provide price information in markets.

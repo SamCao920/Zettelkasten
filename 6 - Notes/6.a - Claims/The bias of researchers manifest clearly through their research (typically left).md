@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2025-12-21T19:14:06-08:00
-updated: 2026-02-14T22:23:27-08:00
+updated: 2026-06-03T12:26:26-07:00
 tags:
   - politics
   - research
@@ -17,3 +17,5 @@ This means that much of the science that comes out of researchers, especially in
 ## Note
 - This does not regard a particular orientation, since while left-leaning researchers tend to find conclusions that support their political belief, right-leaning researches tend to find conclusions that support their political belief.
 ## References
+- [[American white males are underrepresented in academia and media in lower-level positions, and overrepresented in upper level positions]]
+	- In fact, this is the case even in hiring.

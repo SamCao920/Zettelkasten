@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2025-09-05T17:29:31-07:00
-updated: 2025-11-09T10:58:54-08:00
+updated: 2026-06-03T12:19:30-07:00
 tags:
   - China
   - India
@@ -20,6 +20,12 @@ It seems that although modern day China is highly centralized, it is up to debat
 I think that China’s centralization is in part due to its long history, its relative power compared to surrounding states (due to its geography), and the evolution of a national identity. So, because China’s state institutions have had a long time to develop, they were able to slowly establish frameworks for centralizing the state. Although there are periods of instability of fracturing, ultimately, the goal of any fracture state is not to remain independent, but “reclaim China.” Likewise, its relative lack of outsider influence means that it has been able to remain relative isolated and develop a unified identity. Today, modern technology has made it a lot easier to run a highly centralized state.
 ## References
 - [[Hinduism’s tolerance of other belief systems limits religion conflicts in India]]
+	- This could partly explain the weak state in India.
 - [[The Imperial Chinese Civil Service Exams represent a meritocracy]]
+	- The way that the state does not collapse in on itself is through its channels of meritocracy.
 - [[Interpersonal relations in the Confucian tradition are characterized by power imbalance]]
+	- This continues to be the case in China, and is perhaps made worse by the strong state control.
 - [[Geography can influence the way the manner in which states form and the actions they take]]
+	- China’s geography influenced the strengthen of its state.
+- [[Xi Jinping seeks to establish a revolutionary spirit to maintain ideological purity and prevent institutional decay]]
+	- This is an example of the strong state, since Xi is actually trying and maybe able to cultivate a revolutionary spirit.

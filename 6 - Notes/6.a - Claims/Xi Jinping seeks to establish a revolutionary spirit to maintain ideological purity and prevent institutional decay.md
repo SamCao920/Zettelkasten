@@ -1,6 +1,6 @@
 ---
 created: 2025-12-19T21:48:07-08:00
-updated: 2025-12-19T21:55:16-08:00
+updated: 2026-06-03T12:17:06-07:00
 aliases:
 tags:
   - politics

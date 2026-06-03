@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-03-22T19:42:15-07:00
-updated: 2026-03-22T19:47:41-07:00
+updated: 2026-06-03T12:16:40-07:00
 tags:
   - politics
   - politics/geopolitics
@@ -23,3 +23,5 @@ Though it will not expand militarily, it will instead want to ensure that the na
 - To remain aligned with Chinese economic goals.
 - To support Chinese culture and Chinese people.
 ## References
+- [[Daoism argues for self-sufficiency and withdrawal from worldly affairs]]
+	- This approach to foreign policy may be fundamentally rooted in Daoism.

@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-01-20T18:00:36-08:00
-updated: 2026-01-20T19:44:56-08:00
+updated: 2026-06-03T12:14:55-07:00
 tags:
   - politics
   - politics/geopolitics

@@ -2,7 +2,7 @@
 aliases: ""
 author: Thomas Mulligan
 created: 2026-04-12
-updated: 2026-04-18T21:22:07-07:00
+updated: 2026-06-03T12:22:57-07:00
 citations:
   - https://plato.stanford.edu/archives/fall2023/entries/meritocracy/
 done: true
@@ -93,3 +93,5 @@ For *procedural democrats* all that matters is that the principles associated wi
 ### Libertarianism
 The meritocratic distributive rule of hiring on the basis of merit violates the libertarian right to contract. Additionally, Hayek gives the critique that a meritocratic economy may not be the most efficient, since letting people choose what they want to do maximizes surplus, while choosing based on merit might not.
 ## References
+- [[Belief in meritocracy makes people behave more unfairly]]
+	- A consequence of meritocracy.

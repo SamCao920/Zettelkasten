@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-05-27T12:20:44-07:00
-updated: 2026-06-03T12:11:32-07:00
+updated: 2026-06-03T12:14:29-07:00
 tags:
   - finance
   - economics/interest
@@ -18,3 +18,5 @@ The common reasoning is that since TIPS are adjusted for inflation, that would m
 2. Investors typically demand a liquidity premium on TIPS, since they are harder to transact than other bonds. 
 These two factors combined means that, depending on which factor is stronger at a particular moment, they could radically misrepresent the true real interest rate.
 ## References
+- [[Business cycles arise due to artificial manipulations of the interest rate by the central bank]]
+	- (1) in this note may be an example of government manipulation of the interest rates.

@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-03-22T19:58:25-07:00
-updated: 2026-03-22T20:05:40-07:00
+updated: 2026-06-03T12:16:14-07:00
 tags:
   - politics
   - China
@@ -19,7 +19,7 @@ This has implications for US foreign policy towards China.
 ## Explanation
 This is fundamentally derived through the regression towards the mean, as China has historically been dominant in East Asia, and has only become weak after its contact with the West. China is predicted to regress towards the mean, i.e., the state whereby China is the dominant power in East Asia.
 ## References
-- [[Extreme observations tend toward the mean on subsequent measurements]]
-	- This ties into the idea that China being weak is an outlier event that will eventually regress towards the mean of China being a dominant power.
 - [[China grows its influence with non-expansionary means]]
 	- China is likely to enforce this dominance through non-expansionary means.
+- [[The around 60% of China’s total trade goes through the Malacca Straight]]
+	- This could potentially be a barrier to China’s domination.

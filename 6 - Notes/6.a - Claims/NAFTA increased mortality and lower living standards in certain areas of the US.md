@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-03-02T22:46:09-08:00
-updated: 2026-03-02T22:52:43-08:00
+updated: 2026-06-03T12:20:14-07:00
 tags:
   - economics/trade
   - economics
@@ -22,3 +22,5 @@ There was a sharp increase in mortality when trade barriers are lifted for manuf
 - Accounting for all of this, the net welfare is actually a loss (-0.45% of annual consumption for a 45-year-old male).
 Trade shocks specifically effect people in manufacturing sectors, and cause adverse effects. There are studies that show how recessions actually make people healthier, but recessions (such as the one in 2008), typically largely affect service and non-manufacturing roles.
 ## References
+- [[Free trade is generally beneficial for those involved]]
+	- This note would contradict this linked note.

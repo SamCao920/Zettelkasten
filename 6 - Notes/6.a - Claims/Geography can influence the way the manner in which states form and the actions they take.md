@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2025-09-05T17:24:37-07:00
-updated: 2026-03-27T19:46:59-07:00
+updated: 2026-06-03T12:26:02-07:00
 tags:
   - geography
   - history
@@ -15,3 +15,4 @@ This is significant as geography has influenced the way that many civilizations 
 
 ## Reference
 - [[China is characterized by a strong state, while India is characterized by a strong society]]
+- [[The Rashidun conquest was made possible by geography and unique political economy]]

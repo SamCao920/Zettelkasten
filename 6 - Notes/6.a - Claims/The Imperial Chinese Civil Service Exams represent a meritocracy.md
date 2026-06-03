@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2025-09-09T09:03:55-07:00
-updated: 2025-10-27T19:09:34-07:00
+updated: 2026-06-03T12:22:18-07:00
 tags:
   - China
   - hiearchy
@@ -16,4 +16,6 @@ This explains the highly efficient Imperial Chinese state institutions, as the C
 
 ## Reference
 - [[China is characterized by a strong state, while India is characterized by a strong society]]
+	- This could partly be sustained by the meritocracy.
 - [[The scholar-gentry embodied Confucianism in imperial Chinese state institutions]]
+	- They were formed through meritocracy.
