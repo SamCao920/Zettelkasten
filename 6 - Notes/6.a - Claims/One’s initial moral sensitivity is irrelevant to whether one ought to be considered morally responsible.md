@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2025-12-27T21:03:33-08:00
-updated: 2025-12-27T21:25:18-08:00
+updated: 2026-06-01T20:48:39-07:00
 tags:
   - philosophy
   - philosophy/axiology/ethics

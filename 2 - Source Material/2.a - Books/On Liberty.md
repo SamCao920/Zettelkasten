@@ -3,7 +3,7 @@ aliases:
 author:
   - John Stuart Mill
 created: 2026-05-25T11:50:37-07:00
-updated: 2026-06-01T18:00:40-07:00
+updated: 2026-06-02T17:43:14-07:00
 tags:
   - philosophy
   - philosophy/Utilitarianism
@@ -20,4 +20,9 @@ Argues that individuals should be free to think, speak, and live as they choose,
 One of the foundational works on liberalism.
 ## Themes & Ideas
 - [[‘Tyranny of the majority’ or cancel culture suppresses individuality]]
+- [[One ought no be held responsible if in not doing so, they act better, or if doing so produces more evil]]
+- [[Censorship is bad for everyone]]
+- [[A social truth is one which is able to be challenged]]
+- [[Through synthesis of the heretical and orthodox opinions, we arrive closer to the real truth]]
+- [[Christian morality entails passive obedience to authority]]
 ## References
