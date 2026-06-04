@@ -2468,3 +2468,9 @@
 2026-06-04 09:12:55  Interval: 5 min | Poll: 10s | Cooldown: 5s
 2026-06-04 09:24:25  Running deduplication (Obsidian opened).
 2026-06-04 09:24:25  Fixed 97 issue(s). Backup: glossary.md.bak
+2026-06-04 09:29:30  Running deduplication (periodic check).
+2026-06-04 09:29:30  Scan complete — no issues found.
+2026-06-04 09:34:30  Running deduplication (periodic check).
+2026-06-04 09:34:30  Scan complete — no issues found.
+2026-06-04 09:39:30  Running deduplication (periodic check).
+2026-06-04 09:39:30  Scan complete — no issues found.
