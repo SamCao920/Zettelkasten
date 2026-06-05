@@ -1,7 +1,7 @@
 ---
 aliases:
-created:
-updated:
+created: 2026-06-04T20:37:41-07:00
+updated: 2026-06-04T20:40:41-07:00
 tags:
   - history
   - history/ancient/Roman-Republic
