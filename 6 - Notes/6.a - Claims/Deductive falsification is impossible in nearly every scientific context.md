@@ -8,8 +8,8 @@ tags:
   - science
 citations:
   - https://civil.colorado.edu/~balajir/CVEN6833/bayes-resources/RM-StatRethink-Bayes.pdf
-feature: 1 - Unsorted/Pasted image 20260606095613.png
-thumbnail: thumbnails/resized/b006d72af7085bf16465b27ff79f1977_86cf658e.webp
+feature: 0 - Assets/0.e - In-text Images/Pasted image 20260606095613.png
+thumbnail: thumbnails/resized/adf884f76063f017582cb6ae3bd3a4bf_86cf658e.webp
 ---
 ## Summary
 Under most circumstances, the act of falsifying never reduces to clean deduction.
