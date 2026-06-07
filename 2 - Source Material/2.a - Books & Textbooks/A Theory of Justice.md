@@ -1,0 +1,97 @@
+---
+aliases:
+author:
+  - John Rawls
+created: 2026-03-30T10:58:56-07:00
+updated: 2026-05-24T18:25:12-07:00
+tags:
+  - philosophy
+  - philosophy/political
+  - politics
+  - philosophy/justice
+citations:
+  - "[[A Theory of Justice.pdf]]"
+done: true
+feature: 0 - Assets/0.e - In-text Images/Pasted image 20260422181024.png
+thumbnail: thumbnails/resized/674aeeca39056e8e3e77b2225ce1607e_86cf658e.webp
+cover: https://m.media-amazon.com/images/I/61qBPy8AGZL._AC_UF1000,1000_QL80_.jpg
+---
+## Summary
+One of the foundational works in politics philosophy in contemporary philosophy.
+## Significance
+This is crucial for understanding the view of justice that is developed/reference by many contemporary academics.
+## Themes & Ideas
+### The Original Position & Methodology
+- [[Justice has lexical priority over other societal concerns]]
+- [[While most people share a common set of fundamental beliefs regarding justice, more broadly, conceptions differ]]
+- [[Justice as fairness is specifically designed for a closed, well-ordered society]]
+- [[Justice as fairness would be accepted by free, rational, and prudential persons]]
+- [[The theory of justice is in large part the theory of rational choice]]
+- [[A good conception of justice is one that aligns with our intuitions and also structures more controversial moral topics]]
+- [[Rawls' Reflective Equilibrium.canvas]]
+- [[We should accept the methodological approach of the original position, even though it is hypothetical]]
+- [[The priority problem has several solutions]]
+### The Two Principles of Justice
+![[Pasted image 20260422181024.png]]
+- [[Only realized institutions can be judged to be just or unjust]]
+- [[A principle must satisfy generality, universality, publicity, ordering, and finality in order to be a candidate principle in the original position]]
+- [[Justice and injustice can manifest in-whole, discretely, or through sum-threshold criteria]]
+- [[Each person has equal basic rights most extensively compatible with similar liberties for others]]
+- [[Social and economic inequalities are to satisfy the Difference Principle and Fair Equality of Opportunity]]
+- [[Justice as fairness does not apply to individual dealings with specific people, only to institutions]]
+- [[Career open to talents does not mitigate social nor natural contingencies]]
+- [[The principle of efficiency does not mitigate natural contingencies]]
+- [[Rawls optimally assumes that expectations are close-knit and chain-connected]]
+- [[Pure procedural justice is the most practical form of justice to evaluate the basic structure with]]
+- [[Fair equality of opportunity is a precondition for pure procedural justice]]
+- [[Fair equality of opportunity is lexically before the difference principle]]
+- [[The difference principle has definite advantages over utilitarianism]]
+- [[What is good for a person is a rational long-term plan of life given reasonably favorable circumstances]]
+- [[The expectations of representative men are defined by the index of primary goods available to them]]
+- [[There are two considerations relevant to social positions, which are the existence of equal citizenship, and where someone is in the distribution of wealth]]
+- [[The basic structure is not responsible for inequalities in associations which one enters voluntarily]]
+- [[The difference principle embodies the idea that natural contingencies are commonly shared between members of a society]]
+- [[The difference principle expresses reciprocity]]
+- [[The difference principle expresses fraternity]]
+### Arguments for Justice as Fairness
+- [[Rational agents would be risk-averse in the original position]]
+- [[A society where the worst off are extremely sensitive to their circumstances at the expense of the best off is impossible]]
+- [[Average utilitarianism is more justifiable for rational agents than classical utilitarianism]] 
+- [[The principle of insufficient reason is false]]
+- [[Justice as fairness fosters self-respect and societal harmony]]
+- [[Classical utilitarianism is too demanding]]
+### Liberty & Political Application
+- [[The intolerant must mostly be tolerated]]
+- [[Liberty can only be restricted in order to protect or strengthen the overall system of equal basic liberties]]
+- [[Paternalistic decisions are to be guided by an individual’s settled preferences]]
+- [[People are not apportioned a greater share of liberties beyond a certain limit of their capacity for justice]]
+### Theory of the Good & Stability
+- [[Moral principles originate from rational choice]]
+- [[The Thin Theory of the Good serves as a standard framework for agents to consider in the original position]]
+- [[Self-respect is the most important primary good]]
+- [[Excellencies are positive externalities]]
+- [[Shame can be natural or moral]]
+- [[The right is not the same as the good]]
+- [[Having a moral personality is sufficient for the full protections of justice]]
+- [[In a Rawlsian society, people would be educated for autonomy]]
+- [[Human social relations are non-trivial]]
+- [[Dominant-end moral theories fail]]
+- [[The congruence problem is easier solved by contract theories rather than utilitarian ones]]
+- [[A contract theory is justified, not merely proved]]
+## References
+- [[Nicomachean Ethics]]
+	- These two books overlap substantially on ethics and justice. Rawls' thin theory of the good is an explicit evolution of Aristotle's account, and several atomic notes (e.g., [[What is good for a person is a rational long-term plan of life given reasonably favorable circumstances]]) draw the connection directly.
+- [[Meritocracy]]
+	- Contains a dedicated section on Rawls' four critiques of meritocracy (no desert, impracticability of tracking merit, incompatibility with public reason, insufficiently democratic). Connects directly to [[Career open to talents does not mitigate social nor natural contingencies]] and [[The principle of efficiency does not mitigate natural contingencies]].
+- [[Justice and the Meritocratic State]]
+	- Mulligan's defense of desert directly targets Rawls' no-desert argument. His response — that genetics are metaphysically essential to a person and thus a valid desert base — is the most developed reply to [[The difference principle embodies the idea that natural contingencies are commonly shared between members of a society]].
+- [[Justice, Equal Opportunity, and the Family]]
+	- Fishkin explicitly draws on Rawls' pure procedural justice. His trilemma (Merit + Equality of Life Chances + Family Autonomy) exposes structural limits of [[Fair equality of opportunity is a precondition for pure procedural justice]] when family autonomy is taken seriously.
+- [[A Diachronic Rejection of Meritocracy]]
+	- Builds directly on Rawls' distinction between natural and social contingencies, and on pure procedural justice, to argue that desert-based meritocracy is self-defeating in liberal societies.
+- [[Capitalism and Freedom]]
+	- Friedman's thesis that economic freedom is the precursor to political freedom stands in direct tension with Rawls' lexical priority of equal basic liberties over economic gains (see [[Fair equality of opportunity is lexically before the difference principle]]).
+- [[Defending the One Percent]]
+	- Mankiw explicitly attacks the Rawlsian veil of ignorance, arguing it generates unintuitive conclusions (e.g., mandatory organ donation). Also contests the empirical premise that income inequality is primarily rent-seeking rather than talent-driven.
+- [[Free Will (SEP)]]
+	- Rawls' claim that natural talents are "morally arbitrary" implicitly presupposes that agents bear no moral responsibility for unchosen traits — a claim that sits at the intersection of moral luck and compatibilism debates covered here.

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Statistical Rethinking",
+      "path": "1 - Unsorted/Statistical Rethinking.md"
+    },
+    {
       "basename": "inbox",
       "path": "1 - Unsorted/inbox.md"
     },
@@ -14,7 +18,7 @@
     },
     {
       "basename": "The Rise of the Roman Empire (book)",
-      "path": "2 - Source Material/2.a - Books/The Rise of the Roman Empire (book).md"
+      "path": "2 - Source Material/2.a - Books & Textbooks/The Rise of the Roman Empire (book).md"
     },
     {
       "basename": "The Romans learned from the people they conquered",
@@ -162,7 +166,7 @@
     },
     {
       "basename": "On Liberty",
-      "path": "2 - Source Material/2.a - Books/On Liberty.md"
+      "path": "2 - Source Material/2.a - Books & Textbooks/On Liberty.md"
     },
     {
       "basename": "We must tolerate, even celebrate eccentric people in society",
@@ -195,10 +199,6 @@
     {
       "basename": "A social truth is one which is able to be challenged",
       "path": "6 - Notes/6.a - Claims/A social truth is one which is able to be challenged.md"
-    },
-    {
-      "basename": "One ought no be held responsible if in not doing so, they act better, or if doing so produces more evil",
-      "path": "6 - Notes/6.a - Claims/One ought no be held responsible if in not doing so, they act better, or if doing so produces more evil.md"
     }
   ],
   "omittedPaths": [],
