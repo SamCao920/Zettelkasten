@@ -3,7 +3,7 @@ aliases:
 author:
   - "Richard McElreath\r"
 created: 2026-06-07T16:39:25-07:00
-updated: 2026-06-08T09:43:07-07:00
+updated: 2026-06-08T10:04:28-07:00
 tags:
   - math
   - math/statistics/Bayesian
@@ -43,4 +43,15 @@ globe(200, 4, 3)
 # (3) LWWLWWW
 globe(1000, 7, 5)
 ```
+**2M3**
+$$
+P(L|E)= \frac{P(E,L)}{P(E)} = P(L|E)= \frac{P(E,L)}{0.5}
+$$
+$$
+P(L|E)= \frac{P(E|L)P(L)}{0.5} = P(L|E)= \frac{0.23(0.5\times 0.3 + 0.5)}{0.5}
+$$
+$$
+0.7= \frac{0.23(0.5\times 0.3 + 0.5)}{0.5}
+\square
+$$
 ## References
