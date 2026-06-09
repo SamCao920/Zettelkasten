@@ -3,7 +3,7 @@ aliases:
 author:
   - "Richard McElreath\r"
 created: 2026-06-07T16:39:25-07:00
-updated: 2026-06-08T10:04:28-07:00
+updated: 2026-06-09T07:35:34-07:00
 tags:
   - math
   - math/statistics/Bayesian
@@ -16,7 +16,7 @@ A Bayesian statistics textbook that emphasizes intuitive thinking about inferenc
 ## Significance
 That textbook teachers Bayesian statistics, something that I am interested in.
 ## Practice
-### 2.6
+### Chapter 2
 **2E4**: It would mean that from the point of the person making the statement, based on the knowledge that they have (which may be and is likely at least somewhat inaccurate), they think that the probability that there is water on a random location on an Earth globe has water.
 **2M1**
 ```r
@@ -54,4 +54,48 @@ $$
 0.7= \frac{0.23(0.5\times 0.3 + 0.5)}{0.5}
 \square
 $$
+### Chapter 3
+# 3M1
+**3M1**
+```R
+p_grid <- seq(0, 1, length.out=100)
+prior <- rep(1, 100)
+likelihood <- dbinom(8, 15, prob=p_grid)
+posterior <- (likelihood * prior)/(sum(likelihood * prior))
+df <- data.frame(p_grid, posterior)
+
+ggplot(df, aes(p_grid, posterior)) +
+  geom_line() +
+  theme_bw()
+```
+**3M2**
+```R
+samples_p <- sample(p_grid, prob=posterior, 10000, replace=TRUE)
+hist(samples_p)
+HPDI(samples_p, 0.9)
+```
+**3M3**
+```R
+posterior_pred <- rbinom(10000, 15, prob=samples_p)
+hist(posterior_pred)
+probability <- length(posterior_pred[posterior_pred==8])/length(posterior_pred)
+```
+**3M4**
+```R
+posterior_pred1 <- rbinom(10000, 9, prob=samples_p)
+hist(posterior_pred)
+probability1 <- length(posterior_pred[posterior_pred==6])/length(posterior_pred)
+```
+**3M5**
+```R
+p_grid <- seq(0, 1, length.out=100)
+prior <- ifelse(p_grid>0.5, 1, 0)
+likelihood <- dbinom(8, 15, prob=p_grid)
+posterior <- (likelihood * prior)/(sum(likelihood * prior))
+df <- data.frame(p_grid, posterior)
+
+ggplot(df, aes(p_grid, posterior)) +
+  geom_line() +
+  theme_bw()
+```
 ## References
