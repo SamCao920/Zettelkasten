@@ -3,13 +3,14 @@ aliases:
 author:
   - "Richard McElreath\r"
 created: 2026-06-07T16:39:25-07:00
-updated: 2026-06-09T07:35:34-07:00
+updated: 2026-06-09T11:12:17-07:00
 tags:
   - math
   - math/statistics/Bayesian
 citations:
   - "[[Statistical Rethinking 2nd Edition.pdf]]"
 done:
+cover: https://m.media-amazon.com/images/I/81cEpsiTCFL._AC_UF1000,1000_QL80_.jpg
 ---
 ## Summary
 A Bayesian statistics textbook that emphasizes intuitive thinking about inference, causality, and model building rather than rote formula manipulation. It teaches how to express scientific questions as probabilistic models, use priors and posterior updating, compare models with information criteria, and reason about uncertainty in a principled way. The book is especially well known for its clear examples, graphics, and use of practical computation in `R` and `Stan`, making advanced statistical ideas accessible to researchers across the natural and social sciences.
