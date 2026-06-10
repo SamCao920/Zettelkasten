@@ -1,6 +1,6 @@
 ---
 created: 2025-10-02T11:01:13-07:00
-updated: 2026-04-02T21:27:56-07:00
+updated: 2026-06-10T10:24:48-07:00
 aliases:
 author:
   - Milton Friedman
@@ -15,7 +15,6 @@ done: true
 Friedman proposes a method of fixing the American health care system through deregulation, gutting of government programs, and returning autonomy to the individual.
 ## Significance
 This is a proposal to fix one of the most often critiqued systems in the US, the health care system, from a Chicago perspective.
-
 ## Notes
 - Two observations explain why there is both high cost and low satisfaction with healthcare in the US
 	1. Most payments for health care are not made by the patient, but by third-parties such as insurance companies.

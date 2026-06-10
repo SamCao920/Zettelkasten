@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-06-10T09:52:48-07:00
-updated: 2026-06-10T10:22:26-07:00
+updated: 2026-06-10T10:24:56-07:00
 tags:
   - economics/health-care
   - economics
@@ -23,9 +23,12 @@ There are several things which point to the fact that the reason for the high co
 	- Even if we were to look at the return on equity, the ROE of health insurance companies are still lower than that of the general population of companies in the S&P 500. Regardless, the financial success of these companies don’t matter, since neither way their small profit margins means that they can’t pay out that much extra health insurance anyways.
 - The majority of the cost comes from the higher cost by providers.
 	- The doctors and hospitals that actually provide care at the largest driver of health care costs, which demand some government intervention in order to negotiate the lower cost of drugs (through if done poorly, this may reduce innovation).
-	- The AMA
 	- Due to the litigious nature of the US health care system, doctors will practice defensive medicine even in ambiguous situation. 
 ## Note
 Americans actually pay a smaller amount out-of-pocket compared to many other rich countries.
 ![[share-of-out-of-pocket-expenditure-on-healthcare.svg|642]]
 ## References
+- [[The Japanese healthcare system is highly socialized]]
+	- Even though their system is highly socialized, it seems that the Japanese pay more out of pocket compared to Americans.
+- [[How to Cure Health Care]]
+	- Some of the points made here are also made in the linked article.
