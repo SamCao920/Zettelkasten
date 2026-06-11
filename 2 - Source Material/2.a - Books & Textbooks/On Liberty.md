@@ -3,7 +3,7 @@ aliases:
 author:
   - John Stuart Mill
 created: 2026-05-25T11:50:37-07:00
-updated: 2026-06-10T22:44:58-07:00
+updated: 2026-06-10T23:30:32-07:00
 tags:
   - philosophy
   - philosophy/Utilitarianism
