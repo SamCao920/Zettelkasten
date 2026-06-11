@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2025-08-25T21:51:21-07:00
-updated: 2025-10-27T19:09:34-07:00
+updated: 2026-06-10T19:29:16-07:00
 tags:
   - history
   - sociology

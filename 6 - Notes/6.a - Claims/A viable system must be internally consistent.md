@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-03-21T09:09:10-07:00
-updated: 2026-03-21T09:25:38-07:00
+updated: 2026-06-10T19:28:53-07:00
 tags:
   - philosophy
   - logic

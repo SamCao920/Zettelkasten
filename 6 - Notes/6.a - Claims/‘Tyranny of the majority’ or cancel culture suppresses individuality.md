@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-06-01T18:00:11-07:00
-updated: 2026-06-02T18:04:15-07:00
+updated: 2026-06-10T19:33:05-07:00
 tags:
   - politics
   - culture
@@ -16,6 +16,8 @@ This shows why tyranny of the majority is bad.
 ## Explanation
 This is bad on an individual level, since people’s unique individualities, something which is at least on some level a good in itself, is destroyed through censorship, which has the effect of making all the same.
 Aldo, this prevents the existence of geniuses who might think in unorthodox ways but end up hugely benefitting society.
+## Note
+This does not mean that we have to be entirely embracing of all people. Ultimately, we must also consider our own interest, though sometimes it may cause disutility for others. For instance, someone who is a compulsive liar might have few friends, though this is not a harm towards them (a suppression of their individuality), but merely a protection of our own interests.
 ## References
 - [[Censorship is bad for everyone]]
 	- This is an elaboration of the concept from this note.
