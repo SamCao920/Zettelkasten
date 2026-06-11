@@ -3,7 +3,7 @@ aliases:
 author:
   - John Stuart Mill
 created: 2026-06-10T12:30:19-07:00
-updated: 2026-06-11T11:08:21-07:00
+updated: 2026-06-11T11:30:35-07:00
 tags:
   - philosophy
   - philosophy/Utilitarianism
@@ -22,6 +22,8 @@ One of the foundational works which explicates the theory of utilitarianism.
 - [[Issues involving justice involve high levels of utility]] 
 - [[All ethical theories are fundamentally teleological]]
 - [[What is good does not need to be ‘proved’]]
-- [[Pleasure and freedom from pain are the only desirable things]]
-- [[Some pleasures are greater than others]]
+- [[Pleasure and freedom from pain are the only desirable things; therefore, they represent the purpose of life]]
+- [[Some pleasures are greater than others]] 
+- [[While its easier for less advanced animals to be satisfied, the more advanced can make the imperfection bearable]]
+- 
 ## References
