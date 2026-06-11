@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "20th-century American presidents have expanded presidential powers beyond their original constitutional intentions",
+      "path": "6 - Notes/6.a - Claims/20th-century American presidents have expanded presidential powers beyond their original constitutional intentions.md"
+    },
+    {
+      "basename": "Utilitarianism (book)",
+      "path": "2 - Source Material/2.a - Books & Textbooks/Utilitarianism (book).md"
+    },
+    {
+      "basename": "A bad system or institution is one where only the incumbents benefit",
+      "path": "6 - Notes/6.a - Claims/A bad system or institution is one where only the incumbents benefit.md"
+    },
+    {
+      "basename": "We ought not to interference with the personal liberties of other individuals",
+      "path": "6 - Notes/6.a - Claims/We ought not to interference with the personal liberties of other individuals.md"
+    },
+    {
       "basename": "While the state is justified in requiring education, it cannot be the only provider of education",
       "path": "6 - Notes/6.a - Claims/While the state is justified in requiring education, it cannot be the only provider of education.md"
     },
@@ -15,14 +31,6 @@
     {
       "basename": "Persons who are born with low but non-negative utility cannot be said to have been ‘harmed’ in their birth",
       "path": "6 - Notes/6.a - Claims/Persons who are born with low but non-negative utility cannot be said to have been ‘harmed’ in their birth.md"
-    },
-    {
-      "basename": "We ought not to interference with the personal liberties of other individuals",
-      "path": "6 - Notes/6.a - Claims/We ought not to interference with the personal liberties of other individuals.md"
-    },
-    {
-      "basename": "Utilitarianism (book)",
-      "path": "2 - Source Material/2.a - Books & Textbooks/Utilitarianism (book).md"
     },
     {
       "basename": "Issues involving justice involve high levels of utility",
@@ -191,14 +199,6 @@
     {
       "basename": "There is a finite amount of compute per token in an LLM",
       "path": "6 - Notes/6.a - Claims/There is a finite amount of compute per token in an LLM.md"
-    },
-    {
-      "basename": "LLMs are not good at counting and manipulating individual characters",
-      "path": "6 - Notes/6.a - Claims/LLMs are not good at counting and manipulating individual characters.md"
-    },
-    {
-      "basename": "To elicit high quality responses from an LLM based on some preexisting content, provide the content in the context window",
-      "path": "6 - Notes/6.a - Claims/To elicit high quality responses from an LLM based on some preexisting content, provide the content in the context window.md"
     }
   ],
   "omittedPaths": [],
