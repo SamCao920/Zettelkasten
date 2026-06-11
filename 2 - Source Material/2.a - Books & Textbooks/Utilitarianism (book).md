@@ -3,7 +3,7 @@ aliases:
 author:
   - John Stuart Mill
 created: 2026-06-10T12:30:19-07:00
-updated: 2026-06-10T21:54:46-07:00
+updated: 2026-06-10T22:51:13-07:00
 tags:
   - philosophy
   - philosophy/Utilitarianism
@@ -19,5 +19,6 @@ A defense of the moral theory that actions are right in proportion as they promo
 ## Significance
 One of the foundational works which explicates the theory of utilitarianism.
 ## Themes & Ideas
-- [[Issues involving justice involve high levels of utility]]
+- [[Issues involving justice involve high levels of utility]] 
+- [[All ethical theories are fundamentally teleological]]
 ## References

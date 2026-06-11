@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "20th-century American presidents have expanded presidential powers beyond their original constitutional intentions",
-      "path": "6 - Notes/6.a - Claims/20th-century American presidents have expanded presidential powers beyond their original constitutional intentions.md"
+      "basename": "On Liberty",
+      "path": "2 - Source Material/2.a - Books & Textbooks/On Liberty.md"
+    },
+    {
+      "basename": "Government should not intervene in the affairs of private individuals in most cases",
+      "path": "1 - Unsorted/Government should not intervene in the affairs of private individuals in most cases.md"
+    },
+    {
+      "basename": "All ethical theories are fundamentally teleological",
+      "path": "1 - Unsorted/All ethical theories are fundamentally teleological.md"
     },
     {
       "basename": "Utilitarianism (book)",
@@ -13,20 +21,24 @@
       "path": "6 - Notes/6.a - Claims/A bad system or institution is one where only the incumbents benefit.md"
     },
     {
-      "basename": "We ought not to interference with the personal liberties of other individuals",
-      "path": "6 - Notes/6.a - Claims/We ought not to interference with the personal liberties of other individuals.md"
+      "basename": "A change in price level produces the Income Effect; a change in net worth produces the Real Wealth Effect",
+      "path": "6 - Notes/6.a - Claims/A change in price level produces the Income Effect; a change in net worth produces the Real Wealth Effect.md"
     },
     {
       "basename": "While the state is justified in requiring education, it cannot be the only provider of education",
       "path": "6 - Notes/6.a - Claims/While the state is justified in requiring education, it cannot be the only provider of education.md"
     },
     {
-      "basename": "On Liberty",
-      "path": "2 - Source Material/2.a - Books & Textbooks/On Liberty.md"
-    },
-    {
       "basename": "The state ought to prevent childbirth in cases where the parents would not be able to support the child",
       "path": "6 - Notes/6.a - Claims/The state ought to prevent childbirth in cases where the parents would not be able to support the child.md"
+    },
+    {
+      "basename": "20th-century American presidents have expanded presidential powers beyond their original constitutional intentions",
+      "path": "6 - Notes/6.a - Claims/20th-century American presidents have expanded presidential powers beyond their original constitutional intentions.md"
+    },
+    {
+      "basename": "We ought not to interference with the personal liberties of other individuals",
+      "path": "6 - Notes/6.a - Claims/We ought not to interference with the personal liberties of other individuals.md"
     },
     {
       "basename": "Persons who are born with low but non-negative utility cannot be said to have been ‘harmed’ in their birth",
@@ -187,18 +199,6 @@
     {
       "basename": "Immigrants of all types are a net benefit to the US",
       "path": "6 - Notes/6.a - Claims/Immigrants of all types are a net benefit to the US.md"
-    },
-    {
-      "basename": "AI has the potential to eliminate information asymmetry in markets",
-      "path": "6 - Notes/6.a - Claims/AI has the potential to eliminate information asymmetry in markets.md"
-    },
-    {
-      "basename": "AI will reduce wage inequality through 'simplification'",
-      "path": "6 - Notes/6.a - Claims/AI will reduce wage inequality through 'simplification'.md"
-    },
-    {
-      "basename": "There is a finite amount of compute per token in an LLM",
-      "path": "6 - Notes/6.a - Claims/There is a finite amount of compute per token in an LLM.md"
     }
   ],
   "omittedPaths": [],

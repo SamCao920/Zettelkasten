@@ -3,7 +3,7 @@ aliases:
 author:
   - John Stuart Mill
 created: 2026-05-25T11:50:37-07:00
-updated: 2026-06-10T22:14:28-07:00
+updated: 2026-06-10T22:44:58-07:00
 tags:
   - philosophy
   - philosophy/Utilitarianism
@@ -31,6 +31,7 @@ One of the foundational works on liberalism.
 - [[One cannot voluntarily choose to lose one’s freedom]]
 - [[While the state is justified in requiring education, it cannot be the only provider of education]]
 - [[The state ought to prevent childbirth in cases where the parents would not be able to support the child]]
+- [[Government should not intervene in the affairs of private individuals in most cases]]
 ## References
 - [[Nicomachean Ethics]]
 	- There is some overlap between these two works, specifically in the way that they both treat the nature of people’s (moral) actions.

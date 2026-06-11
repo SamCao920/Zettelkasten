@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2025-10-09T21:55:06-07:00
-updated: 2025-12-17T14:45:54-08:00
+updated: 2026-06-10T22:47:45-07:00
 tags:
   - economics
   - economics
