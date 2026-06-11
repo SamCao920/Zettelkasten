@@ -3,7 +3,7 @@ aliases:
 author:
   - John Stuart Mill
 created: 2026-06-10T12:30:19-07:00
-updated: 2026-06-11T12:01:34-07:00
+updated: 2026-06-11T12:09:59-07:00
 tags:
   - philosophy
   - philosophy/Utilitarianism
@@ -28,4 +28,5 @@ One of the foundational works which explicates the theory of utilitarianism.
 - [[We shouldn’t calculate utility before each action, but rather construct rules for generally beneficial actions]]
 - [[Classical utilitarianism is too demanding]]
 - [[All humans are innately good]]
+- [[Law is not constitutive of justice]]
 ## References

@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2025-09-15T07:06:08-07:00
-updated: 2025-10-27T19:09:34-07:00
+updated: 2026-06-11T12:07:37-07:00
 tags:
   - philosophy
   - politics
@@ -14,7 +14,7 @@ The idea that when we are first born, we are naturally good. It is rather societ
 ## Significance
 This is important for many different philosophies, for example, Rousseau’s ideas. This also relates to the thought of some Eastern philosophers.
 ## Explanation
-Mill claims that humans innatel
+Mill claims that humans innately want to act in ways which are beneficial to others (in the absence of external reasons).
 ## Reference
 - [[Mencius argued that all humans are innately good, while Xunzi argued that all humans were innately evil]]
 - [[Rousseau believed that society corrupted innately good humans]]
