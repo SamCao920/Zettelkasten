@@ -5,6 +5,10 @@
       "path": "1 - Unsorted/Misaligned systems persist due to competition with misaligned incentives.md"
     },
     {
+      "basename": "glossary",
+      "path": "definitions/glossary.md"
+    },
+    {
       "basename": "Utilitarianism (book)",
       "path": "1 - Unsorted/Utilitarianism (book).md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Catch-22",
       "path": "2 - Source Material/2.a - Books & Textbooks/Catch-22.md"
-    },
-    {
-      "basename": "glossary",
-      "path": "definitions/glossary.md"
     },
     {
       "basename": "Deductive falsification is impossible in nearly every scientific context",

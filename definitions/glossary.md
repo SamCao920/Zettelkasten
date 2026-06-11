@@ -1,6 +1,6 @@
 ---
 created: 2026-04-30T21:19:22-07:00
-updated: 2026-06-06T10:24:59-07:00
+updated: 2026-06-10T19:23:28-07:00
 def-type: consolidated
 ---
 # Secondary Balancer
@@ -548,7 +548,7 @@ Have legal authority over their constituent nations; constituents' sovereignty r
 
 # Race to the Bottom
 
-*Race to the Bottoms*
+*Races to the Bottom*
 
 When countries, to become more competitive on the international market, "race" to lower their regulatory standards to main an edge.
 
