@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-05-05T23:14:26-07:00
-updated: 2026-05-27T12:32:37-07:00
+updated: 2026-06-11T11:56:50-07:00
 tags:
   - philosophy
   - philosophy/justice
@@ -16,6 +16,8 @@ This is part of Rawls’ objection towards classical utilitarianism, because the
 ## Explanation
 Another manifestation of the issue here comes in the form of population ethics. Utilitarians would likely too heavily discount the present in order to increase overall utility, and try to mitigate this through the introduction of a morally irrelevant time preference.
 - In the first case, it is too morally demanding of the current generation. But to solve this, a morally irrelevant factor must be introduced to make a nonsensical claim: that of pure time preference.
+## Mill
+Mill counters this argument by saying that, in generally, we only have to attend to private/communal utility, and someone who is acting as a general benefactor for a huge amount of people is going above and beyond. Therefore, utilitarianism is not actually that demanding, since that it it “demand” is to consider the utility of the people around you.
 ## Contractarianism
 A similar counterargument is presented by Scanlon through his *Reasonable Rejection of Extreme Sacrifice*, whereby an extreme demand for giving others which would leave us destitute would prevent ourselves from being able to carry out our personal projects.
 ## References

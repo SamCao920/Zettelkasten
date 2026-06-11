@@ -3,7 +3,7 @@ aliases:
 author:
   - John Stuart Mill
 created: 2026-06-10T12:30:19-07:00
-updated: 2026-06-11T11:30:35-07:00
+updated: 2026-06-11T12:01:34-07:00
 tags:
   - philosophy
   - philosophy/Utilitarianism
@@ -25,5 +25,7 @@ One of the foundational works which explicates the theory of utilitarianism.
 - [[Pleasure and freedom from pain are the only desirable things; therefore, they represent the purpose of life]]
 - [[Some pleasures are greater than others]] 
 - [[While its easier for less advanced animals to be satisfied, the more advanced can make the imperfection bearable]]
-- 
+- [[We shouldn’t calculate utility before each action, but rather construct rules for generally beneficial actions]]
+- [[Classical utilitarianism is too demanding]]
+- [[All humans are innately good]]
 ## References

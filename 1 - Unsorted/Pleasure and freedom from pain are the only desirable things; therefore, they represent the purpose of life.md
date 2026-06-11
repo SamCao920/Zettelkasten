@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-06-11T11:04:06-07:00
-updated: 2026-06-11T11:32:30-07:00
+updated: 2026-06-11T11:46:52-07:00
 tags:
   - philosophy
   - philosophy/axiology/ethics
@@ -15,7 +15,9 @@ The only desirable things in the world are pleasure and freedom from pain.
 This is the core precept of utilitarianism.
 ## Explanation
 This is the fundamental principle that all utilitarian theories fundamentally subscribe to. Something is only desirable if it gives one pleasure, saves one from pain, or is a means to achieving those two.
-Some critics claim that happiness is unnatainable. 
+Some critics claim that happiness is unattainable. However, it must be said that:
+- at least unhappiness is bad, and 
+- happiness is achievable to some extent, and therefore, the claim that happiness is unattainable is at least exaggerated.
 ## References
 - [[Persons who are born with low but non-negative utility cannot be said to have been ‘harmed’ in their birth]]
 	- This point seems to strengthen the un-paradoxical-ness of the non-identity problem.
