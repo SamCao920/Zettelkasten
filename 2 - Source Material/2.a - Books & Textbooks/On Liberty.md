@@ -3,7 +3,7 @@ aliases:
 author:
   - John Stuart Mill
 created: 2026-05-25T11:50:37-07:00
-updated: 2026-06-10T21:24:44-07:00
+updated: 2026-06-10T21:54:23-07:00
 tags:
   - philosophy
   - philosophy/Utilitarianism
@@ -28,7 +28,8 @@ One of the foundational works on liberalism.
 - [[Democracies are doomed to mediocrity since they are ultimately, on average, subject to mediocre people]] 
 - [[We must tolerate, even celebrate eccentric people in society]]
 - [[We ought not to interference with the personal liberties of other individuals]]
-- [[Contingent injuries ought to be tolerated for the broader protection of individual liberties]]
+- [[One cannot voluntarily choose to lose one’s freedom]]
+- [[While the state is justified in requiring education, it does not have the authority ]]
 ## References
 - [[Nicomachean Ethics]]
 	- There is some overlap between these two works, specifically in the way that they both treat the nature of people’s (moral) actions.
