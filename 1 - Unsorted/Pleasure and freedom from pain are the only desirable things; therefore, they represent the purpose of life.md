@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-06-11T11:04:06-07:00
-updated: 2026-06-11T12:16:07-07:00
+updated: 2026-06-11T12:18:13-07:00
 tags:
   - philosophy
   - philosophy/axiology/ethics
@@ -18,7 +18,7 @@ This is the fundamental principle that all utilitarian theories fundamentally su
 Some critics claim that happiness is unattainable. However, it must be said that:
 - at least unhappiness is bad, and 
 - happiness is achievable to some extent, and therefore, the claim that happiness is unattainable is at least exaggerated.
-Also, according to Mill, we do desire things like justice, though this only means that happiness is co
+Also, according to Mill, we do desire things like virtue, though this only means that happiness has something like virtue as a constituent.
 ## References
 - [[Persons who are born with low but non-negative utility cannot be said to have been ‘harmed’ in their birth]]
 	- This point seems to strengthen the un-paradoxical-ness of the non-identity problem.
