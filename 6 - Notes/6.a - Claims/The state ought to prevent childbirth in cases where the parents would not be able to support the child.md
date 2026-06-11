@@ -1,7 +1,7 @@
 ---
 aliases:
 created: 2026-06-10T22:03:46-07:00
-updated: 2026-06-10T22:07:59-07:00
+updated: 2026-06-10T22:13:46-07:00
 tags:
   - philosophy
   - philosophy/procreation
@@ -19,3 +19,4 @@ Although this might prevent the birth of some children, who would otherwise not 
 That being said, Mill probably justified this in that this policy protects the rights/liberties of the child, which cannot protect its own rights/liberties before it is born.
 ## References
 - [[Persons who are born with low but non-negative utility cannot be said to have been ‘harmed’ in their birth]]
+	- This is a potential counterargument to this claim.

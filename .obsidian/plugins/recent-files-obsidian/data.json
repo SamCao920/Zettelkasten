@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Persons who are born with low but non-negative utility cannot be said to have been ‘harmed’ in their birth",
-      "path": "1 - Unsorted/Persons who are born with low but non-negative utility cannot be said to have been ‘harmed’ in their birth.md"
-    },
-    {
-      "basename": "The state ought to prevent childbirth in cases where the parents would not be able to support the child",
-      "path": "1 - Unsorted/The state ought to prevent childbirth in cases where the parents would not be able to support the child.md"
+      "basename": "While the state is justified in requiring education, it cannot be the only provider of education",
+      "path": "6 - Notes/6.a - Claims/While the state is justified in requiring education, it cannot be the only provider of education.md"
     },
     {
       "basename": "On Liberty",
       "path": "2 - Source Material/2.a - Books & Textbooks/On Liberty.md"
     },
     {
+      "basename": "The state ought to prevent childbirth in cases where the parents would not be able to support the child",
+      "path": "6 - Notes/6.a - Claims/The state ought to prevent childbirth in cases where the parents would not be able to support the child.md"
+    },
+    {
+      "basename": "Persons who are born with low but non-negative utility cannot be said to have been ‘harmed’ in their birth",
+      "path": "6 - Notes/6.a - Claims/Persons who are born with low but non-negative utility cannot be said to have been ‘harmed’ in their birth.md"
+    },
+    {
       "basename": "We ought not to interference with the personal liberties of other individuals",
-      "path": "1 - Unsorted/We ought not to interference with the personal liberties of other individuals.md"
+      "path": "6 - Notes/6.a - Claims/We ought not to interference with the personal liberties of other individuals.md"
     },
     {
       "basename": "Utilitarianism (book)",
@@ -22,7 +26,7 @@
     },
     {
       "basename": "Issues involving justice involve high levels of utility",
-      "path": "1 - Unsorted/Issues involving justice involve high levels of utility.md"
+      "path": "6 - Notes/6.a - Claims/Issues involving justice involve high levels of utility.md"
     },
     {
       "basename": "glossary",
@@ -30,7 +34,7 @@
     },
     {
       "basename": "One cannot voluntarily choose to lose one’s freedom",
-      "path": "1 - Unsorted/One cannot voluntarily choose to lose one’s freedom.md"
+      "path": "6 - Notes/6.a - Claims/One cannot voluntarily choose to lose one’s freedom.md"
     },
     {
       "basename": "‘Tyranny of the majority’ or cancel culture suppresses individuality",
@@ -195,10 +199,6 @@
     {
       "basename": "To elicit high quality responses from an LLM based on some preexisting content, provide the content in the context window",
       "path": "6 - Notes/6.a - Claims/To elicit high quality responses from an LLM based on some preexisting content, provide the content in the context window.md"
-    },
-    {
-      "basename": "Private property is a prerequisite for an allocatively efficient economy",
-      "path": "6 - Notes/6.a - Claims/Private property is a prerequisite for an allocatively efficient economy.md"
     }
   ],
   "omittedPaths": [],
