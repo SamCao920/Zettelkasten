@@ -3,7 +3,7 @@ aliases:
 author:
   - John Stuart Mill
 created: 2026-06-10T12:30:19-07:00
-updated: 2026-06-11T12:19:08-07:00
+updated: 2026-06-11T14:03:36-07:00
 tags:
   - philosophy
   - philosophy/Utilitarianism
@@ -30,4 +30,9 @@ One of the foundational works which explicates the theory of utilitarianism.
 - [[All humans are innately good]]
 - [[Law is not constitutive of justice]]
 - [[Justice is an individual’s moral right]]
+- [[A right is something society ought to defend individuals in having]]
 ## References
+- [[A Theory of Justice]]
+	- This book attacks utilitarianism.
+- [[Nicomachean Ethics]]
+	- Presents an alternative theory to utilitarianism.
